@@ -5,14 +5,16 @@ title: ブロックチェーンキャッチアップ
 
 # ブロックチェーンキャッチアップ
 
-ブロックチェーン関連ニュースの日次レポート。RSS自動収集した記事を分類・要約しています。
+ブロックチェーン関連ニュースを毎日収集し、ビジネス視点で深読みしたレポートをまとめています。
 
 ---
 
-## レポート一覧
+## レポート
 
-### 2026年
+{% assign summaries = site.pages | where_exp: "page", "page.path contains 'Summary/'" | where_exp: "page", "page.name != 'index.md'" | sort: "path" | reverse %}
+{% for page in summaries limit:3 %}
+{% assign parts = page.path | split: '/' %}
+- [{{ parts[1] }}.{{ parts[2] }}.{{ page.name | replace: '.md', '' | split: '-' | last }}]({{ page.url | relative_url }})
+{% endfor %}
 
-| 月 | レポート |
-|----|----------|
-| 4月 | [2026-04-03](Summary/2026/04/2026-04-03.md) — 31件（Drift 450億円ハッキング / x402財団設立 / BTC大口降伏売り） |
+[過去のレポートを見る →](./Summary/)

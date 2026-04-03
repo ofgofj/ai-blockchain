@@ -1,24 +1,18 @@
 title: ブロックチェーンキャッチアップ
-description: ブロックチェーン記事の日次レポート
-remote_theme: pages-themes/cayman@v0.2.0
+description: ブロックチェーン関連ニュースの日次レポート
+theme: jekyll-theme-cayman
 plugins:
-  - jekyll-remote-theme
-
-# Summary/ をルートとして扱う
-include:
-  - Summary
-
-# 不要なフォルダを除外
-exclude:
-  - Raw
-  - Master
-  - scripts
-  - .claude
-  - .obsidian
-  - log.md
-
+  - jekyll-optional-front-matter
 defaults:
   - scope:
       path: ""
     values:
       layout: default
+exclude:
+  - Raw/
+  - Master/
+  - scripts/
+  - .obsidian/
+  - .claude/
+  - log.md
+  - screenshot/
