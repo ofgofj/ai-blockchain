@@ -1,6 +1,7 @@
 # ai-blockchain
 
-ブロックチェーン専門のRSS記事収集・分類プロジェクト。プライベートリポジトリ。
+ブロックチェーン専門のRSS記事収集・分類プロジェクト。パブリックリポジトリ。
+GitHub Pages: https://ofgofj.github.io/ai-blockchain/
 
 ## ファイル構成
 
