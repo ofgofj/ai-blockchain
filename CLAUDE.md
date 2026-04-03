@@ -6,7 +6,8 @@
 
 ```
 Raw/                 — RSS取得した記事の入口（GitHub Actionsで毎朝自動収集）
-Summary/             — 記事生成の出力先
+Summary/             — レポート出力先（年度/月/日付ファイル）
+  YYYY/MM/YYYY-MM-DD.md
 Master/              — トピック別に分類保管（処理済みアーカイブ兼用）
 scripts/
   rss_collect.py     — ブロックチェーンRSS収集スクリプト
