@@ -1,0 +1,5 @@
+logs/
+.claude/
+.obsidian/
+scripts/
+node_modules/
