@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
+          ref: master
           token: ${{ github.token }}
 
       - uses: actions/setup-python@v5
@@ -35,5 +35,5 @@ jobs:
           else
             ARTICLE_COUNT=$(find Raw -name "*.md" ! -name "index.md" | wc -l)
             git commit -m "RSS自動収集 $(TZ=Asia/Tokyo date +%Y-%m-%d): ${ARTICLE_COUNT}件"
-            git push origin main
+            git push origin master
           fi
