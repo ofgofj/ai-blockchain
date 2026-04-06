@@ -1,103 +1,72 @@
-# ブロックチェーンRSS収集 2026-04-06
+# ブロックチェーンRSS収集 2026-04-07
 
-収集日時: 2026-04-06 17:59 JST
-
----
-
-### 【開催報告】JBA Blockchain Hackathon 2026
-- URL: https://jba-web.jp/news/24762?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590%25e9%2596%258b%25e5%2582%25ac%25e5%25a0%25b1%25e5%2591%258a%25e3%2580%2591jba-blockchain-hackathon-2026
-- 概要: 一般社団法人日本ブロックチェーン協会（JBA）は、2026年3月、「JBA Blockchain Hackathon 2026」を開催しました。 本ハッカソンは、次世代のブロックチェーンエンジニアの育成とコミュニティ形成 [&#8230;]
-The post 【開催報告】JBA Blockchain Hackathon 2026 first appeared on JBA | 一般社団法人 日本ブ
-
-### ドリフトのハッキング、半年にわたる接触と署名蓄積型の攻撃か。不正流出の経緯明らかに
-- URL: https://www.neweconomy.jp/posts/562913
-- 概要: ソーシャルエンジニアリングによる攻撃の可能性 ソラナ（Solana）上でデリバティブ取引などを提供する分散型取引所（DEX）「ドリフト（Drift Protocol）」が日本時間4月2日に発生したインシデントについて、そ [&#8230;]
-
-### 実店舗でのUSDC決済実証の第2弾、ネットスターズが兵庫県姫路市のトレカ専門店で
-- URL: https://www.neweconomy.jp/posts/562907
-- 概要: ネットスターズがUSDC決済実証の第二弾 米ドル建てステーブルコイン「USDC」を、トレーディングカード専門店における支払い手段として導入するサービス実証が4月2日より開始した。決済ゲートウェイサービス「StarPay」 [&#8230;]
-
-### 米政府、予測市場規制めぐり3州を提訴。州の賭博法適用に反発
-- URL: https://www.neweconomy.jp/posts/562899
-- 概要: 予測市場規制めぐり米3州が提訴 ドナルド・トランプ（Donald Trump）米政権が、予測市場に対する州法上の賭博規制の適用は違法だとして、アリゾナ州、コネティカット州、イリノイ州を4月2日に提訴した。 政府は、カルシ [&#8230;]
-
-### 金融庁、暗号資産交換業者のサイバーセキュリティ強化方針を策定
-- URL: https://www.neweconomy.jp/posts/562881
-- 概要: パブコメ結果を反映、実務レベルの対応を具体化 金融庁が、「暗号資産（仮想通貨）交換業等におけるサイバーセキュリティ強化に向けた取組方針」に関するパブリックコメントの結果を4月3日に公表し、同方針を正式に策定した。 同方針 [&#8230;]
-
-### フランクリン・テンプルトン、コインファンド分離の250デジタル買収へ。デジタル資産事業を拡大
-- URL: https://www.neweconomy.jp/posts/562868
-- 概要: フランクリン・テンプルトンが250デジタル買収へ 資産運用会社フランクリン・テンプルトン（Franklin Templeton）が、ベンチャー投資会社コインファンド（CoinFund）からスピンアウトした暗号資産投資部門 [&#8230;]
-
-### バイナンスジャパン、法人向けDATサポート開始
-- URL: https://www.neweconomy.jp/posts/562857
-- 概要: バイナンスジャパンが法人向けDATサポート開始 国内暗号資産（仮想通貨）取引所バイナンスジャパン（Binance Japan）が、法人向けDAT（暗号資産トレジャリー）サポートを提供開始した。同取引所公式Xより4月6日に [&#8230;]
-
-### 暗号資産を主資産とする企業、TOPIX採用見送りへ。JPX総研が方針
-- URL: https://www.neweconomy.jp/posts/562851
-- 概要: 特別注意銘柄の扱い見直しなど指数ルール改定案を公表 日本取引所グループ（JPX）傘下で株価指数の算出などを担うJPX総研が、「特別注意銘柄等の取扱いについて」とする指数ルールの見直し案を4月3日に公表した。 今回の見直し [&#8230;]
-
-### テレグラム内ウォレット、パーペチュアル取引機能を提供開始
-- URL: https://www.neweconomy.jp/posts/562842
-- 概要: Telegram内でパーペチュアル取引が可能に テレグラム（Telegram）上で提供される暗号資産（仮想通貨）ウォレット機能「ウォレット・イン・テレグラム（Wallet in Telegram）」内でパーペチュアル（無 [&#8230;]
-
-### ポリマーケット、「ラリーガ」の米国・カナダの公式・独占予測市場パートナーに
-- URL: https://www.neweconomy.jp/posts/562818
-- 概要: PolymarketがLALIGAの公式パートナーに 予測市場プラットフォーム提供「ポリマーケット（Polymarket）」が、スペインのサッカーリーグ「ラリーガ（LALIGA）」の北米事業を担うラリーガ・ノース・アメリ [&#8230;]
-
-### KBRA、リップル・プライム関連2社に発行体格付け「BBB」付与
-- URL: https://www.neweconomy.jp/posts/562803
-- 概要: KBRAがRipple Prime関連2社にBBB付与 米信用格付け会社KBRAが、リップルが展開するマルチアセット型プライムブローカレッジ「リップル・プライム（Ripple Prime）」関連2社に、発行体格付け「BB [&#8230;]
-
-### ビットコイン「永久保有」に亀裂？企業が債務返済でBTC売却加速
-- URL: https://crypto-times.jp/news-companies-accelerate-btc-sales-to-repay-debt/
-- 概要: ビットコイン（BTC）を戦略的な予備資産として保有する企業の動向に変化が生じています。これまで「永久保有」を掲げてきた上場企業の間で債務返済や資金繰りを目的とした売却が相次いでおり、強固だった機関投資家の保有シナリオに亀 [&#8230;]
-投稿 ビットコイン「永久保有」に亀裂？企業が債務返済でBTC売却加速 は CRYPTO TIMES に最初に表示されました。
-
-### Driftの2.8億ドル流出、北朝鮮系ハッカーによる半年間の工作か
-- URL: https://crypto-times.jp/news-drifts-280-million-theft-a-six-month-operation-by-north-korean-hackers-suspected/
-- 概要: ソラナ基盤の大手分散型取引所（DEX）であるDrift Protocolは、先日発生した約2億8,500万ドルの不正流出に関する調査結果を公表しました。報告書によると、今回の事件は単発の脆弱性を突いたものではなく約半年に [&#8230;]
-投稿 Driftの2.8億ドル流出、北朝鮮系ハッカーによる半年間の工作か は CRYPTO TIMES に最初に表示されました。
-
-### ビットコイン上昇で2週間に6回清算、著名投資家が空売りで多額損失
-- URL: https://crypto-times.jp/news-prominent-investor-suffers-massive-losses-from-short-selling/
-- 概要: ビットコイン（BTC）価格が上昇基調を強めるなか、オンチェーンデータから特定の投資家が多額の損失を抱えている実態が明らかになりました。 James Wynn(@JamesWynnReal) has been liquid [&#8230;]
-投稿 ビットコイン上昇で2週間に6回清算、著名投資家が空売りで多額損失 は CRYPTO TIMES に最初に表示されました。
-
-### サークル社のUSDC凍結権限に波紋、不透明な基準に批判噴出
-- URL: https://crypto-times.jp/news-circle-inc-s-authority-to-freeze-usdc-funds-sparks-controversy/
-- 概要: ドル連動ステーブルコインUSDCを発行するサークル（Circle）社が、その強力な資産凍結権限の運用を巡り、厳しい批判にさらされています。 1/ Welcome to the Circle $USDC files. $4 [&#8230;]
-投稿 サークル社のUSDC凍結権限に波紋、不透明な基準に批判噴出 は CRYPTO TIMES に最初に表示されました。
-
-### 米雇用統計が予想を大幅超過、ビットコイン価格への影響は？
-- URL: https://crypto-times.jp/news-what-impact-will-the-us-employment-statistics-have-on-the-price-of-bitcoin/
-- 概要: 米労働省が発表した3月の雇用統計は非農業部門雇用者数が17万8000人増となり、市場予想の6万人を大幅に上回りました。失業率は4.3%に低下し労働市場の力強さが強調されています。米10年債利回りは4.35%に上昇し、ドル [&#8230;]
-投稿 米雇用統計が予想を大幅超過、ビットコイン価格への影響は？ は CRYPTO TIMES に最初に表示されました。
-
-### 量子計算機が2030年に暗号解読？サークル社が耐性計画を公開
-- URL: https://crypto-times.jp/news-circle-inc-unveils-quantum-resistance-plan/
-- 概要: 米サークル社は同社が開発するレイヤー1（L1）ブロックチェーン「Arc」において、量子コンピュータの脅威に対抗するための包括的なロードマップを発表しました。この計画はウォレット、プライベートステート、バリデータ、インフラ [&#8230;]
-投稿 量子計算機が2030年に暗号解読？サークル社が耐性計画を公開 は CRYPTO TIMES に最初に表示されました。
-
-### 【今日のマクロ経済ニュース】米雇用統計強結果とイラン情勢緊迫で市場神経質
-- URL: https://crypto-times.jp/news-todays-macroeconomic-news-for-april-6th/
-- 概要: 4月6日現在、米3月雇用統計が市場予想を大幅に上回る強い内容となったことで年内の利下げ観測がほぼ完全に後退しました。トランプ大統領はイランに対しホルムズ海峡解放を事実上の期限付きで迫り、エネルギー施設攻撃の可能性を示唆し [&#8230;]
-投稿 【今日のマクロ経済ニュース】米雇用統計強結果とイラン情勢緊迫で市場神経質 は CRYPTO TIMES に最初に表示されました。
-
-### 【今週のメタプラネットまとめ】株主用ラウンジを東京に開設。株価300円の壁守れず
-- URL: https://crypto-times.jp/news-metaplanet-summary-for-this-week-april-5th/
-- 概要: 今週のメタプラネットは、企業の財務戦略と市場評価の狭間で投資家の注目を集める複数の大きな動きがありました。 ビットコインの追加購入により保有量で世界の上場企業トップ3に躍り出るという歴史的な好材料が発表された一方で、ビッ [&#8230;]
-投稿 【今週のメタプラネットまとめ】株主用ラウンジを東京に開設。株価300円の壁守れず は CRYPTO TIMES に最初に表示されました。
-
-### 【今週のJPYCまとめ】エルサルバドルで決済利用。3月レポート公開
-- URL: https://crypto-times.jp/news-jpyc-summary-for-this-week-april-5th/
-- 概要: 今週のJPYC株式会社は、国内外での社会実装に向けたマイルストーンとなる複数の大きな動きがありました。 エルサルバドルでの決済利用が報告された他、代表の岡部氏が韓国の主要フォーラムに登壇するなど東アジア圏でのプレゼンス向 [&#8230;]
-投稿 【今週のJPYCまとめ】エルサルバドルで決済利用。3月レポート公開 は CRYPTO TIMES に最初に表示されました。
-
-### 【今週のリップルまとめ】金や原油の先物取引を提供へ。銀行向けに「秘匿送金」導入
-- URL: https://crypto-times.jp/news-this-weeks-ripple-summary-april-5th/
-- 概要: 今週のリップルは、エコシステムの拡大と金融機関の実装に向けた複数の大きな動きがありました。 「Ripple Prime」とHyperliquidの統合拡大により、伝統的資産のオンチェーン取引が加速するという好材料が発表さ [&#8230;]
-投稿 【今週のリップルまとめ】金や原油の先物取引を提供へ。銀行向けに「秘匿送金」導入 は CRYPTO TIMES に最初に表示されました。
+収集日時: 2026-04-07 06:38 JST
 
 ---
-合計: 21 件
+
+### 【4/6話題】バイナンスJPが法人向けDATサポート開始、暗号資産を主資産とする企業のTOPIX採用見送りへ、ドリフトの不正流出の経緯明らかになど（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/562921
+- 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
+
+### 予測市場は賭博か？米政府が3州を提訴、連邦管轄を主張
+- URL: https://crypto-times.jp/news-the-us-government-has-sued-three-states-claiming-federal-jurisdiction/
+- 概要: 米司法省（DOJ）と商品先物取引委員会（CFTC）は、予測市場を州独自の規制から保護するためイリノイ州、アリゾナ州、コネチカット州の3州を共同で提訴しました。トランプ政権はKalshiやPolymarketといったプラッ [&#8230;]
+投稿 予測市場は賭博か？米政府が3州を提訴、連邦管轄を主張 は CRYPTO TIMES に最初に表示されました。
+
+### 人口の6分の1が利用？通貨崩壊のイランでBTCが「生命線」に
+- URL: https://crypto-times.jp/news-bitcoin-becomes-a-lifeline-in-iran-where-the-currency-is-collapsing/
+- 概要: 経済危機に直面するイランにおいて、人口の約6分の1にあたる1400万人がビットコインを利用していることが明らかになりました。年間取引量は前年比11.8%増と成長を続けており、現在ではイランのGDPの約2.2%を占める規模 [&#8230;]
+投稿 人口の6分の1が利用？通貨崩壊のイランでBTCが「生命線」に は CRYPTO TIMES に最初に表示されました。
+
+### Chainalysis、AIツールを発表｜コンプライアンス業務支援へ
+- URL: https://crypto-times.jp/news-chainalysis-announces-ai-tools/
+- 概要: ニューヨークで開催された「Chainalysis Links 2026」にて、Chainalysisは仮想通貨が地政学的およびマクロ経済的な主要勢力へと完全に移行したことを宣言しました。 共同創設者のジョナサン・レビン氏 [&#8230;]
+投稿 Chainalysis、AIツールを発表｜コンプライアンス業務支援へ は CRYPTO TIMES に最初に表示されました。
+
+### DAOメンバーを個人責任から守る「DUNA」とは？米3州で施行の法的枠組み
+- URL: https://crypto-times.jp/news-what-is-duna-which-protects-dao-members-from-personal-responsibility/
+- 概要: 米国のワイオミング州、バーモント州、テネシー州で、DAO（分散型自律組織）に法的地位を与える新しい枠組み「DUNA（Decentralized Unincorporated Nonprofit Association：分 [&#8230;]
+投稿 DAOメンバーを個人責任から守る「DUNA」とは？米3州で施行の法的枠組み は CRYPTO TIMES に最初に表示されました。
+
+### ソラナに32.5億ドルのUSDC流入｜2026年最大の発行
+- URL: https://crypto-times.jp/news-solana-receives-3-25-billion-usdc-inflow/
+- 概要: ステーブルコイン発行大手の米サークル社が、ソラナブロックチェーン上で過去7日間に約32億5,000万ドルのUSDCを新規発行したことが明らかになりました。これは2026年における週間ベースでのステーブルコイン発行額として [&#8230;]
+投稿 ソラナに32.5億ドルのUSDC流入｜2026年最大の発行 は CRYPTO TIMES に最初に表示されました。
+
+### dYdXがJASMYなど12市場を閉鎖へ、ガバナンス投票で91%賛成
+- URL: https://crypto-times.jp/news-dydx-to-close-12-markets-including-jasmy/
+- 概要: 分散型デリバティブ取引所（DEX）の大手であるdYdXにおいて、特定の12銘柄の市場を閉鎖するガバナンス提案「Proposal 374」が可決されました。 ブロックチェーンエクスプローラー「Mintscan」の公開データ [&#8230;]
+投稿 dYdXがJASMYなど12市場を閉鎖へ、ガバナンス投票で91%賛成 は CRYPTO TIMES に最初に表示されました。
+
+### バイナンス、金連動XAUTの流動性強化へ｜対象ペアも40へ倍増
+- URL: https://crypto-times.jp/news-binance-to-strengthen-liquidity-of-gold-linked-xaut/
+- 概要: 大手暗号資産取引所バイナンスは4月6日午前0時（UTC）より、「現物アルトコイン流動性強化プログラム（Spot Altcoin Liquidity Enhancement Program）」の対象範囲を大幅に拡大すること [&#8230;]
+投稿 バイナンス、金連動XAUTの流動性強化へ｜対象ペアも40へ倍増 は CRYPTO TIMES に最初に表示されました。
+
+### SOLやTAOなど1.9億ドル相当のトークン放出へ、売り圧力に警戒？
+- URL: https://crypto-times.jp/news-sol-tao-and-other-tokens-worth-190-million-to-be-released/
+- 概要: 仮想通貨データ分析プラットフォームのTokenomistのデータによると、今後7日間で合計1億9,000万ドルを超える規模のトークンアンロックが予定されています。 1回限りの大規模なアンロック（クリフ・アンロック）として [&#8230;]
+投稿 SOLやTAOなど1.9億ドル相当のトークン放出へ、売り圧力に警戒？ は CRYPTO TIMES に最初に表示されました。
+
+### 【今日の仮想通貨ニュース】財務企業によるBTC売却加速。2035年にBTC100万ドル？
+- URL: https://crypto-times.jp/news-cryptocurrency-news-for-today-april-6th/
+- 概要: 4月6日、ビットコイン（BTC）の価格は69,880ドル前後で推移しており、イーサリアム（ETH）は約2,150ドル、ソラナ（SOL）は約82ドルで取引されています。世界の暗号資産時価総額は2.47兆ドルで、ビットコイン [&#8230;]
+投稿 【今日の仮想通貨ニュース】財務企業によるBTC売却加速。2035年にBTC100万ドル？ は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン100万ドルは必然？Bitwise幹部が示す2035年の予測
+- URL: https://crypto-times.jp/news-is-a-1-million-bitcoin-price-inevitable/
+- 概要: 米暗号資産運用会社Bitwise（ビットワイズ）のCIO（最高投資責任者）であるマット・ホーガン氏は、ビットコイン（BTC）の価格が100万ドルに達することは「控えめな目標」であるとの見解を示しました。 ホーガン氏が提唱 [&#8230;]
+投稿 ビットコイン100万ドルは必然？Bitwise幹部が示す2035年の予測 は CRYPTO TIMES に最初に表示されました。
+
+### ETH空売りで2000万ドル勝負の大口、上昇で33万ドルの含み損
+- URL: https://crypto-times.jp/news-a-major-investor-makes-a-20-million-bet-by-shorting-eth/
+- 概要: イーサリアム（ETH）の価格が2,100ドルを突破し上昇基調を強める中、分散型取引所（DEX）のHyperliquidにおいて巨額の空売り（ショート）ポジションを構築した大口トレーダーが苦境に立たされています。 ETH  [&#8230;]
+投稿 ETH空売りで2000万ドル勝負の大口、上昇で33万ドルの含み損 は CRYPTO TIMES に最初に表示されました。
+
+### イーサリアムなど39億円分を売却か、著名トレーダーの大口取引が判明
+- URL: https://crypto-times.jp/news-it-appears-he-sold-3-9-billion-yen-worth-of-ethereum-and-other-assets/
+- 概要: オンチェーン分析プラットフォームのLookonchainは、とある大口トレーダーが11,409 ETH（約2,347万ドル相当）と13,150 AAVE（約121万ドル相当）を売却したことを報告しました。（合計39億円相 [&#8230;]
+投稿 イーサリアムなど39億円分を売却か、著名トレーダーの大口取引が判明 は CRYPTO TIMES に最初に表示されました。
+
+---
+合計: 13 件
