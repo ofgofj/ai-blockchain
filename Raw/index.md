@@ -1,153 +1,149 @@
-# ブロックチェーンRSS収集 2026-04-08
+# ブロックチェーンRSS収集 2026-04-09
 
-収集日時: 2026-04-08 06:41 JST
+収集日時: 2026-04-09 06:41 JST
 
 ---
 
-### 【開催報告】JBA Blockchain Hackathon 2026
-- URL: https://jba-web.jp/news/24762?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590%25e9%2596%258b%25e5%2582%25ac%25e5%25a0%25b1%25e5%2591%258a%25e3%2580%2591jba-blockchain-hackathon-2026
-- 概要: 一般社団法人日本ブロックチェーン協会（JBA）は、2026年3月、「JBA Blockchain Hackathon 2026」を開催しました。 本ハッカソンは、次世代のブロックチェーンエンジニアの育成とコミュニティ形成 [&#8230;]
-The post 【開催報告】JBA Blockchain Hackathon 2026 first appeared on JBA | 一般社団法人 日本ブ
+### 【4月23日開催】AI エージェント時代の決済は本当にブロックチェーンなのか ～マイクロペイメント／M2Mの「期待と現実」～
+- URL: https://jba-web.jp/news/24775?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%25904%25e6%259c%258823%25e6%2597%25a5%25e9%2596%258b%25e5%2582%25ac%25e3%2580%2591ai-%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%2599%2582%25e4%25bb%25a3%25e3%2581%25ae%25e6%25b1%25ba%25e6%25b8%2588%25e3%2581%25af%25e6%259c%25ac%25e5%25bd%2593%25e3%2581%25ab
+- 概要: AI の進展により、自律的にタスクを実行する AI エージェントの活用が現実味を帯びる中、決済領域においても「AI エージェントによる自動決済」や「マイクロペイメント」「M2M(Machine to Machine)決済 [&#8230;]
+The post 【4月23日開催】AI エージェント時代の決済は本当にブロックチェーンなのか ～マイクロペイメント／M2Mの「期待と現実」～ first a
 
-### 【4/7話題】アーベDAOからカオスラボが離脱へ、ポリマーケットの取引基盤が全面刷新へ、楽天ウォレットに5銘柄上場へなど（音声ニュース）
-- URL: https://www.neweconomy.jp/posts/563320
+### 【4/8話題】米FDICがGENIUS法に基づくステーブルコイン規制の提案規則を承認、Stabbleが指摘を受けユーザーへ流動性引き出しを案内（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/563712
 - 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
 
-### ソラナ財団、エコシステム全体のセキュリティ体制を強化。STRIDEとSIRN導入
-- URL: https://www.neweconomy.jp/posts/563323
-- 概要: 評価・監視・インシデント対応を制度化 ソラナ（Solana）の開発を支援するソラナ財団（Solana Foundation）が、エコシステム全体のセキュリティ基準を引き上げる新たな施策を4月7日に発表した。 同施策では、 [&#8230;]
+### 【取材】ネットスターズ、Web3金融のゲートウェイ構想「StarPay‑X」発表、6社と連携へ
+- URL: https://www.neweconomy.jp/posts/563573
+- 概要: ネットスターズがStarPay‑X発表 決済ゲートウェイサービス「StarPay」提供のネットスターズが、Web2とWeb3の金融世界をつなぐゲートウェイ構想「StarPay‑X（スターペイエックス）」を4月8日に発表し [&#8230;]
 
-### ビットマイン、イーサリアム総保有数が全供給量の3.98%に、NYSEに上場市場変更へ
-- URL: https://www.neweconomy.jp/posts/563299
-- 概要: BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を4月6日 [&#8230;]
+### ソラナDEX「Stabble」、指摘を受けユーザーへ流動性引き出しを案内。北朝鮮系IT人材関与の可能性
+- URL: https://www.neweconomy.jp/posts/563565
+- 概要: スタブルがZachXBTの指摘受け安全確保へ ソラナ（Solana）基盤の分散型取引所（DEX）「スタブル（Stabble）」が、ユーザーに対し一時的に流動性を引き出すよう呼びかけた。4月7日に同プロジェクトの公式Xアカ [&#8230;]
 
-### ポリマーケット、取引基盤を全面刷新へ。新担保トークン「Polymarket USD」導入も
-- URL: https://www.neweconomy.jp/posts/563292
-- 概要: ポリマーケット、取引基盤を全面刷新へ 予測市場「ポリマーケット（Polymarket）」による、取引処理の高速化やガスコスト削減などを目的とした取引基盤の大規模アップグレードの実施計画が4月7日に発表された。今回の変更に [&#8230;]
+### ミレイ大統領、暗号資産「LIBRA」巡り疑惑。関与否定も通話記録など浮上
+- URL: https://www.neweconomy.jp/posts/563557
+- 概要: 通話記録など新疑惑 アルゼンチンのハビエル・ミレイ（Javier Milei）大統領が、暗号資産（仮想通貨）プロジェクト「リブラ（LIBRA）」をめぐるスキャンダルにより、深刻な政治的危機に直面しているようだ。「ニューヨ [&#8230;]
 
-### 米控訴裁、カルシのスポーツ関連イベント契約はCFTC専管と判断。ニュージャージー州の規制認めず
-- URL: https://www.neweconomy.jp/posts/563285
-- 概要: カルシのスポーツ関連イベント契約はCFTC専管と判断 米連邦控訴裁判所は4月6日、予測市場を運営するカルシ（Kalshi）について、ニュージャージー州の利用者に対しスポーツイベントの結果に連動する金銭的取引を提供すること [&#8230;]
+### 米FDIC、GENIUS法に基づくステーブルコイン規制の提案規則を承認
+- URL: https://www.neweconomy.jp/posts/563542
+- 概要: ステーブルコインの法的規制整備進む 米連邦預金保険公社（FDIC）が、「ジーニアス法（GENIUS ACT）」に基づくペイメントステーブルコイン向け包括規制の提案規則（Notice of Proposed Rulemak [&#8230;]
 
-### サークル、新L1「Arc」の量子耐性ロードマップ公開、段階的移行へ
-- URL: https://www.neweconomy.jp/posts/563277
-- 概要: ウォレットからインフラまで段階的に対応 米サークル（Circle）が、新たなレイヤー1ブロックチェーン「アーク（Arc）」における量子耐性（ポスト量子）対応のロードマップを4月2日に公開した。 アークは、サークルが開発を [&#8230;]
+### ビットコイン個人マイナー、約2.8万分の1の確率でブロック生成成功。約3.1BTC獲得
+- URL: https://www.neweconomy.jp/posts/563527
+- 概要: 大規模化が進むマイニングでソロ成功事例 ビットコイン（Bitcoin）のソロマイニングプール「ソロCK（Solo CKPool）」に参加する個人マイナーが、ブロック生成に成功した。同プールの開発者であるコン・コリヴァス（ [&#8230;]
 
-### 中国当局、ブロックチェーンなど活用し銀行・税務データ連携を拡充
-- URL: https://www.neweconomy.jp/posts/563268
-- 概要: 納税信用が融資の鍵に 中国の国家税務総局と国家金融監督管理総局が、「銀税互動（銀行・税務連携）」のさらなる深化と規範化に関する共同通知を3月27日に発表した。同通知では、ブロックチェーンなどの新技術活用も奨励している。  [&#8230;]
+### ポリゴン、「Giugliano」アップグレードを4/8実施へ
+- URL: https://www.neweconomy.jp/posts/563519
+- 概要: ファイナリティ高速化、決済・RWA用途拡大へ 独立したコンセンサスを持つサイドチェーン「ポリゴンPoS（Polygon PoS）」が「ジュリアーノ・アップグレード（Giugliano Upgrade）」を4月8日に実施す [&#8230;]
 
-### 楽天ウォレットに暗号資産5銘柄が同時上場へ
-- URL: https://www.neweconomy.jp/posts/563259
-- 概要: 楽天ウォレットに5銘柄同時上場へ 国内暗号資産（仮想通貨）交換業者の楽天ウォレットが、5銘柄の暗号資産を同時に新規取扱開始すると4月7日に発表した。 対象となる暗号資産は、エックスアールピー（XRP）、ドージコイン（DO [&#8230;]
+### 米CMEグループ、アバランチ（AVAX）とスイ（SUI）の先物取引を5/4提供へ
+- URL: https://www.neweconomy.jp/posts/563511
+- 概要: CMEがAVAXとSUIの先物提供へ 金融・商品デリバティブ取引市場運営の米CMEグループ（CME Group）が、暗号資産（仮想通貨）アバランチ（AVAX）、スイ（SUI）の2銘柄を対象とする先物取引を5月4日に提供開 [&#8230;]
 
-### アーベDAOのリスク管理担当カオスラボが離脱、V4移行に伴う方針の違いで
-- URL: https://www.neweconomy.jp/posts/563250
-- 概要: カオスラボがアーベDAOからの離脱を表明 分散型金融（DeFi）プロトコル「アーベ（Aave）」のリスク管理を担ってきたカオスラボ（Chaos Labs）が、アーベDAO（Aave DAO）における業務から離脱する。同社 [&#8230;]
+### SBIリップルアジア、XRPL活用のトークン発行基盤を開発。「前払式支払手段発行者」登録も完了
+- URL: https://www.neweconomy.jp/posts/563499
+- 概要: SBIリップルアジアがXRPL活用のトークン発行基盤を開発 SBIリップルアジア（SBI Ripple Asia）が、パブリックブロックチェーン「XRPレジャー（XRP Ledger：XRPL）」活用のトークン発行基盤シ [&#8230;]
 
-### 中国、ジャックドーシーのオフライン通信アプリ「bitchat」をApp Storeから削除
-- URL: https://www.neweconomy.jp/posts/563243
-- 概要: CACが違反認定 米決済企業のブロック（Block）社を率いるジャック・ドーシー（Jack Dorsey）氏が、分散型P2P（ピアツーピア）メッセージングアプリ「ビットチャット（bitchat）」が中国のアップル（App [&#8230;]
+### メタプラネット、株価317円で6.7%反発｜底打ちか、戻り売りの入口か
+- URL: https://crypto-times.jp/news-metaplanet-4-8/
+- 概要: メタプラネット（3350）は本日317円で取引を終え、前日比+20円（+6.73%）の反発となりました。始値313円、高値320円、安値311円と、寄り付きから買い優勢の展開が続いた一日です。 日足チャートを見るとメタプ [&#8230;]
+投稿 メタプラネット、株価317円で6.7%反発｜底打ちか、戻り売りの入口か は CRYPTO TIMES に最初に表示されました。
 
-### BitradeX、エコシステム戦略のアップグレードを完了：BitradeX Capital を発表し、エコシステム権益トークン BXC を発行
-- URL: https://crypto-times.jp/press-bitradex/
-- 概要: Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 4月4日、プレスリリース — グローバルにコンプライアンスを重視した暗 [&#8230;]
-投稿 BitradeX、エコシステム戦略のアップグレードを完了：BitradeX Capital を発表し、エコシステム権益トークン BXC を発行 は CR
+### 総額5,000万円相当のエアドロップ、最大20万円が手に入る。CryptoPawn「限界突破 8 Missions」始動
+- URL: https://crypto-times.jp/press-cryptopawn-8-missions/
+- 概要: Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 CryptoPawnは、BitHills Inc.が運営する暗号資産担 [&#8230;]
+投稿 総額5,000万円相当のエアドロップ、最大20万円が手に入る。CryptoPawn「限界突破 8 Missions」始動 は CRYPTO TIMES 
 
-### 仮想通貨に絶好の「買い場」到来？米運用大手が注目する強気サイン
-- URL: https://crypto-times.jp/news-is-now-the-perfect-time-to-buy-cryptocurrency/
-- 概要: 米仮想通貨運用大手グレースケール（Grayscale）のリサーチ責任者ザック・パンドル氏は、主要なアルトコインが最近見せている底堅い動きに基づき仮想通貨市場に「魅力的なエントリーポイント（買い場）」が形成されつつあるとの [&#8230;]
-投稿 仮想通貨に絶好の「買い場」到来？米運用大手が注目する強気サイン は CRYPTO TIMES に最初に表示されました。
+### AIが「物乞い」に仮想通貨を送った日 ─ 自律運用の盲点
+- URL: https://crypto-times.jp/news-the-drawbacks-of-ai-agents-in-cryptocurrency/
+- 概要: あるAIエージェントが、見知らぬ「物乞い」を名乗るアカウントに大量の仮想通貨を送ってしまった──。にわかには信じがたいこの出来事はSNS上の作り話ではありません。米投資会社Galaxyのリサーチ部門が公表したレポートの中 [&#8230;]
+投稿 AIが「物乞い」に仮想通貨を送った日 ─ 自律運用の盲点 は CRYPTO TIMES に最初に表示されました。
 
-### 2.8万分の1の奇跡、個人がBTCマイニングで21万ドル相当の報酬獲得
-- URL: https://crypto-times.jp/news-individual-earns-210000-worth-of-rewards-from-btc-mining/
-- 概要: ビットコイン（BTC）ネットワークにおいて個人のソロマイナーがブロックの承認に成功し、約21万ドル相当の報酬を獲得するという「宝くじ」を引き当てたような出来事が発生しました。 Congratulations to min [&#8230;]
-投稿 2.8万分の1の奇跡、個人がBTCマイニングで21万ドル相当の報酬獲得 は CRYPTO TIMES に最初に表示されました。
+### お好み焼の千房、JPYC決済を導入｜手数料無料の実証実験開始
+- URL: https://crypto-times.jp/news-chibo-an-okonomiyaki-restaurant-now-accepts-jpyc-payments/
+- 概要: 株式会社ハッシュポート（HashPort）は同社が提供する手数料無料の決済サービス「HashPort Wallet for Biz」を活用し、お好み焼専門店を運営する千房株式会社の店舗にて、ステーブルコイン決済の実証実験 [&#8230;]
+投稿 お好み焼の千房、JPYC決済を導入｜手数料無料の実証実験開始 は CRYPTO TIMES に最初に表示されました。
 
-### ビットコインが1万ドルへ逆戻り？専門家が警告する26年の危機とは
-- URL: https://crypto-times.jp/news-bitcoin-to-plummet-to-10000/
-- 概要: ブルームバーグ・インテリジェンスのシニア・マクロストラテジストであるマイク・マクグローン（Mike McGlone）氏はビットコイン（BTC）は2026年に1万ドル付近まで価格を戻す可能性があると指摘しました。 2020 [&#8230;]
-投稿 ビットコインが1万ドルへ逆戻り？専門家が警告する26年の危機とは は CRYPTO TIMES に最初に表示されました。
+### 仮想通貨アプリが相次ぎ閉鎖、現物ETFとステーブルコインへ流出
+- URL: https://crypto-times.jp/news-cryptocurrency-apps-are-shutting-down-one-after-another/
+- 概要: 仮想通貨業界において、既存のアプリケーションやプロジェクトが相次いで閉鎖に追い込まれる「淘汰の波」が押し寄せています。 ルートデータ（RootData）のアーカイブによると、2026年第1四半期だけで86件のプロジェクト [&#8230;]
+投稿 仮想通貨アプリが相次ぎ閉鎖、現物ETFとステーブルコインへ流出 は CRYPTO TIMES に最初に表示されました。
 
-### ステーブルコインは通貨じゃない？IMFが指摘する「MMF化」のリスク
-- URL: https://crypto-times.jp/news-the-risks-of-money-market-fund-conversion-pointed-out-by-the-imf/
-- 概要: 国際通貨基金（IMF）は金融のトークン化とステーブルコインの普及が、将来的な金融危機を増幅させる可能性があると警告しました。 IMFは最新の報告書の中で、トークン化を金融システムにおける「信頼の構造的な再配置」と定義して [&#8230;]
-投稿 ステーブルコインは通貨じゃない？IMFが指摘する「MMF化」のリスク は CRYPTO TIMES に最初に表示されました。
+### 2025年の仮想通貨詐欺被害は114億ドル、前年比22％増｜FBI資料
+- URL: https://crypto-times.jp/news-cryptocurrency-fraud-losses-are-projected-to-reach-11-4-billion-by-2025/
+- 概要: 米連邦捜査局（FBI）が発表した「2025年インターネット犯罪レポート」により、2025年における仮想通貨関連の詐欺被害額が114億ドルに達したことが明らかになりました。これは前年比で22％の増加となります。 報告書によ [&#8230;]
+投稿 2025年の仮想通貨詐欺被害は114億ドル、前年比22％増｜FBI資料 は CRYPTO TIMES に最初に表示されました。
 
-### 仮想通貨ユーザー5億人突破、インド1億人超で米国を圧倒する勢い
-- URL: https://crypto-times.jp/news-cryptocurrency-users-surpass-500-million/
-- 概要: 世界全体で仮想通貨ユーザーが5億人を突破し、デジタル資産はもはや一部の愛好家による実験ではなくグローバルな金融システムの一部となりました。 Arkham Intelligenceの最新レポートは、「普及」「イノベーション [&#8230;]
-投稿 仮想通貨ユーザー5億人突破、インド1億人超で米国を圧倒する勢い は CRYPTO TIMES に最初に表示されました。
+### 【今日の仮想通貨ニュース】米国民の5人に1人が仮想通貨を経験。BTCアクティブアドレスが低水準
+- URL: https://crypto-times.jp/news-cryptocurrency-news-for-today-april-8th/
+- 概要: 4月8日、ビットコイン（BTC）の価格は71,770ドル前後で推移しており、イーサリアム（ETH）は約2,250ドル、ソラナ（SOL）は約84ドルで取引されています。世界の暗号資産時価総額は2.53兆ドルで、ビットコイン [&#8230;]
+投稿 【今日の仮想通貨ニュース】米国民の5人に1人が仮想通貨を経験。BTCアクティブアドレスが低水準 は CRYPTO TIMES に最初に表示されました。
 
-### なぜ韓国でステーブルコインが普及？機関投資家を繋ぐ新レイヤー
-- URL: https://crypto-times.jp/news-why-are-stablecoins-becoming-popular-in-south-korea/
-- 概要: 2025年以降、ステーブルコインを取り巻く環境は構造的な転換期を迎えています。これまでオンチェーン取引の基軸通貨や流動性供給の手段として機能してきたステーブルコインですが、韓国市場においては法整備の枠組みを超え実社会での [&#8230;]
-投稿 なぜ韓国でステーブルコインが普及？機関投資家を繋ぐ新レイヤー は CRYPTO TIMES に最初に表示されました。
+### 2年沈黙のマイナーが1800万ドル相当のBTC売却、売り圧への影響は？
+- URL: https://crypto-times.jp/news-miner-who-was-silent-for-two-years-sells-18-million-worth-of-btc/
+- 概要: オンチェーンデータ分析プラットフォームの報告によると、長期間活動を休止していたマイナーのウォレットから大量のビットコイン（BTC）が売却されたことが明らかになりました。 Miner 3PFNdg sold 265.19  [&#8230;]
+投稿 2年沈黙のマイナーが1800万ドル相当のBTC売却、売り圧への影響は？ は CRYPTO TIMES に最初に表示されました。
 
-### 仮想通貨市場に警戒感、スタグフレーション再燃か？
-- URL: https://crypto-times.jp/news-cryptocurrency-market-shows-signs-of-caution-is-stagflation-on-the-rise-again/
-- 概要: 現在の仮想通貨市場は地政学リスクとマクロ経済の不透明感により、強い警戒感に包まれています。 ビットコイン（BTC）は先週比で4.6%上昇したもののオプション市場ではプットオプション（売る権利）の価格がコールオプション（買 [&#8230;]
-投稿 仮想通貨市場に警戒感、スタグフレーション再燃か？ は CRYPTO TIMES に最初に表示されました。
+### BTCアクティブアドレスが8年ぶり低水準、長期保有者の蓄積が鮮明に
+- URL: https://crypto-times.jp/news-btc-active-addresses-at-8-year-low/
+- 概要: ビットコイン（BTC）のネットワーク活動が過去8年間で最低の水準にまで落ち込んでいることが明らかになりました。2026年におけるビットコインのアクティブアドレス数は、歴史的な低水準を記録しています。 Active BTC [&#8230;]
+投稿 BTCアクティブアドレスが8年ぶり低水準、長期保有者の蓄積が鮮明に は CRYPTO TIMES に最初に表示されました。
 
-### ポリマーケット、サークル社との提携で年1000万ドル増収か
-- URL: https://crypto-times.jp/news-polymarket-may-see-10-million-increase-in-annual-revenue-through-partnership-with-circle-inc/
-- 概要: 予測市場の最大手ポリマーケット（Polymarket）が、ステーブルコインUSDCの発行元であるサークル社と収益分配に関する交渉を進めていることが明らかになりました。 Depending on the negotiati [&#8230;]
-投稿 ポリマーケット、サークル社との提携で年1000万ドル増収か は CRYPTO TIMES に最初に表示されました。
+### なぜバイナンスに資金集中？アルトから金・銀など伝統資産へシフトか
+- URL: https://crypto-times.jp/news-why-is-money-concentrating-in-binance/
+- 概要: オンチェーンデータ分析プラットフォームのCryptoQuantは、仮想通貨市場におけるアルトコインの資金フローが大手取引所バイナンスへ急激に集中しているとする分析結果を公開しました。 Why Altcoin Flows  [&#8230;]
+投稿 なぜバイナンスに資金集中？アルトから金・銀など伝統資産へシフトか は CRYPTO TIMES に最初に表示されました。
 
-### なぜLlamaAIは正確？DB最適化でデータエラーを激減
-- URL: https://crypto-times.jp/news-why-is-llamaai-so-accurate-database-optimization-drastically-reduces-data-errors/
-- 概要: 仮想通貨データ解析プラットフォームであるDefiLlamaの代表を務める0xngmi氏は、同社が提供するAIリサーチアシスタント「LlamaAI」が既存の汎用AIと比較してDeFi（分散型金融）リサーチにおいて極めて高い [&#8230;]
-投稿 なぜLlamaAIは正確？DB最適化でデータエラーを激減 は CRYPTO TIMES に最初に表示されました。
+### 米国株の恐怖＝BTCの恐怖？Glassnodeが恐怖指数USVIXを公開
+- URL: https://crypto-times.jp/news-fear-of-us-stocks-fear-of-btc/
+- 概要: オンチェーンデータ分析大手Glassnodeは、米国株式市場のボラティリティを示す重要指標「USVIX（米国恐怖指数）」の提供を開始しました。米国でのビットコイン現物ETFの普及に伴い仮想通貨市場と伝統金融市場の連動性が [&#8230;]
+投稿 米国株の恐怖＝BTCの恐怖？Glassnodeが恐怖指数USVIXを公開 は CRYPTO TIMES に最初に表示されました。
 
-### PolymarketのUSDC供給が8億ドル突破、予測市場が「情報の未来」に？
-- URL: https://crypto-times.jp/news-polymarkets-usdc-supply-exceeds-800-million/
-- 概要: 予測市場の最大手ポリマーケット（Polymarket）において、ステーブルコインUSDCの供給量が8億ドルを突破したことが明らかになりました。 $USDC on @Polymarket Surpasses $800 MI [&#8230;]
-投稿 PolymarketのUSDC供給が8億ドル突破、予測市場が「情報の未来」に？ は CRYPTO TIMES に最初に表示されました。
+### 仮想通貨クレカ「Triaカード」の登録方法・使い方【徹底解説】
+- URL: https://crypto-times.jp/how-to-use-tria/
+- 概要: この記事の要点 Triaは仮想通貨で最大8%還元のVisaカード 還元はステーブルコインで価値が減らない JPYC経由なら銀行振込だけで始められる Triaは仮想通貨を日常の買い物で使える最大6%（条件次第では8%までブ [&#8230;]
+投稿 仮想通貨クレカ「Triaカード」の登録方法・使い方【徹底解説】 は CRYPTO TIMES に最初に表示されました。
 
-### 仮想通貨は株より強い？米株7%安でもBTCは2%減
-- URL: https://crypto-times.jp/news-despite-a-7-drop-in-us-stocks-bitcoin-still-fell-by-2/
-- 概要: 2026年3月の仮想通貨市場は緊迫する地政学リスクを背景に、伝統的な金融市場と比較して底堅さを見せました。 Market sentiment in March turned cautious as the war bet [&#8230;]
-投稿 仮想通貨は株より強い？米株7%安でもBTCは2%減 は CRYPTO TIMES に最初に表示されました。
+### ビットコイン、7.2万ドルに強い抵抗？6.5万ドルで乱高下の可能性も
+- URL: https://crypto-times.jp/news-bitcoin-faces-strong-resistance-at-72000/
+- 概要: ビットコイン（BTC）は現在マクロ経済における地政学的リスクの後退を受け反発基調にありますが、オンチェーンデータ分析企業Glassnodeの最新データによると、特定の価格帯でボラティリティが急拡大する可能性が示唆されてい [&#8230;]
+投稿 ビットコイン、7.2万ドルに強い抵抗？6.5万ドルで乱高下の可能性も は CRYPTO TIMES に最初に表示されました。
 
-### トロンに61億ドル流入、ステーブル市場を圧倒
-- URL: https://crypto-times.jp/news-tron-receives-6-1-billion-in-investment/
-- 概要: データ分析プラットフォームのArtemisは2026年におけるステーブルコインの純流入額において、トロン（TRON）が61億ドルを記録し市場を牽引していることを報告しました。 .@trondao leads stable [&#8230;]
-投稿 トロンに61億ドル流入、ステーブル市場を圧倒 は CRYPTO TIMES に最初に表示されました。
+### 銀行への信頼は4割？米国民の18%が仮想通貨を経験
+- URL: https://crypto-times.jp/news-18-of-americans-have-experience-with-cryptocurrency/
+- 概要: DeFi教育基金（DEF）とイプソス（Ipsos）が実施した最新の全米調査により、米国民の既存金融システムに対する不満と、仮想通貨および分散型金融（DeFi）への関心の高さが明らかになりました。本調査によると、米国民の約 [&#8230;]
+投稿 銀行への信頼は4割？米国民の18%が仮想通貨を経験 は CRYPTO TIMES に最初に表示されました。
 
-### 仮想通貨市場、半年でDeSciセクターが80%急落｜AI銘柄は健闘
-- URL: https://crypto-times.jp/news-the-cryptocurrency-market-saw-the-desci-sector-plummet-by-80-in-six-months/
-- 概要: 仮想通貨市場がピークを迎えてから半年が経過し、セクター間でのパフォーマンスの明暗が鮮明になっています。 6 months ago marked the top of the market. since then, sec [&#8230;]
-投稿 仮想通貨市場、半年でDeSciセクターが80%急落｜AI銘柄は健闘 は CRYPTO TIMES に最初に表示されました。
+### ステーブルコイン利回り禁止へ？FDICがGENIUS法に基づく規制案を公開
+- URL: https://crypto-times.jp/news-fdic-publishes-proposed-regulations-under-the-genius-act/
+- 概要: 米連邦預金保険公社（FDIC）はGENIUS法に基づき、ステーブルコイン発行体に対する新たな規制案を公開しました。この規制案は決済用ステーブルコインの発行体に対する基準を確立することを目的としています。 今回の提案におけ [&#8230;]
+投稿 ステーブルコイン利回り禁止へ？FDICがGENIUS法に基づく規制案を公開 は CRYPTO TIMES に最初に表示されました。
 
-### 【今日の仮想通貨ニュース】BTCの検索関心は低水準。マイナーの採算悪化
-- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-april-7th/
-- 概要: 4月7日、ビットコイン（BTC）の価格は68,680ドル前後で推移しており、イーサリアム（ETH）は約2,100ドル、ソラナ（SOL）は約79ドルで取引されています。世界の暗号資産時価総額は2.43兆ドルで、ビットコイン [&#8230;]
-投稿 【今日の仮想通貨ニュース】BTCの検索関心は低水準。マイナーの採算悪化 は CRYPTO TIMES に最初に表示されました。
+### ミラ・ジョヴォヴィッチ、AIツール発表｜BTC専門家と共同開発
+- URL: https://crypto-times.jp/news-milla-jovovich-announces-ai-tools/
+- 概要: 映画『フィフス・エレメント』や『バイオハザード』シリーズの主演で知られる女優のミラ・ジョヴォヴィッチ氏が、AIを活用したナレッジ管理ツール「MemPalace」の開発を主導していることが明らかになりました。 MemPal [&#8230;]
+投稿 ミラ・ジョヴォヴィッチ、AIツール発表｜BTC専門家と共同開発 は CRYPTO TIMES に最初に表示されました。
 
-### ビットコイン、一時7万ドル突破｜トランプ氏の対イラン交渉が好感
-- URL: https://crypto-times.jp/news-bitcoin-briefly-surpassed-70000/
-- 概要: ドナルド・トランプ大統領がイランとの合意について前向きな姿勢を示したことを受け、ビットコイン（BTC）価格が一時7万ドルを突破しました。 Bitcoin price by TradingView トランプ氏はホルムズ海峡 [&#8230;]
-投稿 ビットコイン、一時7万ドル突破｜トランプ氏の対イラン交渉が好感 は CRYPTO TIMES に最初に表示されました。
+### ソラナ財団、2.8億ドル流出受け新対策｜DeFi守る「STRIDE」開始
+- URL: https://crypto-times.jp/news-solana-foundation-launches-new-measures-after-280-million-outflow/
+- 概要: ソラナ財団はソラナエコシステム内のDeFiプロトコルの安全性を抜本的に強化するため、新たなセキュリティプログラム「STRIDE」を立ち上げました。この動きは先日発生したソラナ基盤の分散型取引所（DEX）「Drift Pr [&#8230;]
+投稿 ソラナ財団、2.8億ドル流出受け新対策｜DeFi守る「STRIDE」開始 は CRYPTO TIMES に最初に表示されました。
 
-### ビットコイン、2017年の熱狂に届かず？検索関心は低水準
-- URL: https://crypto-times.jp/news-bitcoin-fails-to-live-up-to-the-2017-frenzy/
-- 概要: ビットコイン（BTC）は現物ETFの承認や企業による保有拡大など、かつてないほど制度的な普及が進んでいますが、一般消費者の関心を示すGoogleトレンドのデータでは、依然として2017年のピーク時を大きく下回っていること [&#8230;]
-投稿 ビットコイン、2017年の熱狂に届かず？検索関心は低水準 は CRYPTO TIMES に最初に表示されました。
+### XRPがビットコインを圧倒？1.1億ドルの資金流入でETF市場に異変
+- URL: https://crypto-times.jp/news-will-xrp-overwhelm-bitcoin/
+- 概要: 先週の仮想通貨投資商品市場は前週の落ち込みから一転して力強い回復を見せました。CoinSharesの最新レポートによると、仮想通貨関連の投資商品には計2億2400万ドルの資金流入が記録されました。 中でも際立った動きを見 [&#8230;]
+投稿 XRPがビットコインを圧倒？1.1億ドルの資金流入でETF市場に異変 は CRYPTO TIMES に最初に表示されました。
 
-### ビットコインマイナー降伏間近？採算悪化で売り圧力が継続
-- URL: https://crypto-times.jp/news-are-bitcoin-miners-on-the-verge-of-surrendering/
-- 概要: ビットコイン（BTC）マイナーが市場の底打ちを示す「降伏（カピチュレーション）」の最終段階に近づいています。 コインシェアーズの報告書によると、ハッシュプライス（採算性指標）は2025年7月の約63ドルから2026年3月 [&#8230;]
-投稿 ビットコインマイナー降伏間近？採算悪化で売り圧力が継続 は CRYPTO TIMES に最初に表示されました。
+### 韓国仮想通貨市場が「金融大手」に飲み込まれる？再編と規制に大きな動き
+- URL: https://crypto-times.jp/news-will-south-koreas-cryptocurrency-market-be-swallowed-up-by-financial-giants/
+- 概要: 2025年末以降、韓国の仮想通貨市場は構造的な激変期を迎えています。大手取引所Bithumbで発生した60兆ウォン規模の誤発注事件を皮切りに、国内主要取引所を巻き込む大規模な再編と規制動向が注目を集めています。 2026 [&#8230;]
+投稿 韓国仮想通貨市場が「金融大手」に飲み込まれる？再編と規制に大きな動き は CRYPTO TIMES に最初に表示されました。
 
-### ビットコイン、強気雇用統計でも沈黙｜市場閉鎖で独り価格形成
-- URL: https://crypto-times.jp/news-bitcoin-remains-silent-despite-bullish-employment-figures/
-- 概要: 米労働省が発表した3月の雇用統計で非農業部門雇用者数が前月比17万8000人増となり、市場予想の5万7000人を大幅に上回りました。失業率も4.3%に低下し2024年末以来の強い伸びを記録しています。 本来であれば利下げ [&#8230;]
-投稿 ビットコイン、強気雇用統計でも沈黙｜市場閉鎖で独り価格形成 は CRYPTO TIMES に最初に表示されました。
-
-### 米確定拠出年金に仮想通貨の道？10兆ドル市場開放へ政府が新規則
-- URL: https://crypto-times.jp/news-is-cryptocurrency-a-viable-option-for-us-defined-contribution-pension-plans/
-- 概要: 米労働省（DOL）は、401(k)（確定拠出年金）の受託者がプライベート・エクイティ、プライベート・クレジット、そしてデジタル資産といった「代替資産」を評価・導入するための新規則案を提示しました。 この提案はドナルド・ト [&#8230;]
-投稿 米確定拠出年金に仮想通貨の道？10兆ドル市場開放へ政府が新規則 は CRYPTO TIMES に最初に表示されました。
+### DefiLlama、新IR機能公開｜検証済み財務データでDeFiの透明性が向上
+- URL: https://crypto-times.jp/news-defillama-unveils-new-ir-feature/
+- 概要: 仮想通貨のデータ分析プラットフォーム大手であるDefiLlamaは、プロジェクトの透明性を高める新たな「インベスター・リレーションズ（IR）」ダッシュボードを公開しました。この新機能により投資家は検証済みの財務指標やレポ [&#8230;]
+投稿 DefiLlama、新IR機能公開｜検証済み財務データでDeFiの透明性が向上 は CRYPTO TIMES に最初に表示されました。
 
 ---
-合計: 31 件
+合計: 30 件
