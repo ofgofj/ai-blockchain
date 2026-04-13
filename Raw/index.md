@@ -1,108 +1,153 @@
-# ブロックチェーンRSS収集 2026-04-13
+# ブロックチェーンRSS収集 2026-04-14
 
-収集日時: 2026-04-13 06:35 JST
-
----
-
-### 仮想通貨の取引高減少は「レバレッジ一掃」か、資金は安定資産へ
-- URL: https://crypto-times.jp/news-is-the-decline-in-cryptocurrency-trading-volume-a-clearance-out/
-- 概要: 仮想通貨分析プラットフォームのTokenInsightは現在の市場における取引高の減少について、一時的な後退ではなく「レバレッジ一掃後の再調整（リキャリブレーション）」であるとの見解を示しました。 &#8221;Post [&#8230;]
-投稿 仮想通貨の取引高減少は「レバレッジ一掃」か、資金は安定資産へ は CRYPTO TIMES に最初に表示されました。
-
-### 【今週のメタプラネットまとめ】株主25万人突破。株価底打ちなるか
-- URL: https://crypto-times.jp/news-metaplanet-summary-for-this-week-april-12th/
-- 概要: 今週の株式会社メタプラネットは、個人投資家からの圧倒的な支持を象徴する驚異的な数字と下落トレンドからの脱却を模索する市場の動きが注目を集めました。 代表取締役CEOのSimon Gerovich氏は登録株主数が25万人の [&#8230;]
-投稿 【今週のメタプラネットまとめ】株主25万人突破。株価底打ちなるか は CRYPTO TIMES に最初に表示されました。
-
-### ソラナ(SOL)に60%下落の危機？52ドルへ沈む「弱気パターン」を分析
-- URL: https://crypto-times.jp/news-solana-sol-facing-a-60-drop/
-- 概要: 仮想通貨ソラナ（SOL）の価格推移に対しアナリストから警戒の声が上がっています。足元のSOL価格は83ドル付近で推移し、一時85.20ドルまで上昇したものの、重要なテクニカル指標である50日単純移動平均線（SMA）の86 [&#8230;]
-投稿 ソラナ(SOL)に60%下落の危機？52ドルへ沈む「弱気パターン」を分析 は CRYPTO TIMES に最初に表示されました。
-
-### 仮想通貨プロジェクト収益トップ10判明、Hyperliquidやポリマーケットが躍進
-- URL: https://crypto-times.jp/news-top-10-cryptocurrency-projects-by-revenue-announced/
-- 概要: オンチェーンデータ分析プラットフォームのToken Terminalは、1日あたりの収益（Revenue）に基づくプロジェクトおよびDAO（分散型自律組織）のトップ10ランキングを公開しました。 Top 10 compa [&#8230;]
-投稿 仮想通貨プロジェクト収益トップ10判明、Hyperliquidやポリマーケットが躍進 は CRYPTO TIMES に最初に表示されました。
-
-### 【今日の仮想通貨ニュース】BTC版インベーダーゲーム登場。DeFi利回りが米銀を下回る
-- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-april-11th/
-- 概要: 4月11日、ビットコイン（BTC）の価格は72,830ドル前後で推移しており、イーサリアム（ETH）は約2,230ドル、ソラナ（SOL）は約84ドルで取引されています。世界の暗号資産時価総額は2.54兆ドルで、ビットコイ [&#8230;]
-投稿 【今日の仮想通貨ニュース】BTC版インベーダーゲーム登場。DeFi利回りが米銀を下回る は CRYPTO TIMES に最初に表示されました。
-
-### AIとインフラが鍵？仮想通貨市場、採用拡大と取引増で強気トレンドなるか
-- URL: https://crypto-times.jp/news-will-the-cryptocurrency-market-enter-a-bullish-trend/
-- 概要: 仮想通貨市場のこの1週間は、AI関連の進展やインフラのアップグレード、そして実社会への採用拡大が主要な原動力となりました。 Cryptomarket Check-In. Major Events &#38; Headli [&#8230;]
-投稿 AIとインフラが鍵？仮想通貨市場、採用拡大と取引増で強気トレンドなるか は CRYPTO TIMES に最初に表示されました。
-
-### トロン創設者ジャスティン・サン氏、WLFI凍結で7000万ドルの損失か
-- URL: https://crypto-times.jp/news-justin-sun-may-have-lost-70-million-due-to-wlfi-freeze/
-- 概要: ドナルド・トランプ氏が共同設立した仮想通貨プロジェクト「World Liberty Financial（WLF）」のアドバイザーを務めるジャスティン・サン氏が、保有するWLFIトークンの凍結と価格下落により約7,000万 [&#8230;]
-投稿 トロン創設者ジャスティン・サン氏、WLFI凍結で7000万ドルの損失か は CRYPTO TIMES に最初に表示されました。
-
-### なぜ株式トークン化が注目？新たに開拓される顧客層とは
-- URL: https://crypto-times.jp/news-why-is-stock-tokenization-attracting-attention/
-- 概要: 130兆ドル規模に及ぶグローバルな株式市場、その一部を代替するとされる株式のトークン化（RWA）市場は膨大な潜在市場規模（TAM）を秘めています。しかしその普及は既存の伝統的金融（TradFi）利用者の置き換えではなく、 [&#8230;]
-投稿 なぜ株式トークン化が注目？新たに開拓される顧客層とは は CRYPTO TIMES に最初に表示されました。
-
-### イーサリアム、2900ドル到達を期待？大口が強気ポジション構築
-- URL: https://crypto-times.jp/news-ethereum-expected-to-reach-2900/
-- 概要: イーサリアム（ETH）市場において、将来的な価格上昇を見込んだ大口の買い注文が相次いでいます。過去数時間で2026年4月から6月を満期とする複数のロング・コールオプションが新たに開設されました。 Some long ca [&#8230;]
-投稿 イーサリアム、2900ドル到達を期待？大口が強気ポジション構築 は CRYPTO TIMES に最初に表示されました。
-
-### DuneのデータをSnowflakeへ、dbt連携でオンチェーン分析が効率化
-- URL: https://crypto-times.jp/news-dbt-integration-streamlines-on-chain-analysis/
-- 概要: オンチェーンデータ分析プラットフォームのDuneはデータ変換ツール「dbt」を利用して、同社のデータカタログをSnowflakeやBigQueryへ直接出力できる新機能「dbt Connector」を発表しました。 Yo [&#8230;]
-投稿 DuneのデータをSnowflakeへ、dbt連携でオンチェーン分析が効率化 は CRYPTO TIMES に最初に表示されました。
-
-### DeFi利回りが3%以下に急落、米銀行を下回る「逆転現象」が発生
-- URL: https://crypto-times.jp/news-defi-yields-plummet-to-below-3/
-- 概要: 仮想通貨市場において長年続いてきた「DeFi（分散型金融）は銀行預金よりも高利回り」という大前提が崩れ始めています。主要なDeFiプロトコルの利回りが米国の伝統的な金融機関（TradFi）の金利を下回る「逆転現象」が鮮明 [&#8230;]
-投稿 DeFi利回りが3%以下に急落、米銀行を下回る「逆転現象」が発生 は CRYPTO TIMES に最初に表示されました。
-
-### 1社に1つのAI文化？Nansen CEOが明かす「規律」の重要性
-- URL: https://crypto-times.jp/news-nansen-ceo-reveals-the-importance-of-discipline/
-- 概要: オンチェーン分析企業NansenのCEOであるアレックス・スヴァネヴィク氏は、AIネイティブな企業にとって次のステップは単にエージェントのスキルを向上させることではなく、独自の「エージェント文化」を構築することであるとの [&#8230;]
-投稿 1社に1つのAI文化？Nansen CEOが明かす「規律」の重要性 は CRYPTO TIMES に最初に表示されました。
-
-### 7億ドル送金で7ドル獲得？BTC版インベーダーゲームが話題に
-- URL: https://crypto-times.jp/news-a-bitcoin-version-of-space-invaders-is-generating-buzz/
-- 概要: ビットコイン（BTC）をテーマにしたゲーム「Mempool Space Invaders」が登場し、仮想通貨コミュニティで注目を集めています。このゲームは名作「スペースインベーダー」のクローン作品で、1万BTC分のスコア [&#8230;]
-投稿 7億ドル送金で7ドル獲得？BTC版インベーダーゲームが話題に は CRYPTO TIMES に最初に表示されました。
-
-### 米政府、2.44BTCをコインベースへ送金｜押収資産の清算に注目
-- URL: https://crypto-times.jp/news-us-government-sends-2-44-btc-to-coinbase/
-- 概要: オンチェーンデータ分析のArkhamの報告によると、米政府に関連するウォレットが合計2.438 BTC（約17万7400ドル）を仮想通貨取引所Coinbase Primeのデポジットアドレスへ送金したことが明らかになりま [&#8230;]
-投稿 米政府、2.44BTCをコインベースへ送金｜押収資産の清算に注目 は CRYPTO TIMES に最初に表示されました。
-
-### 香港でHSBCらがステーブルコイン免許取得、RWA市場は290億ドル超え
-- URL: https://crypto-times.jp/news-hsbc-and-others-obtain-stablecoin-licenses-in-hong-kong/
-- 概要: 香港金融管理局（HKMA）はステーブルコイン条例に基づく初の発行ライセンスを香港上海銀行（HSBC）とAnchorpoint Financial Limitedの2社に交付しました。これにより香港におけるコンプライアンス [&#8230;]
-投稿 香港でHSBCらがステーブルコイン免許取得、RWA市場は290億ドル超え は CRYPTO TIMES に最初に表示されました。
-
-### イーサリアム財団、5000ETH売却完了｜開発資金1111万ドル確保
-- URL: https://crypto-times.jp/news-ethereum-foundation-completes-sale-of-5000-eth/
-- 概要: イーサリアム財団が計画していた合計5,000 ETHの売却をすべて完了したことが、オンチェーンデータにより明らかになりました。 The #EthereumFoundation has sold the remaining [&#8230;]
-投稿 イーサリアム財団、5000ETH売却完了｜開発資金1111万ドル確保 は CRYPTO TIMES に最初に表示されました。
-
-### ビットコインは金超えの安全資産？「70年保有」の力とは
-- URL: https://crypto-times.jp/news-is-bitcoin-a-safe-haven-asset-that-surpasses-gold/
-- 概要: ProCapのCIO（最高投資責任者）であるジェフ・パーク氏は、ビットコイン（BTC）が持つ避難資産としての価値が伝統的な安全資産であるゴールド（金）を大きく上回っているとの見解を示しました。 LIVE NOW &#82 [&#8230;]
-投稿 ビットコインは金超えの安全資産？「70年保有」の力とは は CRYPTO TIMES に最初に表示されました。
-
-### なぜ仮想通貨ハッキングは防げない？北朝鮮ハッカーの手口に迫る
-- URL: https://crypto-times.jp/news-unveiling-the-methods-of-north-korean-hackers/
-- 概要: 仮想通貨市場において北朝鮮のハッカー集団「ラザルス（Lazarus）」による攻撃手法の変遷が注目を集めています。 2022年から2023年にかけては「ブリッジ時代（Bridge Era）」と呼ばれ、同グループの標的が従来 [&#8230;]
-投稿 なぜ仮想通貨ハッキングは防げない？北朝鮮ハッカーの手口に迫る は CRYPTO TIMES に最初に表示されました。
-
-### バイナンス、未上場株市場へ参入｜SpaceXやOpenAIなど5銘柄
-- URL: https://crypto-times.jp/news-binance-enters-the-private-equity-market/
-- 概要: 大手仮想通貨取引所のバイナンスが、未上場企業の株式をトークン化した資産を扱う「Pre-IPO市場」へ正式に参入したことが明らかになりました。 公式の画像によると、第一弾としてSpaceXやOpenAIといった世界的なテッ [&#8230;]
-投稿 バイナンス、未上場株市場へ参入｜SpaceXやOpenAIなど5銘柄 は CRYPTO TIMES に最初に表示されました。
-
-### Hyperliquid ETF、上場間近か？Bitwiseが修正申請
-- URL: https://crypto-times.jp/news-is-the-hyperliquid-etf-about-to-be-listed/
-- 概要: 米資産運用大手のBitwiseが、仮想通貨Hyperliquid（HYPE）の現物ETF（上場投資信託）に関する2度目の修正案を提出したことが明らかになりました。 Bitwise w another update to  [&#8230;]
-投稿 Hyperliquid ETF、上場間近か？Bitwiseが修正申請 は CRYPTO TIMES に最初に表示されました。
+収集日時: 2026-04-14 06:50 JST
 
 ---
-合計: 20 件
+
+### 【会員からのお知らせ】デジタル資産インフラの最前線 〜 Fireblocks Meet the CEO
+- URL: https://jba-web.jp/news/24817?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590%25e4%25bc%259a%25e5%2593%25a1%25e3%2581%258b%25e3%2582%2589%25e3%2581%25ae%25e3%2581%258a%25e7%259f%25a5%25e3%2582%2589%25e3%2581%259b%25e3%2580%2591%25e3%2583%2587%25e3%2582%25b8%25e3%2582%25bf%25e3%2583%25ab%25e8%25b3%2587%25e7%2594%25a3%25e3%2582%25a4%25e3%2583%25b3%25e3%2583%2595%25e3%2583%25a9%25e3%2581%25ae
+- 概要: お世話になっております。JBA事務局です。 2026年4月23日に東京都内で、デジタル資産インフラ企業 FireblocksによるCEOの緊急来日に合わせた招待制のクローズドイベントが開催されます。 本イベントは、日本の [&#8230;]
+The post 【会員からのお知らせ】デジタル資産インフラの最前線 〜 Fireblocks Meet the CEO first appeared on 
+
+### 【4/13話題】ジャスティンサンがトランプ一族の「WLFI」を非難、WIZE（旧モブキャスト）のソラナ累計取得は5億円、サークルがUSDC凍結は「法的義務」など（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/564752
+- 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
+
+### バイビット、10億DOT超の偽入金攻撃をリアルタイムで防ぐ
+- URL: https://www.neweconomy.jp/posts/564712
+- 概要: 偽入金攻撃を検知 海外暗号資産（仮想通貨）取引所のバイビット（Bybit）が、複数のブロックチェーンネットワークを標的にした組織的な「偽入金攻撃」を検知・遮断したと4月8日に発表した。未然に防いだ被害額は、約11億8,0 [&#8230;]
+
+### ソラナ開発希望者への実践型プログラム「Solana Developer Bootcamp」が開催
+- URL: https://www.neweconomy.jp/posts/564672
+- 概要: Solana Developer Bootcamp開催中 レイヤー1ブロックチェーン「ソラナ（Solana）」での開発者になるための実践的プログラム「Solana Developer Bootcamp 2026」が4月9 [&#8230;]
+
+### WIZE（旧モブキャスト）、ソラナの累計取得金額が5億円に到達、総保有数は世界第15位に
+- URL: https://www.neweconomy.jp/posts/564697
+- 概要: WIZEがソラナ追加取得 東証グロース上場のワイズ（WIZE）が、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を4月13日に発表した。また今回の追加取得により、同社のSOL累計取得金額は5億円に到達した。なおワイズは4 [&#8230;]
+
+### ビットコイン、個人マイナーが短期間で再びブロック生成
+- URL: https://www.neweconomy.jp/posts/564679
+- 概要: 個人マイナーのブロック生成成功事例が再発 ビットコイン（Bitcoin）のソロマイニングプール「ソロCK（Solo CKPool）」に参加する個人マイナーが、ブロック生成に成功した。同プールの開発者であるコン・コリヴァス [&#8230;]
+
+### 中東情勢に振らされる暗号資産市場、米国とイランの2週間の停戦合意後の動きは？（仮想通貨市場レポート 4/13号）
+- URL: https://www.neweconomy.jp/features/sbivct/564530
+- 概要: 今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 4/5~4/11週のサマリー トランプ大統領が「今夜一つの文明が滅ぶ」と強硬発言しイランへの圧力を高める 米国 [&#8230;]
+
+### SBI VCトレード、マツモトの株主優待でのソラナ（SOL）配布を支援
+- URL: https://www.neweconomy.jp/posts/564639
+- 概要: SBI VCトレードがマツモトの株主優待のSOL配布を支援 国内暗号資産（仮想通貨）取引所SBI VCトレードが、東証スタンダード上場企業マツモトによる株主優待として抽選でプレゼントされる暗号資産ソラナ（SOL）の配布に [&#8230;]
+
+### バイナンスウォレットに予測市場機能が追加、BNBスマートチェーン上の「Predict[.]fun」と連携で
+- URL: https://www.neweconomy.jp/posts/564616
+- 概要: Binance Walletに予測市場機能が追加 海外大手暗号資産（仮想通貨）取引所バイナンス（Binance）が、同取引所提供のウォレット「バイナンスウォレット（Binance Wallet）」に予測市場機能を追加した [&#8230;]
+
+### 韓国の脱走オオカミがミームコイン化、大統領も無事願う
+- URL: https://www.neweconomy.jp/posts/564611
+- 概要: 韓国で動物園から逃げ出したオオカミがミームコインに 韓国の動物園の檻から逃げ出したオオカミが、3日間にわたって行方不明となっている。この出来事は世間の注目を集め、ミームコインが登場したほか、同国大統領が無事を願うメッセー [&#8230;]
+
+### 香港、HSBCとスタンチャート系JVに初のステーブルコイン認可
+- URL: https://www.neweconomy.jp/posts/564574
+- 概要: 香港が初のステーブルコインライセンスを認可 香港が、法定通貨担保型ステーブルコインに関する初のライセンスを発行した。これは、グローバルな金融・貿易分野において、規制下にあるデジタル通貨の発展を進める同地区の取り組みにおけ [&#8230;]
+
+### 【今日の仮想通貨ニュース】米イラン核合意失敗でBTC急落。7万ドル越えで利確売り加速か
+- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-on-april-13th/
+- 概要: 4月13日、ビットコイン（BTC）の価格は70,780ドル前後で推移しており、イーサリアム（ETH）は約2,180ドル、ソラナ（SOL）は約81ドルで取引されています。世界の暗号資産時価総額は2.49兆ドルで、ビットコイ [&#8230;]
+投稿 【今日の仮想通貨ニュース】米イラン核合意失敗でBTC急落。7万ドル越えで利確売り加速か は CRYPTO TIMES に最初に表示されました。
+
+### 2週間で109万ドルの爆益、イーサリアム投資家が見せた完璧な出口戦略
+- URL: https://crypto-times.jp/news-the-perfect-exit-strategy-demonstrated-by-ethereum-investors/
+- 概要: 仮想通貨市場でイーサリアム（ETH）を大量に保有する「クジラ」と呼ばれる大口投資家が、短期間で多額の利益を確定させたことが明らかになりました。 Whale 0x54d2, holding 131K $ETH($288M) [&#8230;]
+投稿 2週間で109万ドルの爆益、イーサリアム投資家が見せた完璧な出口戦略 は CRYPTO TIMES に最初に表示されました。
+
+### トランプ関連ミームコイン「TRUMP」に投資家殺到？取引所から大移動
+- URL: https://crypto-times.jp/news-are-investors-flocking-to-the-trump-related-meme-coin-trump/
+- 概要: トランプ大統領に関連する仮想通貨「$TRUMP」において、大口投資家（クジラ）による活発な蓄積の動きが確認されました。複数のクジラが取引所から多額のトークンを自身のウォレットへ引き出しています。 Whales are a [&#8230;]
+投稿 トランプ関連ミームコイン「TRUMP」に投資家殺到？取引所から大移動 は CRYPTO TIMES に最初に表示されました。
+
+### トロン創設者サン氏、WLFIと全面対決へ｜資産凍結巡り応酬
+- URL: https://crypto-times.jp/news-tron-founder-sun-heads-to-all-out-confrontation-with-wlfi/
+- 概要: トロン（TRON）創設者のジャスティン・サン氏とトランプ前大統領の家族が関与する仮想通貨プロジェクト「World Liberty Financial（WLFI）」の間で、激しい応酬が続いています。 I have alwa [&#8230;]
+投稿 トロン創設者サン氏、WLFIと全面対決へ｜資産凍結巡り応酬 は CRYPTO TIMES に最初に表示されました。
+
+### ロシアが仮想通貨の現金化を全面禁止、アジアでも規制枠組みが激変
+- URL: https://crypto-times.jp/news-russia-completely-bans-the-cashing-out-of-cryptocurrencies/
+- 概要: アジアおよびロシアにおいて仮想通貨市場の透明性と安全性を高めるための法整備と規制強化が加速しています。ロシア中央銀行による現金化の全面禁止方針や日本政府による仮想通貨の「金融商品」格付けなど、各国で市場のあり方を左右する [&#8230;]
+投稿 ロシアが仮想通貨の現金化を全面禁止、アジアでも規制枠組みが激変 は CRYPTO TIMES に最初に表示されました。
+
+### メタプラネット、米個人投資家へのアクセス拡大へ｜手数料無料キャンペーンを開始
+- URL: https://crypto-times.jp/news-metaplanet-to-expand-access-to-u-s-individual-investors/
+- 概要: 株式会社メタプラネットは4月13日、同社の米国預託証券（ADR）プログラム「MPJPY」において、60日間の発行手数料無料期間を設けると発表しました。 MPJPY（スポンサー付きレベル１ADR（米国預託証券）プログラム） [&#8230;]
+投稿 メタプラネット、米個人投資家へのアクセス拡大へ｜手数料無料キャンペーンを開始 は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン、7万ドル超えも1350万アドレスが含み損
+- URL: https://crypto-times.jp/news-btc-surpasses-70000-but-13-5-million-addresses-are-experiencing-unrealized-losses/
+- 概要: ビットコイン（BTC）の価格が7万ドル台を維持する中、オンチェーンデータ分析企業のGlassnodeは含み損を抱えているアドレス数が約1350万に達しているとのデータを公開しました。 With BTC at $70.8k [&#8230;]
+投稿 ビットコイン、7万ドル超えも1350万アドレスが含み損 は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン、7万ドル超えで利確売り加速？1時間2000万ドルの売り圧
+- URL: https://crypto-times.jp/news-will-profit-taking-sales-accelerate-as-btc-surpasses-70000/
+- 概要: ビットコイン（BTC）が7万ドルの大台を維持する上で、強力な利益確定の壁に直面しています。最新データによると7万ドルから8万ドルの価格帯に到達するたびに、薄い流動性と利益確定の売り圧力が上昇を抑制していることが明らかにな [&#8230;]
+投稿 ビットコイン、7万ドル超えで利確売り加速？1時間2000万ドルの売り圧 は CRYPTO TIMES に最初に表示されました。
+
+### オンチェーン取引の99.9%がAIに？マシン経済がもたらす衝撃
+- URL: https://crypto-times.jp/news-will-99-9-of-on-chain-transactions-be-handled-by-ai/
+- 概要: 今後2年以内にオンチェーン取引の99.99%が「AIエージェント」によって駆動されるようになるとの分析が話題となっています。 この予測はAIが自律的に意思決定を行い、ブロックチェーン上で取引を完結させる「マシン経済」の到 [&#8230;]
+投稿 オンチェーン取引の99.9%がAIに？マシン経済がもたらす衝撃 は CRYPTO TIMES に最初に表示されました。
+
+### NansenがPrivy採用、ソラナとEVMの接続・ステーキングがより高速に
+- URL: https://crypto-times.jp/news-nansen-adopts-private-adoption/
+- 概要: オンチェーン分析プラットフォームのNansenは、ウォレット接続プロトコル「Privy」の導入を発表しました。これによりEVM（イーサリアム仮想マシン）互換チェーンおよびソラナにおけるログインとステーキングが、より高速か [&#8230;]
+投稿 NansenがPrivy採用、ソラナとEVMの接続・ステーキングがより高速に は CRYPTO TIMES に最初に表示されました。
+
+### 株式トークン化、2031年に1000億ドル到達か？機関投資家主導で急成長
+- URL: https://crypto-times.jp/news-will-stock-tokenization-reach-100-billion-by-2031/
+- 概要: ステーブルコイン市場が2019年の40億ドルから現在320億ドル超へと80倍の成長を遂げた中、次に注目されるのは「株式のトークン化」です。現在のトークン化された株式の時価総額は12億ドルを突破。この成長曲線がステーブルコ [&#8230;]
+投稿 株式トークン化、2031年に1000億ドル到達か？機関投資家主導で急成長 は CRYPTO TIMES に最初に表示されました。
+
+### HyperEVMのUSDC時価総額が140%増｜年初から10億ドル流入
+- URL: https://crypto-times.jp/news-hyperevms-usdc-market-capitalization-increased-by-140/
+- 概要: データ分析プラットフォームのToken Terminalの報告によると、Hyperliquidが展開する「HyperEVM」上におけるステーブルコインUSDCの時価総額が過去1ヶ月間で約140%という驚異的な増加を記録し [&#8230;]
+投稿 HyperEVMのUSDC時価総額が140%増｜年初から10億ドル流入 は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン、米イラン核合意失敗で7.3万ドルから急落
+- URL: https://crypto-times.jp/news-bitcoin-plummets-from-73000-following-the-failure-of-the-us-iran-nuclear-deal/
+- 概要: 仮想通貨市場は、地政学リスクの再燃を受けて調整局面を迎えています。パキスタンで行われていた米国とイランによるマラソン協議の結果、核合意に至らなかったことが判明し、市場心理が急激に悪化しました。これにより、ビットコイン（B [&#8230;]
+投稿 ビットコイン、米イラン核合意失敗で7.3万ドルから急落 は CRYPTO TIMES に最初に表示されました。
+
+### 今週は波乱？仮想通貨巨額アンロックとFRB次期議長公聴会
+- URL: https://crypto-times.jp/news-massive-cryptocurrency-unlock-and-the-feds-next-chairman-hearing/
+- 概要: 今週（4月13日〜19日）の仮想通貨市場は重要なマクロ経済指標の発表や大規模なトークンアンロック、主要取引所での銘柄整理など、多くの重要イベントを控えています。 &#x1f9ed; PANews Crypto Previ [&#8230;]
+投稿 今週は波乱？仮想通貨巨額アンロックとFRB次期議長公聴会 は CRYPTO TIMES に最初に表示されました。
+
+### USDS供給量が2倍に急増、市場調整下でもステーブルコインに集まる注目
+- URL: https://crypto-times.jp/news-usds-supply-doubles-rapidly/
+- 概要: 仮想通貨リサーチ企業Delphi Digitalの最新の報告によると、分散型金融（DeFi）プロトコル「Sky（旧MakerDAO）」が発行するステーブルコイン「USDS」の供給量が驚異的なペースで増加していることが明ら [&#8230;]
+投稿 USDS供給量が2倍に急増、市場調整下でもステーブルコインに集まる注目 は CRYPTO TIMES に最初に表示されました。
+
+### XRPは歴史的「売られすぎ」？RSI急落で底打ちを示唆か
+- URL: https://crypto-times.jp/news-is-xrp-historically-oversold/
+- 概要: 仮想通貨リップル（XRP）の価格が1.35ドル付近で推移する中、複数のテクニカル指標が歴史的な「底打ち」の兆候を示しています。8ヶ月に及ぶ弱気トレンドが続く一方で取引高は20億ドル規模を維持しており、投資家の関心は依然と [&#8230;]
+投稿 XRPは歴史的「売られすぎ」？RSI急落で底打ちを示唆か は CRYPTO TIMES に最初に表示されました。
+
+### 投資額が10分の1に？アルトコインの厳しい現状
+- URL: https://crypto-times.jp/news-will-investment-amounts-drop-to-one-tenth-the-harsh-reality-of-altcoins/
+- 概要: 仮想通貨のデータ分析を行うCryptoDifferは、投資利益率（ROI）が0.1倍を下回っている11の仮想通貨プロジェクトを公開しました。 11 projects with under 0.1x ROI are @Wa [&#8230;]
+投稿 投資額が10分の1に？アルトコインの厳しい現状 は CRYPTO TIMES に最初に表示されました。
+
+### サトシはなぜ放置？初期BTC200万枚の量子脆弱性と修正見送った理由
+- URL: https://crypto-times.jp/news-the-quantum-vulnerability-affecting-the-initial-2-million-btc-and-the-reasons-why-a-fix-was-not-implemented/
+- 概要: キャッスル・アイランド・ベンチャーズのパートナーであるニック・カーター氏は、ビットコインの生みの親であるサトシ・ナカモトが初期のビットコインにおける量子脆弱性を修正しなかった理由について見解を述べました。 カーター氏によ [&#8230;]
+投稿 サトシはなぜ放置？初期BTC200万枚の量子脆弱性と修正見送った理由 は CRYPTO TIMES に最初に表示されました。
+
+### 有事の安全資産に異変か？ビットコインが金に優位
+- URL: https://crypto-times.jp/news-amid-geopolitical-risks-bitcoin-gains-an-advantage-over-gold/
+- 概要: ProCap FinancialのCEOであるアンソニー・ポンプリアーノ氏は4月7日、CNBCのインタビューにおいて昨今の地政学的リスクが高まる中でビットコインを「優れた光（shining light）」と表現しました。 [&#8230;]
+投稿 有事の安全資産に異変か？ビットコインが金に優位 は CRYPTO TIMES に最初に表示されました。
+
+### 【今日のマクロ経済まとめ】米イラン交渉決裂、中東リスクが再燃
+- URL: https://crypto-times.jp/news-todays-macroeconomic-summary-april-13th/
+- 概要: 4月13日現在、週末の米イラン直接協議が決裂しました。トランプ大統領はホルムズ海峡の全船舶封鎖を表明し軍艦を配備した一方、イランは停戦違反と反発しています。停戦期限までの再交渉の可能性は残るものの、原油価格の上昇と地政学 [&#8230;]
+投稿 【今日のマクロ経済まとめ】米イラン交渉決裂、中東リスクが再燃 は CRYPTO TIMES に最初に表示されました。
+
+---
+合計: 31 件
