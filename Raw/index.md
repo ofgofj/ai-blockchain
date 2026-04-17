@@ -1,48 +1,88 @@
-# ブロックチェーンRSS収集 2026-04-17
+# ブロックチェーンRSS収集 2026-04-18
 
-収集日時: 2026-04-17 06:42 JST
+収集日時: 2026-04-18 06:41 JST
 
 ---
 
-### 【4/16話題】東京ヴェルディとSBI Chilizが国内ファントークン導入検討、ビットコインの量子耐性移行案「BIP361」のドラフト提案など（音声ニュース）
-- URL: https://www.neweconomy.jp/posts/565796
+### 韓国の財政経済部、業務推進費へのトークン化預金活用を検証へ
+- URL: https://www.neweconomy.jp/posts/565994
+- 概要: 韓国が業務推進費にトークン化預金活用へ 韓国・財政経済部が、業務推進費への預金トークン活用を検証する試験事業を推進する計画を4月16日に公表した。 今回の試験事業では、現行制度で原則として政府購入カードにより執行されてい [&#8230;]
+
+### 【4/17話題】量子耐性移行で「サトシ保有BTC可視化」可能性をアダムバックが示唆、ANAPが1月以来のビットコイン追加購入など（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/566005
 - 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
 
-### ビットマイン、イーサリアム保有数487万ETHに。2月期決算の評価損は37.7億ドル計上
-- URL: https://www.neweconomy.jp/posts/565640
-- 概要: ビットマインがトレジャリー戦略とステーキング基盤を強化 ビットマイン・イマージョン・テクノロジーズ（Bitmine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）と現金などを含 [&#8230;]
+### TORICOがイーサリアム追加取得、総取得数2617ETH超に
+- URL: https://www.neweconomy.jp/posts/565987
+- 概要: TORICOがイーサリアム追加取得 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を4月16日に発表した。 [&#8230;]
 
-### リップル社、韓国の教保生命保険と提携。トークン化国債決済の実証へ
-- URL: https://www.neweconomy.jp/posts/565609
-- 概要: Ripple Custody通じて 米リップル（Ripple）社が、韓国の生命保険会社である教保生命保険との戦略的提携を4月15日に発表した。 今回の提携は、規制された機関投資家環境において、「リップル・カストディ（Ri [&#8230;]
+### 英FCA、暗号資産規制の対象範囲でガイダンス案公表。2027年導入へ前進
+- URL: https://www.neweconomy.jp/posts/565946
+- 概要: FCAがガイダンス案公表 英国の金融行為監督機構（FCA）が、暗号資産（仮想通貨）規制の対象となる活動範囲を明確にするためのガイダンス案を4月15日に公表し、業界からの意見募集を開始した。英国では2027年10月から本格 [&#8230;]
 
-### クリプトドットコム、オンラインカジノ「ハイローラー」と最終契約締結。米予測市場参入へ
-- URL: https://www.neweconomy.jp/posts/565601
-- 概要: CFTC規制下でイベント契約提供、州規制との関係は今後の論点に 暗号資産（仮想通貨）関連企業クリプトドットコム（Crypto.com）の関連会社クリプトドットコム｜デリバティブズ・ノース・アメリカ（Crypto.com  [&#8230;]
+### ANAPが1月以来のビットコイン追加購入、総保有数は約1422BTCに
+- URL: https://www.neweconomy.jp/posts/565936
+- 概要: ANAPがビットコイン追加購入 ビットコインの財務戦略を進める東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を4月17日に発表した。なお同社が [&#8230;]
 
-### ビットワイズのステーキング対応「アバランチ（AVAX）」現物ETF、NYSEアーカに上場
-- URL: https://www.neweconomy.jp/posts/565591
-- 概要: Bitwise Avalanche ETF上場 暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が組成した、アバランチ（Avalanche）のネイティブトークンAVAXのステーキング対応現物ETF（上場投資信託 [&#8230;]
+### テザー、951BTCを準備金へ移動か。総保有量9万7141BTCに
+- URL: https://www.neweconomy.jp/posts/565923
+- 概要: テザーがBitfinexから951BTCを移動 ステーブルコイン「USDT」発行企業テザー（Tether）に関連するとされるビットコイン準備金アドレスが、951BTCを暗号資産（仮想通貨）取引所ビットフィネックス（Bit [&#8230;]
 
-### ビットコインの量子耐性移行案「BIP361」のドラフト提案、脆弱アドレス凍結案で議論紛糾
-- URL: https://www.neweconomy.jp/posts/565584
-- 概要: 「安全性か所有権か」コミュニティを二分 サイファーパンクのジェームソン・ロップ（Jameson Lopp）氏ら6名が、ビットコインの量子耐性を高める改善提案「BIP-361」をGitHubにドラフトとして4月14日に提案 [&#8230;]
+### ドリフト、約2.95億ドル被害の復旧計画を発表。基軸ステーブルコインをUSDCからUSDTへ移行も
+- URL: https://www.neweconomy.jp/posts/565913
+- 概要: ドリフト、エクスプロイト後の回復計画と再ローンチ方針公表 ソラナ（Solana）上でデリバティブ取引などを提供する分散型取引所（DEX）「ドリフト（Drift Protocol）」が、4月1日に発生したエクスプロイトを受 [&#8230;]
 
-### スニーカーのAllbirds、AIインフラ事業転換で株価5倍超に。「NewBird AI」に改称へ
-- URL: https://www.neweconomy.jp/posts/565577
-- 概要: オールバーズがAIインフラ事業に転換へ スニーカーブランドのオールバーズ（Allbirds）が資本調達を実施し、AIコンピューティングインフラ事業へ事業転換すると発表したことを受け、同社の株価は4月15日に5倍以上に急騰 [&#8230;]
+### チャールズシュワブ、個人投資家向け暗号資産現物取引を提供へ、BTCとETH取扱
+- URL: https://www.neweconomy.jp/posts/565902
+- 概要: Charles Schwabが暗号資産取引サービス提供へ 米大手金融サービス企業チャールズシュワブ（Charles Schwab）が、米国の個人投資家向けに、現物暗号資産（仮想通貨）取引サービス「シュワブクリプト（Sch [&#8230;]
 
-### SMBC日興証券ら、DeFi×AI特化アクセラレーター「AUTON」始動
-- URL: https://www.neweconomy.jp/posts/565554
-- 概要: 4月19日まで参加者募集 SMBC日興証券、フラクトンベンチャーズ（Fracton Ventures）、ネクストファイナンステック（Next Finance Tech）、東京大学協創プラットフォーム開発、プライムビート（ [&#8230;]
+### ルートストック、クロスチェーンブリッジ「Atlas」β版リリース、BTCFiへの導線を簡素化へ
+- URL: https://www.neweconomy.jp/posts/565818
+- 概要: ルートストックがアトラスβ版リリース ルートストックラボ（Rootstock Labs）が、クロスチェーンブリッジ「アトラス（Atlas）」のベータ版リリースを4月15日に発表した。 ルートストックラボは、ビットコイン（ [&#8230;]
 
-### HSBC、カントン上でトークン化預金サービスのパイロット完了、アトミック決済検証
-- URL: https://www.neweconomy.jp/posts/565547
-- 概要: HSBCがCanton上でトークン化預金サービスの試験完了 ブロックチェーンネットワーク「カントン（Canton Network）」上で、トークン化預金サービス「TDS（Tokenised Deposit Service [&#8230;]
+### モルフォラボ、固定金利プロトコルの新名称「Morpho Midnight」公表
+- URL: https://www.neweconomy.jp/posts/565848
+- 概要: Morpho Labsが新たな固定金利プロトコルを発表 DeFi（分散型金融）のレンディングプロトコル「モルフォ（Morpho）」の開発元であるモルフォラボ（Morpho Labs）が、同社の固定金利プロトコルの名称を「 [&#8230;]
 
-### 東京ヴェルディ、SBI Chilizと日本国内でのファントークン導入検討でMoU
-- URL: https://www.neweconomy.jp/posts/565537
-- 概要: 東京ヴェルディとSBI Chilizが国内ファントークン導入検討でMoU プロサッカークラブの東京ヴェルディが、日本でのファントークン導入に向けた共同検討に関する基本合意書（MOU）をSBIチリーズ（SBI Chiliz [&#8230;]
+### 東京都、円建てステーブルコイン活用の事業者に最大4000万円補助金
+- URL: https://crypto-times.jp/news-tokyo-to-provide-40-million-yen-in-subsidies-to-create-use-cases-for-yen-pegged-stablecoins/
+- 概要: 東京都は4月17日、円建てステーブルコインを活用してユースケースを創出する事業者を対象とした「ステーブルコイン社会実装促進事業補助金」の令和8年度公募を開始しました。補助対象経費の3分の2以内、1件あたり最大4,000万 [&#8230;]
+投稿 東京都、円建てステーブルコイン活用の事業者に最大4000万円補助金 は CRYPTO TIMES に最初に表示されました。
+
+### アンソロピック社の新AIモデル「Mythos」に仮想通貨大手が殺到
+- URL: https://crypto-times.jp/news-major-cryptocurrency-firms-are-flocking-to-the-ai-model-mythos/
+- 概要: 米AI企業Anthropicが開発した未公開モデル「Claude Mythos Preview」のアクセス権を巡り、仮想通貨業界の大手取引所が動き出してる模様です。 米テックメディアThe Informationが報じた [&#8230;]
+投稿 アンソロピック社の新AIモデル「Mythos」に仮想通貨大手が殺到 は CRYPTO TIMES に最初に表示されました。
+
+### 2028年までに世界最大のIPOがブロックチェーン上で実現か
+- URL: https://crypto-times.jp/news-the-worlds-largest-ipo-will-be-conducted-on-a-blockchain-by-2028/
+- 概要: Solana財団プレジデントのリリー・リュー（Lily Liu）氏が2027年から2028年までに世界最大級のIPOがブロックチェーン上で実行されるとの見通しを示しました。モルガン・スタンレーやKKR、マッキンゼーを経て [&#8230;]
+投稿 2028年までに世界最大のIPOがブロックチェーン上で実現か は CRYPTO TIMES に最初に表示されました。
+
+### トランプ開戦のイラン戦争、BTC急落なら「6万ドル」を試すか
+- URL: https://crypto-times.jp/news-could-a-sharp-drop-in-btc-test-the-60000-mark/
+- 概要: 著名トレーダーのアーサー・ヘイズ氏がビットコイン（BTC）が短期的に6万ドルを試す可能性を警告しています。 同氏が公開した最新コラムではトランプ政権下で開戦したイラン戦争に伴う3つのシナリオとそれぞれに対応したBTC価格 [&#8230;]
+投稿 トランプ開戦のイラン戦争、BTC急落なら「6万ドル」を試すか は CRYPTO TIMES に最初に表示されました。
+
+### メタプラネット、BTC保有量で世界第2位は現実的か
+- URL: https://crypto-times.jp/news-is-it-realistic-for-metaplanet-to-become-the-no2-holder-of-btc/
+- 概要: 東証スタンダード上場のメタプラネット(3350)は、ビットコイン(BTC)保有量で上場企業世界3位の位置につけています。 首位は米Strategy (旧MicroStrategy) の780,897 BTC、2位は米Tw [&#8230;]
+投稿 メタプラネット、BTC保有量で世界第2位は現実的か は CRYPTO TIMES に最初に表示されました。
+
+### 人気NFT「BAYC」創設者がCEO退任｜Yuga Labs新体制で会長就任へ
+- URL: https://crypto-times.jp/news-bayc-ceo-change/
+- 概要: 人気NFTプロジェクト「Bored Ape Yacht Club（BAYC）」の共同創設者であるCryptoGarga（Greg Solano）氏がYuga Labsの最高経営責任者（CEO）を退任することが明らかになり [&#8230;]
+投稿 人気NFT「BAYC」創設者がCEO退任｜Yuga Labs新体制で会長就任へ は CRYPTO TIMES に最初に表示されました。
+
+### DeFiは「リスク管理」が主役に？利回り至上主義からの脱却
+- URL: https://crypto-times.jp/news-risk-management-takes-center-stage-in-defi/
+- 概要: DeFi（分散型金融）のボールト市場が大きな転換期を迎えている可能性があります。 ボールトとはユーザーが預け入れた仮想通貨をあらかじめ決められた運用戦略に沿ってスマートコントラクトが自動で運用し、利回りを還元してくれる仕 [&#8230;]
+投稿 DeFiは「リスク管理」が主役に？利回り至上主義からの脱却 は CRYPTO TIMES に最初に表示されました。
+
+### ハッキング被害のDrift、テザーが約1.5億ドル支援｜USDT移行と損失補填へ
+- URL: https://crypto-times.jp/news-tether-raises-approximately-150-million-for-drift/
+- 概要: ソラナ基盤の分散型取引所（DEX）であるDrift Protocolは4月初頭に発生した大規模なハッキング事件からの復旧計画を公表しました。ステーブルコイン最大手のTether社が主導し、複数のパートナー企業と共に最大約 [&#8230;]
+投稿 ハッキング被害のDrift、テザーが約1.5億ドル支援｜USDT移行と損失補填へ は CRYPTO TIMES に最初に表示されました。
 
 ### 米S&P500が史上最高値、BTC7.5万ドル突破で強気相場入りか？
 - URL: https://crypto-times.jp/news-is-a-bull-market-beginning-now-that-btc-has-broken-through-75000/
@@ -104,35 +144,5 @@
 - 概要: ビットコイン（BTC）の価格が7万6000ドルを超え、2026年2月4日以来の高値を記録しました。米イラン間の緊張緩和や米ドルの弱含みなどが背景にありますが、オンチェーンデータ分析企業のCryptoQuantは取引所への [&#8230;]
 投稿 ビットコイン7.6万ドル到達も利確リスク増？大口の送金急増で警戒感 は CRYPTO TIMES に最初に表示されました。
 
-### 世界経済の成長は鈍化、プロがBTCを「歴史的買い場」とみなす根拠とは
-- URL: https://crypto-times.jp/news-what-are-the-reasons-why-professionals-consider-btc-a-historic-buying-opportunity/
-- 概要: 国際通貨基金（IMF）は4月14日、最新の「世界経済見通し（WEO）」を公表。今回の見通しの特徴は地政学リスクの影響を経済分析の中核に据えた点にあります。中東情勢の緊迫化と原油価格高騰を受けて世界の成長率見通しが下方修正 [&#8230;]
-投稿 世界経済の成長は鈍化、プロがBTCを「歴史的買い場」とみなす根拠とは は CRYPTO TIMES に最初に表示されました。
-
-### 「老後3000万円問題」をどう生き抜く？物価高に勝てない制度の罠と資産を守るBTCヘッジ
-- URL: https://crypto-times.jp/news-the-trap-of-a-system-that-cannot-overcome-inflation-and-btc-hedging-to-protect-your-assets/
-- 概要: 2026年度の公的年金支給額が引き上げられました。国民年金（基礎年金・満額）は月7万608円で前年度比1.9%増、厚生年金（夫婦2人の標準的な受給額）は月23万7279円で2.0%増です。数字だけ見れば「4年連続のプラス [&#8230;]
-投稿 「老後3000万円問題」をどう生き抜く？物価高に勝てない制度の罠と資産を守るBTCヘッジ は CRYPTO TIMES に最初に表示されました。
-
-### 銀先物が4.8%急騰、BTCと連動する「リスク資産化」か
-- URL: https://crypto-times.jp/news-is-silver-becoming-a-risk-asset-pegged-to-btc/
-- 概要: 15日の中国上海先物取引所（SHFE）で、銀の終値が1キログラムあたり19,559人民元（約89.20米ドル）に達し、前日比4.82%の大幅上昇を記録しました。上海黄金交易所（SGE）の銀スポット価格も3.92%高となり [&#8230;]
-投稿 銀先物が4.8%急騰、BTCと連動する「リスク資産化」か は CRYPTO TIMES に最初に表示されました。
-
-### BTC財務の次なるトレンド？AIピボット企業の株価が910%急騰
-- URL: https://crypto-times.jp/news-is-ai-pivoting-the-next-trend-in-btc-finance/
-- 概要: シリコンバレーで一世を風靡したサステナブル靴ブランドのAllbirds（NYSE: BIRD）がAIコンピューティング企業「NewBird AI」への転換を発表し、株価が1日で910%超急騰しました。この出来事は単なる「 [&#8230;]
-投稿 BTC財務の次なるトレンド？AIピボット企業の株価が910%急騰 は CRYPTO TIMES に最初に表示されました。
-
-### 国民民主代表の玉木氏も注目する分散型金融「Hyperliquid」とは？
-- URL: https://crypto-times.jp/news-what-is-hyperliquid-the-decentralized-finance-platform-that-mr-tamaki-is-also-paying-attention-to/
-- 概要: 分散型金融（DeFi）プラットフォームのHyperliquidが、世界の金融業界で異例の注目を集めています。創業3年従業員わずか11名という体制ながら、2025年の年間純利益は9億ドルに達しました。外部からベンチャーキャ [&#8230;]
-投稿 国民民主代表の玉木氏も注目する分散型金融「Hyperliquid」とは？ は CRYPTO TIMES に最初に表示されました。
-
-### 【今日のマクロ経済ニュース】中東緊張緩和期待と米製造業好調でリスクオン継続
-- URL: https://crypto-times.jp/news-todays-macroeconomic-news-for-april-16th/
-- 概要: 4月16日現在、中東情勢で米国とイランが停戦の2週間延長を検討しているとの報道やトランプ大統領が「戦闘終結が近い」との発言により緊張が大幅に緩和しました。また米4月NY連銀製造業景況指数が11.0と市場予想を大きく上回る [&#8230;]
-投稿 【今日のマクロ経済ニュース】中東緊張緩和期待と米製造業好調でリスクオン継続 は CRYPTO TIMES に最初に表示されました。
-
 ---
-合計: 28 件
+合計: 30 件
