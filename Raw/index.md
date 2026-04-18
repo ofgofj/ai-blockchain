@@ -1,148 +1,107 @@
-# ブロックチェーンRSS収集 2026-04-18
+# ブロックチェーンRSS収集 2026-04-19
 
-収集日時: 2026-04-18 06:41 JST
-
----
-
-### 韓国の財政経済部、業務推進費へのトークン化預金活用を検証へ
-- URL: https://www.neweconomy.jp/posts/565994
-- 概要: 韓国が業務推進費にトークン化預金活用へ 韓国・財政経済部が、業務推進費への預金トークン活用を検証する試験事業を推進する計画を4月16日に公表した。 今回の試験事業では、現行制度で原則として政府購入カードにより執行されてい [&#8230;]
-
-### 【4/17話題】量子耐性移行で「サトシ保有BTC可視化」可能性をアダムバックが示唆、ANAPが1月以来のビットコイン追加購入など（音声ニュース）
-- URL: https://www.neweconomy.jp/posts/566005
-- 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
-
-### TORICOがイーサリアム追加取得、総取得数2617ETH超に
-- URL: https://www.neweconomy.jp/posts/565987
-- 概要: TORICOがイーサリアム追加取得 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を4月16日に発表した。 [&#8230;]
-
-### 英FCA、暗号資産規制の対象範囲でガイダンス案公表。2027年導入へ前進
-- URL: https://www.neweconomy.jp/posts/565946
-- 概要: FCAがガイダンス案公表 英国の金融行為監督機構（FCA）が、暗号資産（仮想通貨）規制の対象となる活動範囲を明確にするためのガイダンス案を4月15日に公表し、業界からの意見募集を開始した。英国では2027年10月から本格 [&#8230;]
-
-### ANAPが1月以来のビットコイン追加購入、総保有数は約1422BTCに
-- URL: https://www.neweconomy.jp/posts/565936
-- 概要: ANAPがビットコイン追加購入 ビットコインの財務戦略を進める東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を4月17日に発表した。なお同社が [&#8230;]
-
-### テザー、951BTCを準備金へ移動か。総保有量9万7141BTCに
-- URL: https://www.neweconomy.jp/posts/565923
-- 概要: テザーがBitfinexから951BTCを移動 ステーブルコイン「USDT」発行企業テザー（Tether）に関連するとされるビットコイン準備金アドレスが、951BTCを暗号資産（仮想通貨）取引所ビットフィネックス（Bit [&#8230;]
-
-### ドリフト、約2.95億ドル被害の復旧計画を発表。基軸ステーブルコインをUSDCからUSDTへ移行も
-- URL: https://www.neweconomy.jp/posts/565913
-- 概要: ドリフト、エクスプロイト後の回復計画と再ローンチ方針公表 ソラナ（Solana）上でデリバティブ取引などを提供する分散型取引所（DEX）「ドリフト（Drift Protocol）」が、4月1日に発生したエクスプロイトを受 [&#8230;]
-
-### チャールズシュワブ、個人投資家向け暗号資産現物取引を提供へ、BTCとETH取扱
-- URL: https://www.neweconomy.jp/posts/565902
-- 概要: Charles Schwabが暗号資産取引サービス提供へ 米大手金融サービス企業チャールズシュワブ（Charles Schwab）が、米国の個人投資家向けに、現物暗号資産（仮想通貨）取引サービス「シュワブクリプト（Sch [&#8230;]
-
-### ルートストック、クロスチェーンブリッジ「Atlas」β版リリース、BTCFiへの導線を簡素化へ
-- URL: https://www.neweconomy.jp/posts/565818
-- 概要: ルートストックがアトラスβ版リリース ルートストックラボ（Rootstock Labs）が、クロスチェーンブリッジ「アトラス（Atlas）」のベータ版リリースを4月15日に発表した。 ルートストックラボは、ビットコイン（ [&#8230;]
-
-### モルフォラボ、固定金利プロトコルの新名称「Morpho Midnight」公表
-- URL: https://www.neweconomy.jp/posts/565848
-- 概要: Morpho Labsが新たな固定金利プロトコルを発表 DeFi（分散型金融）のレンディングプロトコル「モルフォ（Morpho）」の開発元であるモルフォラボ（Morpho Labs）が、同社の固定金利プロトコルの名称を「 [&#8230;]
-
-### 東京都、円建てステーブルコイン活用の事業者に最大4000万円補助金
-- URL: https://crypto-times.jp/news-tokyo-to-provide-40-million-yen-in-subsidies-to-create-use-cases-for-yen-pegged-stablecoins/
-- 概要: 東京都は4月17日、円建てステーブルコインを活用してユースケースを創出する事業者を対象とした「ステーブルコイン社会実装促進事業補助金」の令和8年度公募を開始しました。補助対象経費の3分の2以内、1件あたり最大4,000万 [&#8230;]
-投稿 東京都、円建てステーブルコイン活用の事業者に最大4000万円補助金 は CRYPTO TIMES に最初に表示されました。
-
-### アンソロピック社の新AIモデル「Mythos」に仮想通貨大手が殺到
-- URL: https://crypto-times.jp/news-major-cryptocurrency-firms-are-flocking-to-the-ai-model-mythos/
-- 概要: 米AI企業Anthropicが開発した未公開モデル「Claude Mythos Preview」のアクセス権を巡り、仮想通貨業界の大手取引所が動き出してる模様です。 米テックメディアThe Informationが報じた [&#8230;]
-投稿 アンソロピック社の新AIモデル「Mythos」に仮想通貨大手が殺到 は CRYPTO TIMES に最初に表示されました。
-
-### 2028年までに世界最大のIPOがブロックチェーン上で実現か
-- URL: https://crypto-times.jp/news-the-worlds-largest-ipo-will-be-conducted-on-a-blockchain-by-2028/
-- 概要: Solana財団プレジデントのリリー・リュー（Lily Liu）氏が2027年から2028年までに世界最大級のIPOがブロックチェーン上で実行されるとの見通しを示しました。モルガン・スタンレーやKKR、マッキンゼーを経て [&#8230;]
-投稿 2028年までに世界最大のIPOがブロックチェーン上で実現か は CRYPTO TIMES に最初に表示されました。
-
-### トランプ開戦のイラン戦争、BTC急落なら「6万ドル」を試すか
-- URL: https://crypto-times.jp/news-could-a-sharp-drop-in-btc-test-the-60000-mark/
-- 概要: 著名トレーダーのアーサー・ヘイズ氏がビットコイン（BTC）が短期的に6万ドルを試す可能性を警告しています。 同氏が公開した最新コラムではトランプ政権下で開戦したイラン戦争に伴う3つのシナリオとそれぞれに対応したBTC価格 [&#8230;]
-投稿 トランプ開戦のイラン戦争、BTC急落なら「6万ドル」を試すか は CRYPTO TIMES に最初に表示されました。
-
-### メタプラネット、BTC保有量で世界第2位は現実的か
-- URL: https://crypto-times.jp/news-is-it-realistic-for-metaplanet-to-become-the-no2-holder-of-btc/
-- 概要: 東証スタンダード上場のメタプラネット(3350)は、ビットコイン(BTC)保有量で上場企業世界3位の位置につけています。 首位は米Strategy (旧MicroStrategy) の780,897 BTC、2位は米Tw [&#8230;]
-投稿 メタプラネット、BTC保有量で世界第2位は現実的か は CRYPTO TIMES に最初に表示されました。
-
-### 人気NFT「BAYC」創設者がCEO退任｜Yuga Labs新体制で会長就任へ
-- URL: https://crypto-times.jp/news-bayc-ceo-change/
-- 概要: 人気NFTプロジェクト「Bored Ape Yacht Club（BAYC）」の共同創設者であるCryptoGarga（Greg Solano）氏がYuga Labsの最高経営責任者（CEO）を退任することが明らかになり [&#8230;]
-投稿 人気NFT「BAYC」創設者がCEO退任｜Yuga Labs新体制で会長就任へ は CRYPTO TIMES に最初に表示されました。
-
-### DeFiは「リスク管理」が主役に？利回り至上主義からの脱却
-- URL: https://crypto-times.jp/news-risk-management-takes-center-stage-in-defi/
-- 概要: DeFi（分散型金融）のボールト市場が大きな転換期を迎えている可能性があります。 ボールトとはユーザーが預け入れた仮想通貨をあらかじめ決められた運用戦略に沿ってスマートコントラクトが自動で運用し、利回りを還元してくれる仕 [&#8230;]
-投稿 DeFiは「リスク管理」が主役に？利回り至上主義からの脱却 は CRYPTO TIMES に最初に表示されました。
-
-### ハッキング被害のDrift、テザーが約1.5億ドル支援｜USDT移行と損失補填へ
-- URL: https://crypto-times.jp/news-tether-raises-approximately-150-million-for-drift/
-- 概要: ソラナ基盤の分散型取引所（DEX）であるDrift Protocolは4月初頭に発生した大規模なハッキング事件からの復旧計画を公表しました。ステーブルコイン最大手のTether社が主導し、複数のパートナー企業と共に最大約 [&#8230;]
-投稿 ハッキング被害のDrift、テザーが約1.5億ドル支援｜USDT移行と損失補填へ は CRYPTO TIMES に最初に表示されました。
-
-### 米S&P500が史上最高値、BTC7.5万ドル突破で強気相場入りか？
-- URL: https://crypto-times.jp/news-is-a-bull-market-beginning-now-that-btc-has-broken-through-75000/
-- 概要: 米国の主要株価指数であるS&#38;P500が終値で7,022ドルの大台を記録し史上最高値を更新しました。これに連動し仮想通貨市場も強気姿勢を鮮明にしており、ビットコイン（BTC）は7万5,000ドルを突破しています。  [&#8230;]
-投稿 米S&#038;P500が史上最高値、BTC7.5万ドル突破で強気相場入りか？ は CRYPTO TIMES に最初に表示されました。
-
-### ストラテジー社、BTC保有でブラックロック超え？80万枚突破の予測
-- URL: https://crypto-times.jp/news-strategy-inc-surpasses-blackrock-in-btc-holdings/
-- 概要: マイケル・セイラー氏率いるストラテジー社が世界最大の資産運用会社ブラックロックが運営する現物ビットコインETF「IBIT」の保有量を上回る見通しであることが明らかになりました。 JUST IN: Michael Sayl [&#8230;]
-投稿 ストラテジー社、BTC保有でブラックロック超え？80万枚突破の予測 は CRYPTO TIMES に最初に表示されました。
-
-### Aave、Q1収益3380万ドルを記録｜GHO供給量も4億ドル突破
-- URL: https://crypto-times.jp/news-aave-reports-q1-earnings-of-33-8-million/
-- 概要: DeFi（分散型金融）大手Aaveの2026年第1四半期（Q1）財務レポートが公開されました。同プロトコルは期間中に3,380万ドルの収益を上げユーザー預かり資産は440億ドルに達しました。 Our Q1 Aave Fi [&#8230;]
-投稿 Aave、Q1収益3380万ドルを記録｜GHO供給量も4億ドル突破 は CRYPTO TIMES に最初に表示されました。
-
-### ビットコイン、7.8万ドルが次の天井か？短期の利確動向と回復の行方
-- URL: https://crypto-times.jp/news-is-78000-the-next-peak-for-bitcoin/
-- 概要: ビットコイン（BTC）は現在7万4000ドル付近で推移しており、重要な抵抗線とされる7万8100ドルを目前に控えています。最新レポートによると、現在の市場は現物やETFの需要が改善しているものの投資家の確信は依然として弱 [&#8230;]
-投稿 ビットコイン、7.8万ドルが次の天井か？短期の利確動向と回復の行方 は CRYPTO TIMES に最初に表示されました。
-
-### ソラナTVLが急速回復、Drift事件後のセキュリティ刷新が奏功か
-- URL: https://crypto-times.jp/news-solana-tvl-is-recovering-rapidly/
-- 概要: ソラナのDeFiエコシステムにおけるTVL（預かり資産）が、分散型取引所「Drift」での不正流出事件を経て急速な回復を見せています。 &#x1f4fd;&#xfe0f; DeFi TVL on @solana is r [&#8230;]
-投稿 ソラナTVLが急速回復、Drift事件後のセキュリティ刷新が奏功か は CRYPTO TIMES に最初に表示されました。
-
-### メタプラネット株に反転の兆し？BTC7.5万ドル突破で強気相場入りか
-- URL: https://crypto-times.jp/news-are-there-signs-of-a-rebound-in-metaplanet-stock/
-- 概要: 米国の主要株価指数であるS&#38;P500が7,022ドルで史上最高値を更新し、ビットコイン（BTC）は7万5,000ドルを突破しています。仮想通貨市場が強気姿勢を鮮明にする中、日本企業のメタプラネット株価にも注目が集 [&#8230;]
-投稿 メタプラネット株に反転の兆し？BTC7.5万ドル突破で強気相場入りか は CRYPTO TIMES に最初に表示されました。
-
-### ビットコインポジションがロングへ転換、相場リセットの初期兆候か
-- URL: https://crypto-times.jp/news-bitcoin-positions-have-shifted-to-long/
-- 概要: オンチェーンデータ分析大手のGlassnodeのデータによると、分散型取引プラットフォーム「Hyperliquid」におけるビットコイン（BTC）のネットポジションに大きな変化が発生しています。 After a pers [&#8230;]
-投稿 ビットコインポジションがロングへ転換、相場リセットの初期兆候か は CRYPTO TIMES に最初に表示されました。
-
-### AIがほぼ全ての仮想通貨を動かす？金融インフラの前提が変わる時代
-- URL: https://crypto-times.jp/news-ai-drives-nearly-all-cryptocurrencies/
-- 概要: 「今後2年以内にブロックチェーン上の取引の99.99%がAIエージェントによって実行される」— 米大手デジタル資産運用会社Galaxy Digital（ギャラクシー・デジタル）が示したこの予測は一見すると誇張にも聞こえま [&#8230;]
-投稿 AIがほぼ全ての仮想通貨を動かす？金融インフラの前提が変わる時代 は CRYPTO TIMES に最初に表示されました。
-
-### 【今日の仮想通貨ニュース】国民民主代表の玉木氏がDeFiに注目。「老後3000万円問題」とBTCヘッジ
-- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-on-april-16th/
-- 概要: 4月16日、ビットコイン（BTC）の価格は75,120ドル前後で推移しており、イーサリアム（ETH）は約2,360ドル、ソラナ（SOL）は約85ドルで取引されています。世界の暗号資産時価総額は2.62兆ドルで、ビットコイ [&#8230;]
-投稿 【今日の仮想通貨ニュース】国民民主代表の玉木氏がDeFiに注目。「老後3000万円問題」とBTCヘッジ は CRYPTO TIMES に最初に表示されま
-
-### DefiLlama、全トークンの「権利」を分類へ｜新フレームワーク発表
-- URL: https://crypto-times.jp/news-defillama-to-classify-the-rights-of-all-tokens/
-- 概要: DeFi（分散型金融）のデータ分析プラットフォーム大手であるDefiLlamaが、新たに「Token Rights Framework（トークン権利フレームワーク）」を立ち上げることが分かりました。 We&#8217;r [&#8230;]
-投稿 DefiLlama、全トークンの「権利」を分類へ｜新フレームワーク発表 は CRYPTO TIMES に最初に表示されました。
-
-### 軍事費増加で欧州債務が悪化？通貨不安の裏で機関投資家が狙うBTC
-- URL: https://crypto-times.jp/news-institutional-investors-are-targeting-btc-amid-currency-instability/
-- 概要: 2026年、欧州の財政地図が静かにしかし決定的に書き換えられました。長年にわたって厳格な緊縮財政の象徴とされてきたドイツが、憲法に明記した「債務ブレーキ（財政赤字GDP比0.35%以内）」を事実上解除し、防衛費とインフラ [&#8230;]
-投稿 軍事費増加で欧州債務が悪化？通貨不安の裏で機関投資家が狙うBTC は CRYPTO TIMES に最初に表示されました。
-
-### ビットコイン7.6万ドル到達も利確リスク増？大口の送金急増で警戒感
-- URL: https://crypto-times.jp/news-bitcoin-reaches-76000-but-is-the-risk-of-profit-taking-increasing/
-- 概要: ビットコイン（BTC）の価格が7万6000ドルを超え、2026年2月4日以来の高値を記録しました。米イラン間の緊張緩和や米ドルの弱含みなどが背景にありますが、オンチェーンデータ分析企業のCryptoQuantは取引所への [&#8230;]
-投稿 ビットコイン7.6万ドル到達も利確リスク増？大口の送金急増で警戒感 は CRYPTO TIMES に最初に表示されました。
+収集日時: 2026-04-19 06:36 JST
 
 ---
-合計: 30 件
+
+### 国民民主の玉木代表、ハイパーリキッドに言及。ビットフライヤー加納CEOとDEX規制巡り議論
+- URL: https://www.neweconomy.jp/posts/566154
+- 概要: 日本で分散型金融に関する政策議論が進展するか 国民民主党代表の玉木雄一郎氏が、分散型金融（DeFi）プロトコル「ハイパーリキッド（Hyperliquid）」に言及した投稿をきっかけに、日本における分散型取引所（DEX）の [&#8230;]
+
+### イーサリアム、100EMAの壁を突破できるか？上昇トレンドへの正念場
+- URL: https://crypto-times.jp/news-can-ethereum-break-through-the-100-period-ema-barrier/
+- 概要: 仮想通貨市場で時価総額2位を誇るイーサリアム（ETH）が、重要な局面を迎えています。現在ETHは2,350ドル付近で取引されていますが、上値の重い展開が続いており、強気派と弱気派の攻防が激化しています。 テクニカル分析に [&#8230;]
+投稿 イーサリアム、100EMAの壁を突破できるか？上昇トレンドへの正念場 は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン、5月に8.2万ドル到達か？大口が強気のコールオプション
+- URL: https://crypto-times.jp/news-will-bitcoin-reach-82000-in-may/
+- 概要: 仮想通貨デリバティブ取引所のDeribitにおいて、ビットコイン（BTC）の超長期・強気ポジションが構築されたことが明らかになりました。 Someone paid $8.1M in premium for 4,000 B [&#8230;]
+投稿 ビットコイン、5月に8.2万ドル到達か？大口が強気のコールオプション は CRYPTO TIMES に最初に表示されました。
+
+### 米国債トークン化が年初来70%増、オンチェーン需要が急拡大
+- URL: https://crypto-times.jp/news-tokenization-of-us-treasury-bonds-has-increased-70-year-to-date/
+- 概要: オンチェーンデータ分析プラットフォームのToken Terminalは、トークン化された米国債の時価総額が年初来（YTD）で約70%増加したことを報告しました。 Onchain demand for the risk-f [&#8230;]
+投稿 米国債トークン化が年初来70%増、オンチェーン需要が急拡大 は CRYPTO TIMES に最初に表示されました。
+
+### 【今日のマクロ経済まとめ】ホルムズ海峡開放でリスクオンムード強まる
+- URL: https://crypto-times.jp/news-todays-macroeconomic-summary-april-18th/
+- 概要: 4月18日現在イランが原油輸送の要衝であるホルムズ海峡の開放を正式に表明したことで、世界市場は大きく動きました。原油価格が一時11%超急落し米イラン和平交渉進展期待からリスクオンムードが強まり、S&#38;P500が過去 [&#8230;]
+投稿 【今日のマクロ経済まとめ】ホルムズ海峡開放でリスクオンムード強まる は CRYPTO TIMES に最初に表示されました。
+
+### ソラナ「稼働率100%」の裏で32回停止、報酬喪失のバリデーター
+- URL: https://crypto-times.jp/news-solana-boasts-100-operational-rate-but-experiences-32-shutdowns/
+- 概要: ソラナ財団は2023年3月以来ネットワークの稼働率が100%であることを公表していますが、個別のバリデーターレベルでは異なる実態が浮き彫りとなっています。 バリデーター追跡サービス「Slashr」のデータによると、大手バ [&#8230;]
+投稿 ソラナ「稼働率100%」の裏で32回停止、報酬喪失のバリデーター は CRYPTO TIMES に最初に表示されました。
+
+### ゴールドマン・サックス、ビットコインETFに参入へ｜安定収益と低リスク重視
+- URL: https://crypto-times.jp/news-goldman-sachs-enters-the-bitcoin-etf-market/
+- 概要: 米金融大手のゴールドマン・サックスが、新たにビットコインに関連した上場投資信託（ETF）の立ち上げを申請したことが明らかになりました。同社は「Goldman Sachs Bitcoin Premium Income ET [&#8230;]
+投稿 ゴールドマン・サックス、ビットコインETFに参入へ｜安定収益と低リスク重視 は CRYPTO TIMES に最初に表示されました。
+
+### VC資金の80%がAIへ？Q1過去最高の投資額も「AI一強」鮮明に
+- URL: https://crypto-times.jp/news-q1-record-high-investment-figures-but-ais-dominance-remains-clear/
+- 概要: 2026年第1四半期（Q1）における世界のベンチャーキャピタル（VC）による資金調達額が、過去最高を記録したことが明らかになりました。 Global Fundraising in Q1 2026. Record Quar [&#8230;]
+投稿 VC資金の80%がAIへ？Q1過去最高の投資額も「AI一強」鮮明に は CRYPTO TIMES に最初に表示されました。
+
+### 国債増発時代に仮想通貨が問う「通貨の信任」とは｜再軍備で財政ルールが崩壊？
+- URL: https://crypto-times.jp/news-what-does-cryptocurrency-mean-in-an-era-of-increased-government-bond-issuance-the-question-of-trust-in-currency/
+- 概要: トランプ大統領からの圧力を受け欧州各国が防衛費の急速な積み上げに動いています。ドイツは長年守ってきた「財政規律の砦」ともいうべき憲法上の債務ブレーキを改正し、財政拡張路線に舵を切りました。 防衛費増強が国債増発と通貨の希 [&#8230;]
+投稿 国債増発時代に仮想通貨が問う「通貨の信任」とは｜再軍備で財政ルールが崩壊？ は CRYPTO TIMES に最初に表示されました。
+
+### 【今日の仮想通貨ニュース】仮想通貨が資産保全手段に？ソラナでXRPが稼働へ
+- URL: https://crypto-times.jp/news-cryptocurrency-news-for-april-18th/
+- 概要: 4月18日、ビットコイン（BTC）の価格は76,980ドル前後で推移しており、イーサリアム（ETH）は約2,400ドル、ソラナ（SOL）は約88ドルで取引されています。世界の暗号資産時価総額は2.7兆ドルで、ビットコイン [&#8230;]
+投稿 【今日の仮想通貨ニュース】仮想通貨が資産保全手段に？ソラナでXRPが稼働へ は CRYPTO TIMES に最初に表示されました。
+
+### メタプラネット社の含み損、550億円縮小｜含み益転換で株価高騰なるか
+- URL: https://crypto-times.jp/news-metaplanets-unrealized-losses-shrink-by-50-billion-yen/
+- 概要: ビットコイン（BTC）関連事業を積極的に推進する東証上場のメタプラネットにおいて、BTCの含み損が縮小傾向にあることが注目を集めています。一時は1880億円を超えていた含み損が、現在は1325億円まで圧縮されており、その [&#8230;]
+投稿 メタプラネット社の含み損、550億円縮小｜含み益転換で株価高騰なるか は CRYPTO TIMES に最初に表示されました。
+
+### 仮想通貨収益1位はテザー社、Hyperliquidなど取引所も躍進
+- URL: https://crypto-times.jp/news-tether-is-the-top-earning-cryptocurrency/
+- 概要: 仮想通貨データ分析プラットフォームのCryptoRank_ioは、2026年におけるプロジェクト別の収益ランキングを公開しました。 &#x1f4ca;Top 10 Projects by Revenue in 2026@ [&#8230;]
+投稿 仮想通貨収益1位はテザー社、Hyperliquidなど取引所も躍進 は CRYPTO TIMES に最初に表示されました。
+
+### Aave V4発表、流動性統合で利回り向上へ
+- URL: https://crypto-times.jp/news-aave-v4-announced-aiming-for-higher-yields-through-liquidity-integration/
+- 概要: 仮想通貨貸付プラットフォーム最大手のAaveが次世代プロトコル「Aave V4」の詳細を公開しました。今回のアップデートでは現行のV3が抱えていた構造的な制限を解消するため、「Hub and Spoke」と呼ばれる新たな [&#8230;]
+投稿 Aave V4発表、流動性統合で利回り向上へ は CRYPTO TIMES に最初に表示されました。
+
+### 香港BTC財務企業、ビットコインのみへの投資を明言
+- URL: https://crypto-times.jp/news-hong-kong-based-btc-finance-firm-declares-it-will-only-invest-in-bitcoin/
+- 概要: 香港を拠点とするBoyaa（博雅互動）が、企業の財務資産（コーポレート・トレジャリー）としてビットコイン（BTC）のみに投資する方針を明らかにしました。現在BoyaaのBTC保有量は4,092枚に達しており、今後もその数 [&#8230;]
+投稿 香港BTC財務企業、ビットコインのみへの投資を明言 は CRYPTO TIMES に最初に表示されました。
+
+### イーサリアム、5月までに2600ドル到達？ロング・コールポジション相次ぐ
+- URL: https://crypto-times.jp/news-will-ethereum-reach-2600-by-may/
+- 概要: イーサリアム（ETH）のオプション市場で2026年4月および5月を満期とする大規模なロング・コールポジションが相次いで構築されました。オンチェーンデータ分析を手掛けるlaevitasの報告によると、過去4時間で合計約13 [&#8230;]
+投稿 イーサリアム、5月までに2600ドル到達？ロング・コールポジション相次ぐ は CRYPTO TIMES に最初に表示されました。
+
+### ソラナでXRPが稼働開始、2.5%高騰で1.47ドル回復
+- URL: https://crypto-times.jp/news-xrp-goes-live-on-solana/
+- 概要: ソラナ公式アカウントがに「BREAKING: XRP is live on Solana」と投稿し、XRP Ledgerネイティブのデジタル資産であるXRPがソラナ上で取引されるようになりました。なお、実際に取引されるの [&#8230;]
+投稿 ソラナでXRPが稼働開始、2.5%高騰で1.47ドル回復 は CRYPTO TIMES に最初に表示されました。
+
+### ストラテジー社、優先株「STRC」の成功で財務強化か？企業優位な条件が鍵
+- URL: https://crypto-times.jp/news-will-strategy-inc-strengthen-its-finances-with-the-success-of-strc/
+- 概要: BitMEX Researchは、優先株「STRC」の成功がBTC財務戦略を採用するストラテジー社（$MSTR）にとって非常に好材料であるとの見解を示しました。 $STRC&#8216;s success is grea [&#8230;]
+投稿 ストラテジー社、優先株「STRC」の成功で財務強化か？企業優位な条件が鍵 は CRYPTO TIMES に最初に表示されました。
+
+### 仮想通貨で資産を守る？日銀利上げ局面での新たな戦略
+- URL: https://crypto-times.jp/news-new-strategy-in-the-bank-of-japans-interest-rate-hike-phase/
+- 概要: 日本銀行は2026年も利上げ路線を継続しており、市場では年2回の追加利上げが見込まれています。政策金利は0.75%という15年以上ぶりの水準にありますが、問題は金利が上がっても多くの個人の生活実感が改善しないことです。  [&#8230;]
+投稿 仮想通貨で資産を守る？日銀利上げ局面での新たな戦略 は CRYPTO TIMES に最初に表示されました。
+
+### 仮想通貨市場に数兆ドルが流れ込む？米CLARITY法の影響とは
+- URL: https://crypto-times.jp/news-what-are-the-implications-of-the-u-s-clarity-act/
+- 概要: 2026年上半期の仮想通貨市場において最も注目を集めている政策イベントが、米国の「デジタル資産市場CLARITY法」です。この法案が上院を通過すれば年金基金や保険会社など「法的な不透明感を理由に静観してきた」数兆ドル規模 [&#8230;]
+投稿 仮想通貨市場に数兆ドルが流れ込む？米CLARITY法の影響とは は CRYPTO TIMES に最初に表示されました。
+
+### ビットコインは「国境を超える資産」？中東停戦で急反発
+- URL: https://crypto-times.jp/news-is-bitcoin-a-transnational-asset/
+- 概要: 2026年4月、米国とイランの停戦交渉をめぐる報道が相次ぐ中、ビットコインは7万5,000ドル手前まで急反発しました。単なるリスクオン局面の反射的な動きに見えますが、その背後には「国境を超えた資産退避」という構造的な需要 [&#8230;]
+投稿 ビットコインは「国境を超える資産」？中東停戦で急反発 は CRYPTO TIMES に最初に表示されました。
+
+---
+合計: 20 件
