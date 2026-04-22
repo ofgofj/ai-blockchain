@@ -1,138 +1,148 @@
-# ブロックチェーンRSS収集 2026-04-22
+# ブロックチェーンRSS収集 2026-04-23
 
-収集日時: 2026-04-22 06:46 JST
+収集日時: 2026-04-23 06:51 JST
 
 ---
 
-### 【4/21話題】ストラテジーが3番目の購入規模でビットコイン追加購入、リップルがXRPLの量子コンピューター対策へ、流出事案でレイヤーゼロDVN設計議論など（音声ニュース）
-- URL: https://www.neweconomy.jp/posts/567030
+### 【4/22話題】ANAPが今月3度目のビットコイン追加購入、Volo Protocolから約3.5Mドルの不正流出、アービトラムが約3万766ETH凍結など（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/567447
 - 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
 
-### 三井住友カード、マイナカード活用のJPYCタッチ決済の実証実験の第2弾実施へ
-- URL: https://www.neweconomy.jp/posts/566990
-- 概要: マイナカード活用のJPYC決済実証実験第2弾 三井住友カード社とマイナウォレット社が、マイナンバーカードを活用したステーブルコイン決済の連続実証実験プログラムの第2弾を実施すると4月21日に発表した。 なおマイナウォレッ [&#8230;]
+### ニューヨーク州司法長官、コインベースとジェミナイを提訴
+- URL: https://www.neweconomy.jp/posts/567408
+- 概要: 予測市場を「違法な賭博」と主張 米ニューヨーク州司法長官のレティシア・ジェームズ（Letitia James）氏が、暗号資産（仮想通貨）取引所のコインベース（Coinbase）とジェミナイ（Gemini）を4月21日に提 [&#8230;]
 
-### ソニック、コンセンサス「SonicCS」で量子耐性に対応へ。署名集約モデルに課題指摘
-- URL: https://www.neweconomy.jp/posts/566998
-- 概要: ソニックがポスト量子対応を公開 レイヤー1ブロックチェーン「ソニック（Sonic）」の研究部門であるソニックリサーチ（Sonic Research）が、ポスト量子耐性に関する設計方針を4月20日に公式ブログで公表した。  [&#8230;]
+### ANAPが今月3度目のビットコイン追加購入、総保有数は約1432BTCに
+- URL: https://www.neweconomy.jp/posts/567402
+- 概要: ANAPがビットコイン追加購入 ビットコインの財務戦略を進める東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を4月22日に発表した。なお同社は [&#8230;]
 
-### ストラテジーが2.5Bドルでビットコイン追加取得、3番目の購入規模でブラックロックの保有量上回る
-- URL: https://www.neweconomy.jp/posts/566984
-- 概要: StrategyがBTC追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を4月20日に発表した。 今回ストラテジーは4月13日から4月19日ま [&#8230;]
+### モルガンスタンレーの「ビットコイン現物ETF」、取引開始から10営業日で保有額約1.42億ドルに
+- URL: https://www.neweconomy.jp/posts/567361
+- 概要: Morgan StanleyのMSBTが保有額1億ドル突破 米大手金融機関モルガン・スタンレー（Morgan Stanley）組成のビットコイン（BTC）現物ETF（上場投資信託）が、上場から10営業日で約1億4,185 [&#8230;]
 
-### グレースケール、「ハイパーリキッド（HYPE）」現物ETFの修正版提出
-- URL: https://www.neweconomy.jp/posts/566956
-- 概要: Grayscale HYPE ETFの修正版提出 暗号資産（仮想通貨）運用会社グレースケール（Grayscale）が、ハイパーリキッド（Hyperliquid）のネイティブトークンHYPEを対象とする現物ETF（上場投資 [&#8230;]
+### ワールド、World IDを大幅アップデート。TinderやZoomなどで「人間証明」展開へ
+- URL: https://www.neweconomy.jp/posts/567353
+- 概要: World IDを刷新しTinderやZoomなどで人間認証を展開 暗号資産（仮想通貨）関連プロジェクト「ワールド（World）」が、「人間であることの証明（proof of human）」を提供する「ワールドID（Wo [&#8230;]
 
-### リップル、XRPLの量子コンピューター対策ロードマップ公開。2028年までに実装へ
-- URL: https://www.neweconomy.jp/posts/566915
-- 概要: 4段階計画を発表 リップル（Ripple）が、XRPレジャー（XRPL）のポスト量子（PQ）対応に向けた多段階ロードマップを4月20日に発表した。この対応は2028年までの完全移行を目指しており、現在すでに一部フェーズが [&#8230;]
+### 東京大学、ワールドのAMPCネットワーク参画
+- URL: https://www.neweconomy.jp/posts/567342
+- 概要: 東大がWorldのAMPCネットワーク参画 東京大学松尾・岩澤研究室が、人間証明基盤「ワールド（World）」のグローバルAMPC（匿名化マルチパーティ計算）ネットワークに参画した。ワールドへの開発貢献主体ツールズ・フォ [&#8230;]
 
-### アマゾン、アンソロピックに最大250億ドル追加投資。AI向けクラウド需要で提携拡大
-- URL: https://www.neweconomy.jp/posts/566908
-- 概要: アマゾンがアンソロピックに追加投資 アマゾン（Amazon）が、AIスタートアップのアンソロピック（Anthropic）に最大250億ドル（約3兆9,744億円）を投資すると4月20日に発表した。これにあわせてアンソロピ [&#8230;]
+### テザーの投資ファンド、ビットコインマイニングのAntalpha株8.2%保有
+- URL: https://www.neweconomy.jp/posts/567327
+- 概要: Tetherがマイニング金融企業Antalphaに出資 ステーブルコイン「USDT」発行元として知られるテザー（Tether）グループによる投資ファンドが、ビットコイン（BTC）マイニング関連の金融サービス企業アンタルフ [&#8230;]
 
-### 香港SFC、トークン化投資商品の試験取引向け規制枠組み開始
-- URL: https://www.neweconomy.jp/posts/566901
-- 概要: 香港SFCがトークン化投資商品の試験取引向け規制枠組み開始 香港証券先物委員会（SFC）が、香港で対象となるトークン化投資商品の試験的な取引を行うための規制枠組みを開始したと、4月20日に発表した。 同枠組みは主に、SF [&#8230;]
+### スイ上のVolo Protocolでエクスプロイト、約350万ドル規模の被害。一部資産は凍結成功
+- URL: https://www.neweconomy.jp/posts/567311
+- 概要: Volo Protocolから約350万ドルの不正流出 スイ（Sui）ブロックチェーン上のリキッドステーキングプロトコル「ボロプロトコル（Volo Protocol）」において、セキュリティインシデントが発生したことが、 [&#8230;]
 
-### シンガポールガルフ銀行、法人・富裕層向けのUSDC発行・償還サービス開始
-- URL: https://www.neweconomy.jp/posts/566890
-- 概要: Gulf BankがUSDCの発行・償還サービス開始 バーレーン拠点のシンガポールガルフ銀行（Singapore Gulf Bank：SGB）が、法人と富裕層顧客向けのステーブルコイン発行（ミント）・償還サービスの開始を [&#8230;]
+### カーブ創設者、DeFiの安全基準策定を提言。イーサリアム財団とソラナ財団に言及
+- URL: https://www.neweconomy.jp/posts/567287
+- 概要: DeFiの安全基準策定を提言 DEX（分散型取引所）カーブ（Curve）の創設者マイケル・エゴロフ（Michael Egorov）氏が、分散型金融（DeFi）の安全基準の策定を提言した。同氏が自身のXアカウントで4月21 [&#8230;]
 
-### ビットマインがイーサリアム追加取得、総保有数は約497万ETHで全供給量の4.12%に
-- URL: https://www.neweconomy.jp/posts/566881
-- 概要: BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を4月20 [&#8230;]
+### コインベース、英国で暗号資産担保ローン提供開始。BTCやETHでUSDC借入可能に
+- URL: https://www.neweconomy.jp/posts/567255
+- 概要: コインベースが英国で暗号資産担保ローン提供開始 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、英国ユーザー向けに暗号資産を担保としたUSDC借入サービスの提供開始を4月20日に発表した。 同サービスでは [&#8230;]
 
-### 仮想通貨で1兆円消失｜高利回りの看板を失いつつある資産運用
-- URL: https://crypto-times.jp/news-crypto-are-losing-their-high-returns/
-- 概要: 記事のポイント 仮想通貨運用から1兆円消失 「伝統金融超え」の利回りは崩壊しつつある リスク源泉を把握する必要が従来以上に発生している 2026年4月19日の週末、仮想通貨の世界で「1兆円が消える」という異常事態が起きま [&#8230;]
-投稿 仮想通貨で1兆円消失｜高利回りの看板を失いつつある資産運用 は CRYPTO TIMES に最初に表示されました。
+### 米3兆ドルの巨頭、メタプラネット株を大量買い増し｜保有385万株へ拡大
+- URL: https://crypto-times.jp/news-us-3-trillion-giant-increases-its-stake-in-metaplanet/
+- 概要: 3兆ドル規模の資産を運用する世界的大手キャピタル・グループ（Capital Group）傘下のアメリカン・ファンズ・EUPAC・ファンド（American Funds EUPAC Fund / AEPGX）が、株式会社メ [&#8230;]
+投稿 米3兆ドルの巨頭、メタプラネット株を大量買い増し｜保有385万株へ拡大 は CRYPTO TIMES に最初に表示されました。
 
-### 元ETH財団幹部、北朝鮮支援で禁錮5年｜仮想通貨での制裁回避を伝授
-- URL: https://crypto-times.jp/news-former-eth-foundation-executive-sentenced-to-5-years-in-prison-for-supporting-north-korea/
-- 概要: 米連邦裁判所は北朝鮮による制裁回避を支援したとして、仮想通貨研究者のバージル・グリフィス被告に対し禁錮63ヶ月および10万ドルの罰金を言い渡しました。今回の判決は米国政府による対北朝鮮制裁の執行における重要な節目となりま [&#8230;]
-投稿 元ETH財団幹部、北朝鮮支援で禁錮5年｜仮想通貨での制裁回避を伝授 は CRYPTO TIMES に最初に表示されました。
+### Hyperliquid、1人あたり7800万ドル稼ぐ？GSの60倍超の驚異的生産性
+- URL: https://crypto-times.jp/news-hyperliquid-earns-78-million-per-person/
+- 概要: 分散型取引所（DEX）のHyperliquidが、伝統的な金融機関や他のテック企業を圧倒する驚異的な生産性を記録していることが明らかになりました。 https://t.co/ifpTIr2QUY — ZJ (@zheng [&#8230;]
+投稿 Hyperliquid、1人あたり7800万ドル稼ぐ？GSの60倍超の驚異的生産性 は CRYPTO TIMES に最初に表示されました。
 
-### ソラナRWA上位50銘柄公開、株式や金もトークン化で市場拡大か
-- URL: https://crypto-times.jp/news-solana-rwa-top-50-stocks-revealed/
-- 概要: オンチェーンデータ分析プラットフォームのToken Terminalは、ソラナブロックチェーン上における実物資産（RWA）の時価総額ランキング上位50銘柄を公開しました。 Top 50 RWAs on @solana,  [&#8230;]
-投稿 ソラナRWA上位50銘柄公開、株式や金もトークン化で市場拡大か は CRYPTO TIMES に最初に表示されました。
+### ビットコイン7.8万ドルで拒絶、今後は調整か？ETF流入と売り圧力が交錯
+- URL: https://crypto-times.jp/news-bitcoin-rejected-at-78000-will-a-correction-follow/
+- 概要: ビットコイン（BTC）市場は強気と弱気のシグナルが複雑に交錯する局面を迎えています。オンチェーンデータ分析企業のGlassnodeが公開した最新レポートによると、BTC価格は7万1000ドルから7万8000ドルまで上昇し [&#8230;]
+投稿 ビットコイン7.8万ドルで拒絶、今後は調整か？ETF流入と売り圧力が交錯 は CRYPTO TIMES に最初に表示されました。
 
-### リップル(XRP)、26年5月期限のオプション取引が話題
-- URL: https://crypto-times.jp/news-ripple-xrp-options-trading-with-a-may-2026-expiration-is-generating-buzz/
-- 概要: 仮想通貨デリバティブ取引所のDeribitにおいて、リップル（XRP）のオプション市場で注目すべき動きが観測されました。 Open interest has increased at the $1.4 strike fo [&#8230;]
-投稿 リップル(XRP)、26年5月期限のオプション取引が話題 は CRYPTO TIMES に最初に表示されました。
+### AI取引が爆増、x402がシェア99%超で買い需要は売りの204倍
+- URL: https://crypto-times.jp/news-ai-trading-explodes/
+- 概要: データ分析プラットフォームのArtemisの統計により、AIエージェントによる決済（Agentic Payments）市場において、プロトコル「x402」が圧倒的な支配力を強めていることが明らかになりました。 State [&#8230;]
+投稿 AI取引が爆増、x402がシェア99%超で買い需要は売りの204倍 は CRYPTO TIMES に最初に表示されました。
 
-### ビットコインETFに10億ドル流入、1月以来の最高水準｜機関投資家が攻勢か
-- URL: https://crypto-times.jp/news-1-billion-flows-into-bitcoin-etf/
-- 概要: 米国の現物ビットコインETFへの週間純流入額が、1月中旬以来の最高水準となる約10億ドルに達したことが明らかになりました。先週の流入額は9億9,650万ドルを記録し、過去3週間での累計流入額は18億ドルに上っています。  [&#8230;]
-投稿 ビットコインETFに10億ドル流入、1月以来の最高水準｜機関投資家が攻勢か は CRYPTO TIMES に最初に表示されました。
+### 仮想通貨市場、7ヶ月ぶり「強欲」へ｜市場好転なるか
+- URL: https://crypto-times.jp/news-cryptocurrency-market-shows-signs-of-greed-for-the-first-time-in-7-months/
+- 概要: 株式および仮想通貨市場において、投資家心理が約7ヶ月ぶりに「恐怖（Fear）」から「強欲（Greed）」へと転換したことが明らかになりました。市場全体のセンチメントが好転する中、エコシステム内ではセキュリティ対策や新たな [&#8230;]
+投稿 仮想通貨市場、7ヶ月ぶり「強欲」へ｜市場好転なるか は CRYPTO TIMES に最初に表示されました。
 
-### 【今日の仮想通貨ニュース】マイニング企業のAI転換が過去最多。仮想通貨が老後設計のヘッジに？
-- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-april-21st/
-- 概要: 4月21日、ビットコイン（BTC）の価格は75,790ドル前後で推移しており、イーサリアム（ETH）は約2,310ドル、ソラナ（SOL）は約85ドルで取引されています。世界の暗号資産時価総額は2.64兆ドルで、ビットコイ [&#8230;]
-投稿 【今日の仮想通貨ニュース】マイニング企業のAI転換が過去最多。仮想通貨が老後設計のヘッジに？ は CRYPTO TIMES に最初に表示されました。
+### ユーロステーブルコインに商機？独自エコシステムの構築なるか
+- URL: https://crypto-times.jp/news-are-there-business-opportunities-in-euro-stablecoins/
+- 概要: 仮想通貨市場は依然として構造的に米ドル建てが主流であり、ユーロステーブルコインである「EURC」の規模はUSDCやUSDTと比較すると極めて小さい状況にあります。しかし欧州の包括的な仮想通貨規制「MiCA」の施行により、 [&#8230;]
+投稿 ユーロステーブルコインに商機？独自エコシステムの構築なるか は CRYPTO TIMES に最初に表示されました。
 
-### 米イラン停戦交渉の混乱でクリプト取引が新局面へ｜グローバル金融の延長線
-- URL: https://crypto-times.jp/news-the-turmoil-in-us-iran-ceasefire-negotiations-is-putting-crypto-trading-into-a-new-phase/
-- 概要: ホルムズ海峡をめぐる危機の最中、仮想通貨プラットフォームに多くの投資家からの関心が集まっています。 国際エネルギー機関（IEA）によると、2025年にホルムズ海峡を通過した原油は1日あたり約2,000万バレルで世界の海上 [&#8230;]
-投稿 米イラン停戦交渉の混乱でクリプト取引が新局面へ｜グローバル金融の延長線 は CRYPTO TIMES に最初に表示されました。
+### メタプラネットが世界最大のBTC会議に出展？ブース設置が示唆
+- URL: https://crypto-times.jp/news-metaplanet-to-exhibit-at-the-worlds-largest-btc-conference/
+- 概要: 世界最大規模を誇るカンファレンス「ザ・ビットコイン・カンファレンス（The Bitcoin Conference）」へのメタプラネットの出展が示唆されています。 THE BITCOIN 2026 EXPO HALL &# [&#8230;]
+投稿 メタプラネットが世界最大のBTC会議に出展？ブース設置が示唆 は CRYPTO TIMES に最初に表示されました。
 
-### S&P500最高値、伝統的金融ラリーが崩れたときビットコインはどうなる？
-- URL: https://crypto-times.jp/news-what-happens-to-bitcoin-when-the-traditional-financial-rally-collapses/
-- 概要: S&#38;P 500が4月17日に7,126ポイントと過去最高値を更新した同じ日、ミシガン大学が発表した4月速報値の消費者信頼感指数は47.6と調査史上最低の水準に落ち込みました。株式市場と家計の実感が、かつてないほど [&#8230;]
-投稿 S&#038;P500最高値、伝統的金融ラリーが崩れたときビットコインはどうなる？ は CRYPTO TIMES に最初に表示されました。
+### 【今日の仮想通貨ニュース】円のリスクヘッジにBTCが浮上。パウエル解任でインフレ再燃？
+- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-april-22nd/
+- 概要: 4月22日、ビットコイン（BTC）の価格は77,950ドル前後で推移しており、イーサリアム（ETH）は約2,390ドル、ソラナ（SOL）は約87ドルで取引されています。世界の暗号資産時価総額は2.7兆ドルで、ビットコイン [&#8230;]
+投稿 【今日の仮想通貨ニュース】円のリスクヘッジにBTCが浮上。パウエル解任でインフレ再燃？ は CRYPTO TIMES に最初に表示されました。
 
-### 「DeFiサマー」から6年、相次ぐハッキングで分散型金融は落ち目なのか
-- URL: https://crypto-times.jp/news-is-decentralized-finance-on-the-decline-due-to-a-series-of-hacking-incidents/
-- 概要: KelpDAOで2億9,200万ドル規模のrsETHエクスプロイト（不正利用）が発生し、週末だけで約100億ドルの資金がDeFi（分散型金融）市場から流出しました。これは4月1日のDrift Protocolへの侵害、3 [&#8230;]
-投稿 「DeFiサマー」から6年、相次ぐハッキングで分散型金融は落ち目なのか は CRYPTO TIMES に最初に表示されました。
+### Dune、60超のチェーンをリアルタイム監視｜新機能でプッシュ通知が可能に
+- URL: https://crypto-times.jp/news-dune-monitors-over-60-chains-in-real-time/
+- 概要: オンチェーンデータ分析プラットフォームのDune（Dune Sim）は、新たなデータ配信機能「Sim Subscriptions」を発表しました。これによりユーザーは60以上のブロックチェーンにおける活動をリアルタイムで [&#8230;]
+投稿 Dune、60超のチェーンをリアルタイム監視｜新機能でプッシュ通知が可能に は CRYPTO TIMES に最初に表示されました。
 
-### XRPがアルトコインETFを主導、週間流入額5500万ドルを記録
-- URL: https://crypto-times.jp/news-xrp-leads-altcoin-etf/
-- 概要: 中東情勢の緊迫化で伝統的市場が揺れる中、機関投資家がビットコインとイーサリアムの2大資産を超えて、アルトコインへの積極的な資金移動を始めています。先週（4月13日〜19日）のXRPのスポット価格に連動する米国ETF商品へ [&#8230;]
-投稿 XRPがアルトコインETFを主導、週間流入額5500万ドルを記録 は CRYPTO TIMES に最初に表示されました。
+### ビットコインが7万8000ドルまで回復｜重要水準を突破
+- URL: https://crypto-times.jp/news-btc-got-78000/
+- 概要: ビットコイン（BTC）の価格が日本時間2026年4月22日午後2時台に一時78,446ドルまで上昇し、その後も78,100ドル前後で推移しています。4月13日に記録した70,800ドル台の安値から1週間余りで約10%の反 [&#8230;]
+投稿 ビットコインが7万8000ドルまで回復｜重要水準を突破 は CRYPTO TIMES に最初に表示されました。
 
-### 上場マイナーが過去最多のビットコインを売却しAIに転換｜セキュリティに懸念か
-- URL: https://crypto-times.jp/news-listed-miners-sell-record-amounts-of-bitcoin-and-switch-to-ai/
-- 概要: 上場ビットコインマイナー各社が2026年第1四半期に合計3万2,000枚以上のビットコインを売却し、過去最大規模の売り越しを記録しました。2022年のTerra-Luna崩壊時に業界全体で売却した約2万枚をも上回るこの数 [&#8230;]
-投稿 上場マイナーが過去最多のビットコインを売却しAIに転換｜セキュリティに懸念か は CRYPTO TIMES に最初に表示されました。
+### Hyperliquid創設者が語る「少数精鋭」の戦略、Q1収益1.9億ドルの背景
+- URL: https://crypto-times.jp/news-hyperliquid-founder-discusses-his-small-but-elite-strategy/
+- 概要: 分散型取引所（DEX）の「Hyperliquid」の創設者であるジェフ・ヤン（Jeff Yan）氏が、同プロトコルの開発体制と組織哲学について語りました。ヤン氏はHyperliquidのコアチームが厳格に技術者中心の構成 [&#8230;]
+投稿 Hyperliquid創設者が語る「少数精鋭」の戦略、Q1収益1.9億ドルの背景 は CRYPTO TIMES に最初に表示されました。
 
-### 「老後設計」が揺らぐ時代に仮想通貨が解決策に？日本2回・欧州3回の利上げ予想
-- URL: https://crypto-times.jp/news-in-an-era-where-retirement-planning-is-becoming-uncertain-could-cryptocurrency-be-the-solution/
-- 概要: 2026年末までに日本では2回、欧州では3回の追加利上げが予想されています。一方、米国は利下げから据え置きへとシフト。「金利が高い時代」の到来は住宅ローンや年金運用に直接影響を与え、個人の資産形成の前提を根底から変えつつ [&#8230;]
-投稿 「老後設計」が揺らぐ時代に仮想通貨が解決策に？日本2回・欧州3回の利上げ予想 は CRYPTO TIMES に最初に表示されました。
+### トランプ氏、イラン停戦延長を表明｜仮想通貨市場に追い風なるか
+- URL: https://crypto-times.jp/news-trump-announces-extension-of-ceasefire-with-iran/
+- 概要: ドナルド・トランプ氏は自身のSNS「Truth Social」にて、イランに対する攻撃を保留し、現在実施している停戦を延長する方針を明らかにしました。 トランプ氏の声明によると、今回の決定はパキスタンのアシム・ムニール陸 [&#8230;]
+投稿 トランプ氏、イラン停戦延長を表明｜仮想通貨市場に追い風なるか は CRYPTO TIMES に最初に表示されました。
 
-### サプライチェーン再編が示す「国境の壁」とビットコインの重要性
-- URL: https://crypto-times.jp/news-the-wall-of-borders-and-the-importance-of-bitcoin/
-- 概要: トランプ政権が「相互関税」を世界に宣言してから2026年4月で1年が経過しました。中国からの輸入は減少した一方、米国の貿易赤字は縮まるどころか拡大。データセンター建設ブームで半導体・コンピューターの輸入が急増したためです [&#8230;]
-投稿 サプライチェーン再編が示す「国境の壁」とビットコインの重要性 は CRYPTO TIMES に最初に表示されました。
+### 予測市場Polymarketが無期限先物取引導入へ、Kalshiも参入計画か
+- URL: https://crypto-times.jp/news-prediction-market-polymarket-to-introduce-perpetual-futures-trading/
+- 概要: 予測市場の主要プラットフォームであるPolymarketが、パーペチュアル（無期限先物）取引への参入を発表しました。 We price the future. Now you can lever it. Perps ar [&#8230;]
+投稿 予測市場Polymarketが無期限先物取引導入へ、Kalshiも参入計画か は CRYPTO TIMES に最初に表示されました。
 
-### 史上最高値圏の「金」がビットコインに示すもの
-- URL: https://crypto-times.jp/news-what-gold-at-an-all-time-high-tells-us-about-bitcoin/
-- 概要: 現物金価格が1オンス4,800ドル台で推移し、史上最高値圏をうかがう動きが続いています。2025年の年間上昇率は65%と1979年以来の大幅高を記録し、2026年も勢いは衰えていません。この金の高騰が何を意味するのか、そ [&#8230;]
-投稿 史上最高値圏の「金」がビットコインに示すもの は CRYPTO TIMES に最初に表示されました。
+### DeFiハッキングを防げ、Curve創設者がイーサ・ソラナ財団に基準策定を要請
+- URL: https://crypto-times.jp/news-curve-founder-requests-ether-solana-foundation-to-develop-standards/
+- 概要: Curve Finance創設者であるマイケル・エゴロフ氏は、DeFi（分散型金融）業界全体におけるセキュリティ基準の策定を呼びかけました。これは中央集権的な単一障害点（Single Point of Failure）に [&#8230;]
+投稿 DeFiハッキングを防げ、Curve創設者がイーサ・ソラナ財団に基準策定を要請 は CRYPTO TIMES に最初に表示されました。
 
-### ドル全面安が示す「米国売り」とビットコインの立ち位置
-- URL: https://crypto-times.jp/news-the-broad-decline-in-the-dollar-indicates-a-sell-on-the-us-and-bitcoins-position/
-- 概要: トランプ米大統領がFRB（連邦準備制度理事会）のパウエル議長に対する解任圧力を強めています。2026年4月21日には米株・米国債・米ドルがそろって下落する「トリプル安」が再燃し、金融市場は「米国売り」の様相を呈しました。 [&#8230;]
-投稿 ドル全面安が示す「米国売り」とビットコインの立ち位置 は CRYPTO TIMES に最初に表示されました。
+### Aave、rsETH問題でWETH供給再開もLTVは0｜一部市場は凍結継続
+- URL: https://crypto-times.jp/news-aave-resumes-weth-supply-amid-rseth-issues-but-ltv-remains-0/
+- 概要: 大手DeFiプロトコルのAaveは、rsETHに関連した一連の騒動に関する最新のアップデートを公開しました。Ethereum Core V3市場におけるWETHのリザーブ（準備金）が凍結解除され、ユーザーによるWETHの [&#8230;]
+投稿 Aave、rsETH問題でWETH供給再開もLTVは0｜一部市場は凍結継続 は CRYPTO TIMES に最初に表示されました。
 
-### ストラテジー社が25.4億ドルでBTC買い増し、保有81.5万枚へ
-- URL: https://crypto-times.jp/news-strategy-inc-increases-its-btc-holdings-by-2-54-billion/
-- 概要: 米国の上場企業ストラテジー社が2026年4月13〜19日の1週間で34,164BTCを約25億4000万ドルで購入しました。同社の保有総数は815,061BTCに達し、累計投資額は約616億ドルとなりました。 Strat [&#8230;]
-投稿 ストラテジー社が25.4億ドルでBTC買い増し、保有81.5万枚へ は CRYPTO TIMES に最初に表示されました。
+### Bitmine、1.4億ドル相当のETHを追加ステーキング｜保有量の68%超に
+- URL: https://crypto-times.jp/news-bitmine-stakes-an-additional-140-million-worth-of-eth/
+- 概要: 米Fundstrat社のトム・リー氏が率いるBitmineが、イーサリアム（ETH）のステーキングをさらに加速させています。 Tom Lee(@fundstrat)&#8217;s #Bitmine staked ano [&#8230;]
+投稿 Bitmine、1.4億ドル相当のETHを追加ステーキング｜保有量の68%超に は CRYPTO TIMES に最初に表示されました。
 
-### 日本円ステーブルコイン「JPYC」、28億円を追加調達
-- URL: https://crypto-times.jp/news-jpyc-raises-an-additional-2-8-billion-yen/
-- 概要: 日本円ステーブルコイン「JPYC」を運営するJPYC株式会社が、2026年4月20日にシリーズBセカンドクローズで28億円の追加調達を発表しました。1stクローズと合わせた累計調達額は約46億円に達します。 【お知らせ】 [&#8230;]
-投稿 日本円ステーブルコイン「JPYC」、28億円を追加調達 は CRYPTO TIMES に最初に表示されました。
+### 円のリスクヘッジにビットコインが浮上、金利上昇局面の生き抜き方
+- URL: https://crypto-times.jp/news-bitcoin-emerges-as-a-hedge-against-the-risk-associated-with-the-yen/
+- 概要: 日本の10年国債利回りが2.4%を突破しました。2024年初頭まで1%前後で推移していた長期金利が、わずか2年余りで倍以上に跳ね上がった計算になります。過去最大規模となった122兆円の国家予算と、防衛費拡充をめぐる追加支 [&#8230;]
+投稿 円のリスクヘッジにビットコインが浮上、金利上昇局面の生き抜き方 は CRYPTO TIMES に最初に表示されました。
 
-### たった46分間でKelpDAOより410億円が流出、週末には1兆円が市場から流出したDeFi最大の事件は何が問題だったのか
-- URL: https://crypto-times.jp/new-kelp-aave-exploit/
-- 概要: 日本時間2026年4月19日2時35分、ブロックチェーン上で偽造されたたった1通のメッセージが、DeFi史上屈指の連鎖危機を引き起こした。 リキッドリステーキングプロトコル KelpDAO のクロスチェーンブリッジが攻撃 [&#8230;]
-投稿 たった46分間でKelpDAOより410億円が流出、週末には1兆円が市場から流出したDeFi最大の事件は何が問題だったのか は CRYPTO TIMES
+### なぜ今、仮想通貨が「証券」を卒業？米規制当局声明の全貌とは
+- URL: https://crypto-times.jp/news-why-are-cryptocurrencies-now-graduating-from-being-classified-as-securities/
+- 概要: 3月17日、米国の金融規制史に残る出来事がありました。米証券取引委員会（SEC）と商品先物取引委員会（CFTC）が共同解釈声明を発表し、「ほとんどの仮想通貨トークンは証券ではない」と正式に認定したのです。 10年以上にわ [&#8230;]
+投稿 なぜ今、仮想通貨が「証券」を卒業？米規制当局声明の全貌とは は CRYPTO TIMES に最初に表示されました。
+
+### なぜ中国富裕層はBTCを買う？不動産崩壊とデフレが招く資本流出
+- URL: https://crypto-times.jp/news-why-are-wealthy-chinese-buying-bitcoin/
+- 概要: 中国経済のデフレ基調が止まりません。GDPデフレータは2025年10〜12月期まで11四半期連続でマイナスを記録し、デフレ圧力は依然として不変です。世界第2位の経済大国の慢性的な機能不全は、グローバルな経済秩序にどのよう [&#8230;]
+投稿 なぜ中国富裕層はBTCを買う？不動産崩壊とデフレが招く資本流出 は CRYPTO TIMES に最初に表示されました。
+
+### パウエル解任でインフレ再燃？「政治から自由な」ビットコインが選ばれる訳
+- URL: https://crypto-times.jp/news-why-btc-which-is-free-from-politics-is-chosen/
+- 概要: トランプ米大統領が連邦準備制度理事会（FRB）のパウエル議長に対し「期限までに辞任しなければ解任せざるを得ない」と発言しました。さらに司法省による捜査継続の意向も示したと報じられています。 5月15日に任期満了を迎えるパ [&#8230;]
+投稿 パウエル解任でインフレ再燃？「政治から自由な」ビットコインが選ばれる訳 は CRYPTO TIMES に最初に表示されました。
 
 ---
-合計: 28 件
+合計: 30 件
