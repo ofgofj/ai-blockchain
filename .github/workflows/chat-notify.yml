@@ -1,0 +1,49 @@
+name: Google Chat通知
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'Summary/**'
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: 最新レポートから通知
+        env:
+          WEBHOOK_URL: ${{ secrets.GOOGLE_CHAT_WEBHOOK }}
+        run: |
+          # 最新のSummary/YYYY/MM/YYYY-MM-DD.mdを取得
+          LATEST=$(find Summary -type f -name "????-??-??.md" | sort -r | head -1)
+          if [ -z "$LATEST" ]; then
+            echo "レポートなし、通知スキップ"
+            exit 0
+          fi
+
+          # 日付をファイル名から抽出
+          REPORT_DATE=$(basename "$LATEST" .md)
+
+          # 記事数を冒頭の「> N件の記事を収集」行から抽出
+          ARTICLE_COUNT=$(grep -oP '^> \K[0-9]+(?=件)' "$LATEST" | head -1)
+          if [ -z "$ARTICLE_COUNT" ]; then
+            ARTICLE_COUNT="?"
+          fi
+
+          echo "レポート: $LATEST"
+          echo "日付: $REPORT_DATE / 記事数: $ARTICLE_COUNT"
+
+          # Google Chatに送信
+          curl -s -X POST -H "Content-Type: application/json" \
+            -d "{
+              \"text\": \"⛓️ *ブロックチェーンキャッチアップ ${REPORT_DATE}*\n今日は${ARTICLE_COUNT}件まとめました。気になる方だけどうぞ。\n📖 https://ofgofj.github.io/ai-blockchain/\"
+            }" \
+            "$WEBHOOK_URL"
+
+          echo "通知送信完了"
