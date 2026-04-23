@@ -1,48 +1,138 @@
-# ブロックチェーンRSS収集 2026-04-23
+# ブロックチェーンRSS収集 2026-04-24
 
-収集日時: 2026-04-23 06:51 JST
+収集日時: 2026-04-24 06:46 JST
 
 ---
 
-### 【4/22話題】ANAPが今月3度目のビットコイン追加購入、Volo Protocolから約3.5Mドルの不正流出、アービトラムが約3万766ETH凍結など（音声ニュース）
-- URL: https://www.neweconomy.jp/posts/567447
+### 【5月14日開催】CBDC・預金のトークン化・ステーブルコイン ― デジタルマネーと次世代決済インフラの行方
+- URL: https://jba-web.jp/news/24834?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%25905%25e6%259c%258814%25e6%2597%25a5%25e9%2596%258b%25e5%2582%25ac%25e3%2580%2591cbdc%25e3%2583%25bb%25e9%25a0%2590%25e9%2587%2591%25e3%2581%25ae%25e3%2583%2588%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25b3%25e5%258c%2596%25e3%2583%25bb%25e3%2582%25b9%25e3%2583%2586%25e3%2583%25bc%25e3%2583%2596%25e3%2583%25ab
+- 概要: 近年、ブロックチェーンを活用した新たな決済手段の検討が世界的に進展しています。中央銀行デジタル通貨（CBDC）に加え、銀行預金のトークン化やステーブルコインなど、多様なデジタルマネーの動きが加速しています。日本においても [&#8230;]
+The post 【5月14日開催】CBDC・預金のトークン化・ステーブルコイン ― デジタルマネーと次世代決済インフラの行方 first appeared 
+
+### 【4/23話題】欧州12銀行のユーロステーブルコイン発行計画、カルシとポリマーケットが暗号資産デリバティブ市場参入へ、コインチェックにSUI上場など（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/567744
 - 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
 
-### ニューヨーク州司法長官、コインベースとジェミナイを提訴
-- URL: https://www.neweconomy.jp/posts/567408
-- 概要: 予測市場を「違法な賭博」と主張 米ニューヨーク州司法長官のレティシア・ジェームズ（Letitia James）氏が、暗号資産（仮想通貨）取引所のコインベース（Coinbase）とジェミナイ（Gemini）を4月21日に提 [&#8230;]
+### ローニン、L2移行詳細を公表。RONインフレ率1%未満へ見直し
+- URL: https://www.neweconomy.jp/posts/567873
+- 概要: 既存計画の詳細明らかに、RONインフレ率は1%未満へ ゲーム特化型ブロックチェーン「ローニン（Ronin）」の開発元であるスカイメイビス（Sky Mavis）が、同ネットワークのイーサリアム（Ethereum）のレイヤー [&#8230;]
 
-### ANAPが今月3度目のビットコイン追加購入、総保有数は約1432BTCに
-- URL: https://www.neweconomy.jp/posts/567402
-- 概要: ANAPがビットコイン追加購入 ビットコインの財務戦略を進める東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を4月22日に発表した。なお同社は [&#8230;]
+### 米軍司令官、ビットコインをサイバー安全保障技術として評価。ノード保有にも言及
+- URL: https://www.neweconomy.jp/posts/567734
+- 概要: 監視・防衛目的で注目 米インド太平洋軍（INDOPACOM）司令官のサミュエル・パパロ（Samuel Paparo）大将が、議会公聴会においてビットコイン（BTC）を米国の安全保障に関連する技術として言及し、注目を集めて [&#8230;]
 
-### モルガンスタンレーの「ビットコイン現物ETF」、取引開始から10営業日で保有額約1.42億ドルに
-- URL: https://www.neweconomy.jp/posts/567361
-- 概要: Morgan StanleyのMSBTが保有額1億ドル突破 米大手金融機関モルガン・スタンレー（Morgan Stanley）組成のビットコイン（BTC）現物ETF（上場投資信託）が、上場から10営業日で約1億4,185 [&#8230;]
+### ハッシュキー、ベトナム向け暗号資産取引所構築でCAEXと提携
+- URL: https://www.neweconomy.jp/posts/567729
+- 概要: ハッシュキーが機関投資家向け取引所技術を独占提供 暗号資産（仮想通貨）関連事業を展開するハッシュキー・グループ（HashKey Group）が、ベトナムで暗号資産（仮想通貨）取引所の構築を進めるCAEX（Vietnam  [&#8230;]
 
-### ワールド、World IDを大幅アップデート。TinderやZoomなどで「人間証明」展開へ
-- URL: https://www.neweconomy.jp/posts/567353
-- 概要: World IDを刷新しTinderやZoomなどで人間認証を展開 暗号資産（仮想通貨）関連プロジェクト「ワールド（World）」が、「人間であることの証明（proof of human）」を提供する「ワールドID（Wo [&#8230;]
+### コインチェックにスイ（SUI）上場、国内8例目
+- URL: https://www.neweconomy.jp/posts/567718
+- 概要: コインチェックがSUI取扱開始 国内暗号資産（仮想通貨）取引所コインチェック（Coincheck）が、暗号資産スイ（SUI）の取り扱い開始を4月23日に発表した。 SUIは、メタ社（旧フェイスブック社）が開発していたブロ [&#8230;]
 
-### 東京大学、ワールドのAMPCネットワーク参画
-- URL: https://www.neweconomy.jp/posts/567342
-- 概要: 東大がWorldのAMPCネットワーク参画 東京大学松尾・岩澤研究室が、人間証明基盤「ワールド（World）」のグローバルAMPC（匿名化マルチパーティ計算）ネットワークに参画した。ワールドへの開発貢献主体ツールズ・フォ [&#8230;]
+### アライドアーキテクツ、31.5億円調達へ。BTC・ETH・SOL運用など「オンチェーン経済圏」構想推進
+- URL: https://www.neweconomy.jp/posts/567703
+- 概要: アライドがデジタル資産運用軸にオンチェーン事業参入へ マーケティング支援事業を展開するアライドアーキテクツが、第三者割当により新株式および新株予約権を発行し、総額31億5,000万円規模の資金調達を実施する。4月21日に [&#8230;]
 
-### テザーの投資ファンド、ビットコインマイニングのAntalpha株8.2%保有
-- URL: https://www.neweconomy.jp/posts/567327
-- 概要: Tetherがマイニング金融企業Antalphaに出資 ステーブルコイン「USDT」発行元として知られるテザー（Tether）グループによる投資ファンドが、ビットコイン（BTC）マイニング関連の金融サービス企業アンタルフ [&#8230;]
+### 国内初、コイントレードがポリゴン（POL）のステーキングサービス提供開始
+- URL: https://www.neweconomy.jp/posts/567693
+- 概要: コイントレードがPOLのステーキングサービス提供へ 国内暗号資産（仮想通貨）取引所コイントレード（CoinTrade）提供のステーキングサービス「コイントレードステーク（CoinTradeStake）」にて、暗号資産ポリ [&#8230;]
 
-### スイ上のVolo Protocolでエクスプロイト、約350万ドル規模の被害。一部資産は凍結成功
-- URL: https://www.neweconomy.jp/posts/567311
-- 概要: Volo Protocolから約350万ドルの不正流出 スイ（Sui）ブロックチェーン上のリキッドステーキングプロトコル「ボロプロトコル（Volo Protocol）」において、セキュリティインシデントが発生したことが、 [&#8230;]
+### 英FCA、違法な暗号資産P2P取引の疑いで初の合同摘発。ロンドン8カ所を捜索
+- URL: https://www.neweconomy.jp/posts/567676
+- 概要: 英FCAが違法な暗号資産P2P取引の疑いで初の合同摘発 英国の金融行為規制機構（Financial Conduct Authority：FCA）が、違法な暗号資産（仮想通貨）のピアツーピア（P2P）取引が行われている疑い [&#8230;]
 
-### カーブ創設者、DeFiの安全基準策定を提言。イーサリアム財団とソラナ財団に言及
-- URL: https://www.neweconomy.jp/posts/567287
-- 概要: DeFiの安全基準策定を提言 DEX（分散型取引所）カーブ（Curve）の創設者マイケル・エゴロフ（Michael Egorov）氏が、分散型金融（DeFi）の安全基準の策定を提言した。同氏が自身のXアカウントで4月21 [&#8230;]
+### 米銀行団体、GENIUS法関連規則案のコメント期間延長を要請
+- URL: https://www.neweconomy.jp/posts/567674
+- 概要: OCC規則未確定で対応困難 米国の主要銀行業界団体4団体が、ステーブルコイン規制の包括的な法律「GENIUS法」に関連する複数の規則制定通知（NPRM）について、パブリックコメント期間の延長を求める共同書簡を4月21日に [&#8230;]
 
-### コインベース、英国で暗号資産担保ローン提供開始。BTCやETHでUSDC借入可能に
-- URL: https://www.neweconomy.jp/posts/567255
-- 概要: コインベースが英国で暗号資産担保ローン提供開始 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、英国ユーザー向けに暗号資産を担保としたUSDC借入サービスの提供開始を4月20日に発表した。 同サービスでは [&#8230;]
+### ジャスティンサン、トランプ一家共同創業の企業を提訴。WLFIトークン凍結は違法と主張
+- URL: https://www.neweconomy.jp/posts/567667
+- 概要: ジャスティン・サンがWLFIを提訴 トロン（TRON）ブロックチェーンの創設者であるジャスティン・サン（Justin Sun）氏が、ドナルド・トランプ（Donald Trump）米大統領とその息子らが共同創業したデジタル [&#8230;]
+
+### ニューヨーク州がコインベースとGeminiに34億ドルの罰金を請求
+- URL: https://crypto-times.jp/news-new-york-state-is-demanding-a-3-4-billion-fine-from-coinbase-and-gemini/
+- 概要: ニューヨーク州のレティシア・ジェームズ司法長官は仮想通貨取引所のCoinbaseとGeminiに対し、合計34億ドルの罰金と損害賠償を求める訴訟を起こしました。同長官は両社が予測市場サービスを未成年を含む一般ユーザーに提 [&#8230;]
+投稿 ニューヨーク州がコインベースとGeminiに34億ドルの罰金を請求 は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン強気相場入りの転換点か、ファンディングレートが2023年以来の最低水準
+- URL: https://crypto-times.jp/news-is-this-a-turning-point-for-bitcoin-to-enter-a-bull-market/
+- 概要: ビットコイン（BTC）の市場が、強気相場入りの転換点に差し掛かっている可能性を示す指標が複数出ています。オンチェーン分析会社AlphractalはBTCのファンディングレートが2023年以来最もネガティブな水準に達したと [&#8230;]
+投稿 ビットコイン強気相場入りの転換点か、ファンディングレートが2023年以来の最低水準 は CRYPTO TIMES に最初に表示されました。
+
+### 仮想通貨詐欺が軍事攻撃に発展、ホルムズ海峡でタンカー銃撃
+- URL: https://crypto-times.jp/news-cryptocurrency-scams-escalate-into-military-attacks/
+- 概要: ホルムズ海峡で商業タンカーがビットコイン（BTC）・テザー（USDT）での偽通行料詐欺に騙された後、イラン革命防衛隊の砲艦に発砲される事件が発生しました。仮想通貨詐欺が実際の軍事攻撃に繋がった前例のない事態として注目を集 [&#8230;]
+投稿 仮想通貨詐欺が軍事攻撃に発展、ホルムズ海峡でタンカー銃撃 は CRYPTO TIMES に最初に表示されました。
+
+### なぜAppleで詐欺急増？新CEO就任の裏で仮想通貨資産が危ない
+- URL: https://crypto-times.jp/news-cryptocurrency-assets-are-at-risk-behind-the-scenes-of-the-new-ceos-appointment/
+- 概要: Appleは4月20日、ハードウェアエンジニアリング担当SVPのジョン・テルヌスが9月1日をもってティム・クックの後継CEOに就任すると発表しました。クックは会長職に移行します。 テルヌス氏はiPad・AirPods・i [&#8230;]
+投稿 なぜAppleで詐欺急増？新CEO就任の裏で仮想通貨資産が危ない は CRYPTO TIMES に最初に表示されました。
+
+### リップル、量子脅威への2028年完全対応を発表｜4段階のロードマップ
+- URL: https://crypto-times.jp/news-ripple-announces-full-support-for-quantum-threats-by-2028/
+- 概要: リップルはXRPレジャー（XRPL）を量子後暗号（PQC）に対応させるための多段階計画を発表し、2028年の完全対応を目標として設定しました。 この動きの背景にあるのはGoogleのQuantum AIが発表した最新の研 [&#8230;]
+投稿 リップル、量子脅威への2028年完全対応を発表｜4段階のロードマップ は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン最大規模のオプション満期が最悪のタイミングで発生
+- URL: https://crypto-times.jp/news-the-largest-bitcoin-option-expiry-in-history-occurred-at-the-worst-possible-time/
+- 概要: ビットコインは、今年最大規模のオプション満期を最悪のタイミングで迎えようとしています。CoinGlassのデータによると、Deribitで4月24日に満期を迎えるオプションの想定オープンインタレストは約80億7,000万 [&#8230;]
+投稿 ビットコイン最大規模のオプション満期が最悪のタイミングで発生 は CRYPTO TIMES に最初に表示されました。
+
+### イランが「デジタルオイル取引」を批判 、仮想通貨が地政学リスクの最前線へ
+- URL: https://crypto-times.jp/news-iran-criticizes-digital-oil-trading/
+- 概要: イランのモハンマド・バーゲル・ガリバフ国会議長がホルムズ海峡をめぐる危機の最中に「バイブ・トレーディングのデジタルオイル」を嘲り、米国債も同時に批判するという異例の発言を行いました。 表面的には投機的な価格形成への批判で [&#8230;]
+投稿 イランが「デジタルオイル取引」を批判 、仮想通貨が地政学リスクの最前線へ は CRYPTO TIMES に最初に表示されました。
+
+### パーペチュアル先物×予測市場、消えゆくプラットフォームの境界
+- URL: https://crypto-times.jp/news-perpetual-futures-x-prediction-markets/
+- 概要: 仮想通貨市場においてプラットフォームの「種別」がなくなりつつあります。予測市場大手のKalshiはCFTC（米商品先物取引委員会）の規制下で暗号資産パーペチュアル先物の提供を準備中であると報じられており、Polymark [&#8230;]
+投稿 パーペチュアル先物×予測市場、消えゆくプラットフォームの境界 は CRYPTO TIMES に最初に表示されました。
+
+### 4月だけで5億ドル超の仮想通貨ハッキング被害が発生｜Drift・KelpDAO
+- URL: https://crypto-times.jp/news-over-500-million-in-cryptocurrency-hacking-losses-occurred-in-april-alone/
+- 概要: 北朝鮮（DPRK）に関連するサイバー工作員が、2026年4月だけで5億ドル超の仮想通貨をDeFiプラットフォームから奪取していたことが明らかになりました。 4月18日にはクロスチェーン基盤のKelpDAOが約2億9,00 [&#8230;]
+投稿 4月だけで5億ドル超の仮想通貨ハッキング被害が発生｜Drift・KelpDAO は CRYPTO TIMES に最初に表示されました。
+
+### 【今日の仮想通貨ニュース】ストラテジー社のBTC保有が世界一へ。仮想通貨規制法案の進展に暗雲
+- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-april-23rd/
+- 概要: 4月23日、ビットコイン（BTC）の価格は77,660ドル前後で推移しており、イーサリアム（ETH）は約2,330ドル、ソラナ（SOL）は約85ドルで取引されています。世界の暗号資産時価総額は2.69兆ドルで、ビットコイ [&#8230;]
+投稿 【今日の仮想通貨ニュース】ストラテジー社のBTC保有が世界一へ。仮想通貨規制法案の進展に暗雲 は CRYPTO TIMES に最初に表示されました。
+
+### 数時間で95%暴落、アルトコインを襲った「死のループ」の正体とは
+- URL: https://crypto-times.jp/news-what-is-the-true-nature-of-the-death-loop-that-has-struck-altcoins/
+- 概要: 2026年4月18日、トークン「RAVE」の時価総額が約12億ドルから約67億ドルに急騰した後、わずか数時間で95%近く暴落するという事態が発生しました。 ブロックチェーン調査者のZachXBTは、インサイダーがRAVE [&#8230;]
+投稿 数時間で95%暴落、アルトコインを襲った「死のループ」の正体とは は CRYPTO TIMES に最初に表示されました。
+
+### 米上院で止まるCLARITY法、委員会審議が鍵か
+- URL: https://crypto-times.jp/news-the-clarity-act-is-stalled-in-the-us-senate/
+- 概要: 米国の仮想通貨市場構造を包括的に定める「CLARITY法」の上院通過が、危機的状況に直面しています。 下院は2025年7月17日に294対134という超党派の大差で可決しましたが、上院では「ステーブルコインの利回りを関連 [&#8230;]
+投稿 米上院で止まるCLARITY法、委員会審議が鍵か は CRYPTO TIMES に最初に表示されました。
+
+### ストラテジー社81万BTC保有、ブラックロック抜き世界一へ
+- URL: https://crypto-times.jp/news-strategy-inc-holds-810000-btc/
+- 概要: マイケル・セイラー氏が率いるストラテジー社は4月20日のSEC提出書類で、先週だけで34,164BTCを平均74,395ドルで追加取得したと開示しました。取得額は約25億4,000万ドルで同社の取得史上3番目の規模です。 [&#8230;]
+投稿 ストラテジー社81万BTC保有、ブラックロック抜き世界一へ は CRYPTO TIMES に最初に表示されました。
+
+### ホルムズ封鎖でBTCが「避難先」になる理由、中東依存の構造的脆弱性とは
+- URL: https://crypto-times.jp/news-why-btc-could-be-a-safe-haven-during-a-blockade-of-the-strait-of-hormuz/
+- 概要: 2026年4月初頭、WTI原油先物価格は1バレル100ドルを超える高水準で推移しました。背景にあるのは米国とイランの軍事衝突を受けたホルムズ海峡の機能停止です。国際通貨基金（IMF）のデータによれば4月5日時点で同海峡を [&#8230;]
+投稿 ホルムズ封鎖でBTCが「避難先」になる理由、中東依存の構造的脆弱性とは は CRYPTO TIMES に最初に表示されました。
+
+### 利下げでも利上げでもBTCには追い風？米GDP発表が焦点に
+- URL: https://crypto-times.jp/news-will-interest-rate-cuts-or-hikes-be-a-tailwind-for-btc/
+- 概要: 4月30日に公表される米国の2026年1〜3月期実質GDP成長率は、現在の金融市場における最大の注目指標のひとつです。前期（10〜12月期）は政府機関の一部閉鎖に伴う政府支出の減少が成長率を大幅に押し下げました。 今回は [&#8230;]
+投稿 利下げでも利上げでもBTCには追い風？米GDP発表が焦点に は CRYPTO TIMES に最初に表示されました。
+
+### 欧州8000億ユーロの再軍備、通貨希薄化でBTCが選ばれる理由
+- URL: https://crypto-times.jp/news-why-btc-is-chosen-in-the-context-of-currency-dilution/
+- 概要: 2026年3月初頭、EUのフォンデアライエン欧州委員長は「欧州再軍備計画（ReArm Europe Plan）」を発表しました。4年間で総額8,000億ユーロの国防費増加を目指す歴史的な規模の計画です。トランプ政権が欧州 [&#8230;]
+投稿 欧州8000億ユーロの再軍備、通貨希薄化でBTCが選ばれる理由 は CRYPTO TIMES に最初に表示されました。
+
+### 日銀利上げ見送りか、預金目減りの中で選ばれるビットコイン
+- URL: https://crypto-times.jp/news-bitcoin-is-the-preferred-choice-amidst-declining-bank-deposit-values/
+- 概要: 日本銀行は4月27〜28日に開く金融政策決定会合で、政策金利を現行の0.75%で据え置く公算が大きくなっています。中東情勢の混迷が続くなか、日本の経済・物価情勢に与える影響をまだ見極めきれていないことが主な理由です。 市 [&#8230;]
+投稿 日銀利上げ見送りか、預金目減りの中で選ばれるビットコイン は CRYPTO TIMES に最初に表示されました。
 
 ### 米3兆ドルの巨頭、メタプラネット株を大量買い増し｜保有385万株へ拡大
 - URL: https://crypto-times.jp/news-us-3-trillion-giant-increases-its-stake-in-metaplanet/
@@ -59,90 +149,5 @@
 - 概要: ビットコイン（BTC）市場は強気と弱気のシグナルが複雑に交錯する局面を迎えています。オンチェーンデータ分析企業のGlassnodeが公開した最新レポートによると、BTC価格は7万1000ドルから7万8000ドルまで上昇し [&#8230;]
 投稿 ビットコイン7.8万ドルで拒絶、今後は調整か？ETF流入と売り圧力が交錯 は CRYPTO TIMES に最初に表示されました。
 
-### AI取引が爆増、x402がシェア99%超で買い需要は売りの204倍
-- URL: https://crypto-times.jp/news-ai-trading-explodes/
-- 概要: データ分析プラットフォームのArtemisの統計により、AIエージェントによる決済（Agentic Payments）市場において、プロトコル「x402」が圧倒的な支配力を強めていることが明らかになりました。 State [&#8230;]
-投稿 AI取引が爆増、x402がシェア99%超で買い需要は売りの204倍 は CRYPTO TIMES に最初に表示されました。
-
-### 仮想通貨市場、7ヶ月ぶり「強欲」へ｜市場好転なるか
-- URL: https://crypto-times.jp/news-cryptocurrency-market-shows-signs-of-greed-for-the-first-time-in-7-months/
-- 概要: 株式および仮想通貨市場において、投資家心理が約7ヶ月ぶりに「恐怖（Fear）」から「強欲（Greed）」へと転換したことが明らかになりました。市場全体のセンチメントが好転する中、エコシステム内ではセキュリティ対策や新たな [&#8230;]
-投稿 仮想通貨市場、7ヶ月ぶり「強欲」へ｜市場好転なるか は CRYPTO TIMES に最初に表示されました。
-
-### ユーロステーブルコインに商機？独自エコシステムの構築なるか
-- URL: https://crypto-times.jp/news-are-there-business-opportunities-in-euro-stablecoins/
-- 概要: 仮想通貨市場は依然として構造的に米ドル建てが主流であり、ユーロステーブルコインである「EURC」の規模はUSDCやUSDTと比較すると極めて小さい状況にあります。しかし欧州の包括的な仮想通貨規制「MiCA」の施行により、 [&#8230;]
-投稿 ユーロステーブルコインに商機？独自エコシステムの構築なるか は CRYPTO TIMES に最初に表示されました。
-
-### メタプラネットが世界最大のBTC会議に出展？ブース設置が示唆
-- URL: https://crypto-times.jp/news-metaplanet-to-exhibit-at-the-worlds-largest-btc-conference/
-- 概要: 世界最大規模を誇るカンファレンス「ザ・ビットコイン・カンファレンス（The Bitcoin Conference）」へのメタプラネットの出展が示唆されています。 THE BITCOIN 2026 EXPO HALL &# [&#8230;]
-投稿 メタプラネットが世界最大のBTC会議に出展？ブース設置が示唆 は CRYPTO TIMES に最初に表示されました。
-
-### 【今日の仮想通貨ニュース】円のリスクヘッジにBTCが浮上。パウエル解任でインフレ再燃？
-- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-april-22nd/
-- 概要: 4月22日、ビットコイン（BTC）の価格は77,950ドル前後で推移しており、イーサリアム（ETH）は約2,390ドル、ソラナ（SOL）は約87ドルで取引されています。世界の暗号資産時価総額は2.7兆ドルで、ビットコイン [&#8230;]
-投稿 【今日の仮想通貨ニュース】円のリスクヘッジにBTCが浮上。パウエル解任でインフレ再燃？ は CRYPTO TIMES に最初に表示されました。
-
-### Dune、60超のチェーンをリアルタイム監視｜新機能でプッシュ通知が可能に
-- URL: https://crypto-times.jp/news-dune-monitors-over-60-chains-in-real-time/
-- 概要: オンチェーンデータ分析プラットフォームのDune（Dune Sim）は、新たなデータ配信機能「Sim Subscriptions」を発表しました。これによりユーザーは60以上のブロックチェーンにおける活動をリアルタイムで [&#8230;]
-投稿 Dune、60超のチェーンをリアルタイム監視｜新機能でプッシュ通知が可能に は CRYPTO TIMES に最初に表示されました。
-
-### ビットコインが7万8000ドルまで回復｜重要水準を突破
-- URL: https://crypto-times.jp/news-btc-got-78000/
-- 概要: ビットコイン（BTC）の価格が日本時間2026年4月22日午後2時台に一時78,446ドルまで上昇し、その後も78,100ドル前後で推移しています。4月13日に記録した70,800ドル台の安値から1週間余りで約10%の反 [&#8230;]
-投稿 ビットコインが7万8000ドルまで回復｜重要水準を突破 は CRYPTO TIMES に最初に表示されました。
-
-### Hyperliquid創設者が語る「少数精鋭」の戦略、Q1収益1.9億ドルの背景
-- URL: https://crypto-times.jp/news-hyperliquid-founder-discusses-his-small-but-elite-strategy/
-- 概要: 分散型取引所（DEX）の「Hyperliquid」の創設者であるジェフ・ヤン（Jeff Yan）氏が、同プロトコルの開発体制と組織哲学について語りました。ヤン氏はHyperliquidのコアチームが厳格に技術者中心の構成 [&#8230;]
-投稿 Hyperliquid創設者が語る「少数精鋭」の戦略、Q1収益1.9億ドルの背景 は CRYPTO TIMES に最初に表示されました。
-
-### トランプ氏、イラン停戦延長を表明｜仮想通貨市場に追い風なるか
-- URL: https://crypto-times.jp/news-trump-announces-extension-of-ceasefire-with-iran/
-- 概要: ドナルド・トランプ氏は自身のSNS「Truth Social」にて、イランに対する攻撃を保留し、現在実施している停戦を延長する方針を明らかにしました。 トランプ氏の声明によると、今回の決定はパキスタンのアシム・ムニール陸 [&#8230;]
-投稿 トランプ氏、イラン停戦延長を表明｜仮想通貨市場に追い風なるか は CRYPTO TIMES に最初に表示されました。
-
-### 予測市場Polymarketが無期限先物取引導入へ、Kalshiも参入計画か
-- URL: https://crypto-times.jp/news-prediction-market-polymarket-to-introduce-perpetual-futures-trading/
-- 概要: 予測市場の主要プラットフォームであるPolymarketが、パーペチュアル（無期限先物）取引への参入を発表しました。 We price the future. Now you can lever it. Perps ar [&#8230;]
-投稿 予測市場Polymarketが無期限先物取引導入へ、Kalshiも参入計画か は CRYPTO TIMES に最初に表示されました。
-
-### DeFiハッキングを防げ、Curve創設者がイーサ・ソラナ財団に基準策定を要請
-- URL: https://crypto-times.jp/news-curve-founder-requests-ether-solana-foundation-to-develop-standards/
-- 概要: Curve Finance創設者であるマイケル・エゴロフ氏は、DeFi（分散型金融）業界全体におけるセキュリティ基準の策定を呼びかけました。これは中央集権的な単一障害点（Single Point of Failure）に [&#8230;]
-投稿 DeFiハッキングを防げ、Curve創設者がイーサ・ソラナ財団に基準策定を要請 は CRYPTO TIMES に最初に表示されました。
-
-### Aave、rsETH問題でWETH供給再開もLTVは0｜一部市場は凍結継続
-- URL: https://crypto-times.jp/news-aave-resumes-weth-supply-amid-rseth-issues-but-ltv-remains-0/
-- 概要: 大手DeFiプロトコルのAaveは、rsETHに関連した一連の騒動に関する最新のアップデートを公開しました。Ethereum Core V3市場におけるWETHのリザーブ（準備金）が凍結解除され、ユーザーによるWETHの [&#8230;]
-投稿 Aave、rsETH問題でWETH供給再開もLTVは0｜一部市場は凍結継続 は CRYPTO TIMES に最初に表示されました。
-
-### Bitmine、1.4億ドル相当のETHを追加ステーキング｜保有量の68%超に
-- URL: https://crypto-times.jp/news-bitmine-stakes-an-additional-140-million-worth-of-eth/
-- 概要: 米Fundstrat社のトム・リー氏が率いるBitmineが、イーサリアム（ETH）のステーキングをさらに加速させています。 Tom Lee(@fundstrat)&#8217;s #Bitmine staked ano [&#8230;]
-投稿 Bitmine、1.4億ドル相当のETHを追加ステーキング｜保有量の68%超に は CRYPTO TIMES に最初に表示されました。
-
-### 円のリスクヘッジにビットコインが浮上、金利上昇局面の生き抜き方
-- URL: https://crypto-times.jp/news-bitcoin-emerges-as-a-hedge-against-the-risk-associated-with-the-yen/
-- 概要: 日本の10年国債利回りが2.4%を突破しました。2024年初頭まで1%前後で推移していた長期金利が、わずか2年余りで倍以上に跳ね上がった計算になります。過去最大規模となった122兆円の国家予算と、防衛費拡充をめぐる追加支 [&#8230;]
-投稿 円のリスクヘッジにビットコインが浮上、金利上昇局面の生き抜き方 は CRYPTO TIMES に最初に表示されました。
-
-### なぜ今、仮想通貨が「証券」を卒業？米規制当局声明の全貌とは
-- URL: https://crypto-times.jp/news-why-are-cryptocurrencies-now-graduating-from-being-classified-as-securities/
-- 概要: 3月17日、米国の金融規制史に残る出来事がありました。米証券取引委員会（SEC）と商品先物取引委員会（CFTC）が共同解釈声明を発表し、「ほとんどの仮想通貨トークンは証券ではない」と正式に認定したのです。 10年以上にわ [&#8230;]
-投稿 なぜ今、仮想通貨が「証券」を卒業？米規制当局声明の全貌とは は CRYPTO TIMES に最初に表示されました。
-
-### なぜ中国富裕層はBTCを買う？不動産崩壊とデフレが招く資本流出
-- URL: https://crypto-times.jp/news-why-are-wealthy-chinese-buying-bitcoin/
-- 概要: 中国経済のデフレ基調が止まりません。GDPデフレータは2025年10〜12月期まで11四半期連続でマイナスを記録し、デフレ圧力は依然として不変です。世界第2位の経済大国の慢性的な機能不全は、グローバルな経済秩序にどのよう [&#8230;]
-投稿 なぜ中国富裕層はBTCを買う？不動産崩壊とデフレが招く資本流出 は CRYPTO TIMES に最初に表示されました。
-
-### パウエル解任でインフレ再燃？「政治から自由な」ビットコインが選ばれる訳
-- URL: https://crypto-times.jp/news-why-btc-which-is-free-from-politics-is-chosen/
-- 概要: トランプ米大統領が連邦準備制度理事会（FRB）のパウエル議長に対し「期限までに辞任しなければ解任せざるを得ない」と発言しました。さらに司法省による捜査継続の意向も示したと報じられています。 5月15日に任期満了を迎えるパ [&#8230;]
-投稿 パウエル解任でインフレ再燃？「政治から自由な」ビットコインが選ばれる訳 は CRYPTO TIMES に最初に表示されました。
-
 ---
-合計: 30 件
+合計: 31 件
