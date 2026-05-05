@@ -1,93 +1,78 @@
-# ブロックチェーンRSS収集 2026-05-05
+# ブロックチェーンRSS収集 2026-05-06
 
-収集日時: 2026-05-05 07:01 JST
-
----
-
-### ステーブルコインが法的地位を獲得も実施規則が新たな参入障壁か
-- URL: https://crypto-times.jp/news-stablecoins-gain-legal-status-but-the-implementing-regulations-may-create-new-barriers-to-entry/
-- 概要: 米国でステーブルコインの法的枠組みを定めたGENIUS法が成立し、ドル連動トークンの発行に初めて明確な法的根拠が与えられました。同法はドルペッグのステーブルコインを定義し準備金の要件と連邦政府による監督枠組みを設けること [&#8230;]
-投稿 ステーブルコインが法的地位を獲得も実施規則が新たな参入障壁か は CRYPTO TIMES に最初に表示されました。
-
-### XRPレジャーのRWA残高が36億ドルに急拡大、エネルギー商品トークン化が牽引
-- URL: https://crypto-times.jp/news-xrp-ledger-rwa-balance-surges-to-3-6-billion/
-- 概要: XRPレジャー（XRPL）が保有するRWA（実物資産のトークン化）の残高が約36億ドルに達し、ステーブルコインを除いたRWA資産としては30日間で最大の伸びを記録したとされています。 このうち約26億ドルが「表現型資産」 [&#8230;]
-投稿 XRPレジャーのRWA残高が36億ドルに急拡大、エネルギー商品トークン化が牽引 は CRYPTO TIMES に最初に表示されました。
-
-### リップル(XRP)が1.40ドル台を回復、月次エスクローで7億XRP再ロック
-- URL: https://crypto-times.jp/news-xrp-recovers-to-the-1-40-range/
-- 概要: リップル(XRP)の価格が1.40ドル台を回復しました。リップルが毎月実施するエスクロー（第三者預託）の操作で10億XRPが一時アンロック（解除）された後、そのうち70%にあたる7億XRPが再ロックされ、流通量の大幅な増 [&#8230;]
-投稿 リップル(XRP)が1.40ドル台を回復、月次エスクローで7億XRP再ロック は CRYPTO TIMES に最初に表示されました。
-
-### BTCマイニング大手RIOT、過去30日間で株価49%高騰｜AI収益計上
-- URL: https://crypto-times.jp/news-bitcoin-mining-giant-riots-stock-price-has-surged-49-in-the-past-30-days/
-- 概要: 米ビットコインマイニング企業大手のRiot Platforms（RIOT）が、2026年第1四半期の決算で初めてAI向けデータセンター事業から3,320万ドルの収益を計上しました。同社のジェイソン・レス CEOはこの転換 [&#8230;]
-投稿 BTCマイニング大手RIOT、過去30日間で株価49%高騰｜AI収益計上 は CRYPTO TIMES に最初に表示されました。
-
-### 5兆円規模の円買い介入によるビットコインの下落圧力に警戒
-- URL: https://crypto-times.jp/news-be-wary-of-downward-pressure-on-bitcoin-due-to-yen-buying-intervention/
-- 概要: 日本が約5兆円規模の円買い・ドル売り介入を実施したとみられており、ドル円相場は一時160.7円から155.5円まで急落しました。日銀のマネーマーケットデータがこの規模を裏付けているとされており、財務省の月次公表で確認され [&#8230;]
-投稿 5兆円規模の円買い介入によるビットコインの下落圧力に警戒 は CRYPTO TIMES に最初に表示されました。
-
-### ウォール街がリスクオン転換？ビットコインの強気シナリオ形成なるか
-- URL: https://crypto-times.jp/news-will-a-bullish-scenario-for-bitcoin-take-shape/
-- 概要: グローバルな株式ファンドへの資金流入が4週連続で増加し、直近の4月22日終了週には487億ドルに達するなど、4週間の累計流入額は約1,180億ドルに上るとされています。一方、マネーマーケットファンド（短期安全資産）では4 [&#8230;]
-投稿 ウォール街がリスクオン転換？ビットコインの強気シナリオ形成なるか は CRYPTO TIMES に最初に表示されました。
-
-### 米公的債務がGDP超え、BTCの希少性を支える新たな財政指標に
-- URL: https://crypto-times.jp/news-us-public-debt-exceeds-gdp-highlighting-the-scarcity-of-bitcoin/
-- 概要: 米国の公的債務が経済規模を上回りました。責任ある連邦予算委員会（CRFB）の試算によると、2026年第1四半期末時点での公的債務（国民保有分）は31.27兆ドルに達し、債務対GDP比は100.2%となるとされています。  [&#8230;]
-投稿 米公的債務がGDP超え、BTCの希少性を支える新たな財政指標に は CRYPTO TIMES に最初に表示されました。
-
-### 【今日の仮想通貨ニュース】ビットコインが8万ドル突破。IPOブームとBTC依存という課題
-- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-4th/
-- 概要: 5月4日、ビットコイン（BTC）の価格は79,620ドル前後で推移しており、イーサリアム（ETH）は約2,360ドル、ソラナ（SOL）は約84ドルで取引されています。世界の暗号資産時価総額は2.73兆ドルで、ビットコイン [&#8230;]
-投稿 【今日の仮想通貨ニュース】ビットコインが8万ドル突破。IPOブームとBTC依存という課題 は CRYPTO TIMES に最初に表示されました。
-
-### カナダ、仮想通貨ATMの全面禁止を検討｜詐欺被害急増で業界に逆風
-- URL: https://crypto-times.jp/news-canada-is-considering-a-complete-ban-on-cryptocurrency-atms/
-- 概要: 世界初の仮想通貨ATMを生んだカナダが今度はその全面禁止を検討しています。2013年4月にバンクーバーのカフェに設置された世界初のビットコインATMから13年を経てカナダには現在約4,000台の仮想通貨ATMが稼働してお [&#8230;]
-投稿 カナダ、仮想通貨ATMの全面禁止を検討｜詐欺被害急増で業界に逆風 は CRYPTO TIMES に最初に表示されました。
-
-### リップル(XRP)のレバレッジが解消、価格は底堅く推移｜次の大きな動きへの準備なるか
-- URL: https://crypto-times.jp/news-ripple-xrp-leverage-has-been-eliminated-and-the-price-remains-firm/
-- 概要: リップル(XRP)の推定レバレッジ比率が低水準に落ち着く中、価格は約1.4ドル付近を維持しており、時価総額は約870億ドル、24時間取引高は約13.2億ドルとなっています。 アナリストの分析によると、3月15日から5月1 [&#8230;]
-投稿 リップル(XRP)のレバレッジが解消、価格は底堅く推移｜次の大きな動きへの準備なるか は CRYPTO TIMES に最初に表示されました。
-
-### ビットコインが8万ドル突破、ショートガンマで上昇加速か
-- URL: https://crypto-times.jp/news-bitcoin-breaks-through-80000-short-gamma-may-accelerate-its-rise/
-- 概要: ビットコイン（BTC）が8万ドルを突破しました。8万ドルは心理的レジスタンスとして長期間機能しており、4月後半以降の7万8,000〜7万9,000ドル付近での膠着相場が突破された格好です。 Bitcoin price b [&#8230;]
-投稿 ビットコインが8万ドル突破、ショートガンマで上昇加速か は CRYPTO TIMES に最初に表示されました。
-
-### 仮想通貨プロジェクトのIPOブームとビットコイン依存という根本的課題
-- URL: https://crypto-times.jp/news-the-ipo-boom-and-the-fundamental-issue-of-bitcoin-dependence/
-- 概要: 2025年に実施されたCircleとBullishの上場など仮想通貨プロジェクトが株式市場への参入を加速させています。しかし市場調査会社Kaikoの分析によると、取引量、投資家の食欲、株価評価のいずれもビットコイン価格に [&#8230;]
-投稿 仮想通貨プロジェクトのIPOブームとビットコイン依存という根本的課題 は CRYPTO TIMES に最初に表示されました。
-
-### テザー株主の大富豪が政党に多額献金、新ルールで今後の献金は実質封鎖へ
-- URL: https://crypto-times.jp/news-new-rules-will-effectively-block-future-political-donations-to-british-parties/
-- 概要: 英国生まれのクリストファー・ハーボーン氏（タイ名：チャクリット・サクンクリット）は、タイ在住でテザーの株式を約12%保有するとされる人物です。同氏は2019年以降、英国の政党「リフォームUK」とその前身組織に対して2,4 [&#8230;]
-投稿 テザー株主の大富豪が政党に多額献金、新ルールで今後の献金は実質封鎖へ は CRYPTO TIMES に最初に表示されました。
-
-### 香港で偽ステーブルコインが出現、制度開始直後の新手詐欺に警戒
-- URL: https://crypto-times.jp/news-fake-stablecoins-appear-in-hong-kong/
-- 概要: 香港金融管理局（HKMA）は「HKDAP」および「HSBC」というティッカーを持つトークンが市場に出回っているとして、一般市民に注意を呼びかけました。これらのトークンはいずれも認可されたステーブルコイン発行者とは無関係の [&#8230;]
-投稿 香港で偽ステーブルコインが出現、制度開始直後の新手詐欺に警戒 は CRYPTO TIMES に最初に表示されました。
-
-### 仮想通貨ETFは「稼げる」？ブラックロック、収益5%達成への高い壁
-- URL: https://crypto-times.jp/news-blackrock-faces-a-tough-challenge-in-achieving-a-5-profit-margin/
-- 概要: 世界最大の資産運用会社ブラックロックは、2026年第1四半期においてデジタル資産関連商品から4,200万ドルの投資顧問・管理報酬・証券貸出収益を得たとされています。同社のETF全体の手数料収入が24億ドルを超える中、デジ [&#8230;]
-投稿 仮想通貨ETFは「稼げる」？ブラックロック、収益5%達成への高い壁 は CRYPTO TIMES に最初に表示されました。
-
-### 数年放置のイーサリアムウォレットが一斉に資金流出、秘密鍵管理に警鐘
-- URL: https://crypto-times.jp/news-ethereum-wallets-that-had-been-left-untouched-for-several-years-experienced-a-massive-outflow-of-funds/
-- 概要: 4月30日、数年間にわたって休眠状態にあったイーサリアムウォレットが大量に同一アドレスに向けて資金移動されているとして警告が発されました。影響を受けたウォレットは500件以上に上るとみられており、被害額は合計約80万ドル [&#8230;]
-投稿 数年放置のイーサリアムウォレットが一斉に資金流出、秘密鍵管理に警鐘 は CRYPTO TIMES に最初に表示されました。
-
-### HyperliquidがBTC予測市場で圧倒的首位｜Polymarketの56倍
-- URL: https://crypto-times.jp/news-hyperliquid-holds-the-overwhelming-lead-in-the-btc-prediction-market/
-- 概要: 分散型取引所Hyperliquidが新たに導入した「HIP-4」（Outcome Contracts）の予測市場が、ローンチ以降のビットコイン（BTC）関連予測市場で他社を圧倒する出来高を記録していることが明らかになりま [&#8230;]
-投稿 HyperliquidがBTC予測市場で圧倒的首位｜Polymarketの56倍 は CRYPTO TIMES に最初に表示されました。
+収集日時: 2026-05-06 07:00 JST
 
 ---
-合計: 17 件
+
+### メタプラネットが「The Satos Awards 2026」で3部門を制覇
+- URL: https://crypto-times.jp/news-metaplanet-wins-three-awards-at-the-satos-awards-2026/
+- 概要: ビットコイン投資会社メタプラネットが、「The Satos Awards 2026」において3部門で受賞したことが明らかになりました。 WINNER: Institutional Adoption WINNER: Ent [&#8230;]
+投稿 メタプラネットが「The Satos Awards 2026」で3部門を制覇 は CRYPTO TIMES に最初に表示されました。
+
+### メタプラネットCEOが円ステーブルコイン各社を応援
+- URL: https://crypto-times.jp/news-metaplanet-ceo-shows-support-for-yen-stablecoin-companies/
+- 概要: メタプラネットのCEOサイモン・ゲロヴィッチ氏が、2026年に相次いで登場する円建てステーブルコイン（価格安定型仮想通貨）への支持を表明しました。 2026年にローンチする円ステーブルコイン、どれも応援している。JPYC [&#8230;]
+投稿 メタプラネットCEOが円ステーブルコイン各社を応援 は CRYPTO TIMES に最初に表示されました。
+
+### メタプラネットCEO「日本の1080兆円預金は巨大な機会」
+- URL: https://crypto-times.jp/news-metaplanet-ceo-japans-1080-trillion-yen-in-deposits-presents-a-huge-opportunity/
+- 概要: ビットコイン投資会社メタプラネットのCEOサイモン・ゲロヴィッチ氏が、ビットコインを裏付けとした固定利回り商品の可能性について見解を示しました。同氏は「ビットコインを担保にした固定収入の第一波がすでに需要の実在を証明した [&#8230;]
+投稿 メタプラネットCEO「日本の1080兆円預金は巨大な機会」 は CRYPTO TIMES に最初に表示されました。
+
+### 【今日の仮想通貨ニュース】BTC財務からAIへブーム転換？8.1万ドルがBTCの分かれ道？
+- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-5th/
+- 概要: 5月5日、ビットコイン（BTC）の価格は81,020ドル前後で推移しており、イーサリアム（ETH）は約2,380ドル、ソラナ（SOL）は約85ドルで取引されています。世界の暗号資産時価総額は2.76兆ドルで、ビットコイン [&#8230;]
+投稿 【今日の仮想通貨ニュース】BTC財務からAIへブーム転換？8.1万ドルがBTCの分かれ道？ は CRYPTO TIMES に最初に表示されました。
+
+### なぜ提訴？トランプ家WLFI対トロン創設者サン氏、巨大プロジェクトの泥沼
+- URL: https://crypto-times.jp/news-the-trump-familys-wlfi-versus-tron-founder-sun-a-quagmire-of-massive-projects/
+- 概要: トランプ家族関連の仮想通貨プロジェクトWorld Liberty Financial（WLFI）が、TRON創業者で同プロジェクトのアドバイザーであるジャスティン・サン氏を名誉毀損で提訴しました。 Today, we a [&#8230;]
+投稿 なぜ提訴？トランプ家WLFI対トロン創設者サン氏、巨大プロジェクトの泥沼 は CRYPTO TIMES に最初に表示されました。
+
+### Aave4月収益1200万ドルで前月比63%急増、Kelp DAOハックから驚異のV字回復
+- URL: https://crypto-times.jp/news-aaves-revenue-surged-to-12-million-a-63-increase-from-the-previous-month/
+- 概要: 分散型金融（DeFi）レンディングプロトコル大手のAaveが、4月の月間プロトコル収益として1,200万ドルを記録しました。3月から+63%の急回復となり、4月の収益構造の多角化が顕著に進んだ月となりました。 .@aav [&#8230;]
+投稿 Aave4月収益1200万ドルで前月比63%急増、Kelp DAOハックから驚異のV字回復 は CRYPTO TIMES に最初に表示されました。
+
+### 「安値で買うだけ」Bybit CEOのビットコイン投資術｜シンプルな強みとは
+- URL: https://crypto-times.jp/news-just-buy-at-the-low-price-bybit-ceos-bitcoin-investment-strategy/
+- 概要: 仮想通貨取引所Bybitの最高経営責任者（CEO）であるベン・ジョウ（Ben Zhou）氏が自身の資産の大部分をビットコイン（BTC）に配分しており、「自分のセーフティネットとしてBTCを大量に買っている」と発言しました [&#8230;]
+投稿 「安値で買うだけ」Bybit CEOのビットコイン投資術｜シンプルな強みとは は CRYPTO TIMES に最初に表示されました。
+
+### 仮想通貨規制法「CLARITY」、妥協案発表も銀行業界は沈黙
+- URL: https://crypto-times.jp/news-clarity-announces-compromise-plan-but-banking-industry-remains-silent/
+- 概要: 米CLARITY法（仮想通貨市場構造法）のステーブルコイン利回り条項を巡る妥協案が発表された後も、銀行業界は表立った賛否を示さず沈黙を保っています。仮想通貨業界の主要プレイヤーは妥協案を支持していますが、銀行ロビーは合意 [&#8230;]
+投稿 仮想通貨規制法「CLARITY」、妥協案発表も銀行業界は沈黙 は CRYPTO TIMES に最初に表示されました。
+
+### ビットコインETFが1日6億ドル超の流入、8万ドル突破と同タイミング
+- URL: https://crypto-times.jp/news-bitcoin-etf-sees-inflows-of-over-600-million-in-a-single-day/
+- 概要: 米国の現物ビットコイン（BTC）ETFが5月4日、1日で7,524 BTC（約6億313万ドル）の純流入を記録したことが明らかになりました。BTCが8万ドルを突破した節目のタイミングと重なり、機関投資家マネーが本格的にB [&#8230;]
+投稿 ビットコインETFが1日6億ドル超の流入、8万ドル突破と同タイミング は CRYPTO TIMES に最初に表示されました。
+
+### XRP版メタプラネット誕生か？OpenAI幹部参画とナスダック上場
+- URL: https://crypto-times.jp/news-is-an-xrp-version-of-metaplanet-about-to-be-born/
+- 概要: リップル(XRP)財務戦略を採るリップル支援企業のEvernorth Holdingsが、Nasdaq上場（ティッカー：XRPN）を控えてOpenAI財団のCFOロバート・カイデン氏を独立取締役として指名したことが判明し [&#8230;]
+投稿 XRP版メタプラネット誕生か？OpenAI幹部参画とナスダック上場 は CRYPTO TIMES に最初に表示されました。
+
+### BTC財務ブームに異変？ナスダック企業がAIへピボット、負債消去へ
+- URL: https://crypto-times.jp/news-nasdaq-company-pivots-from-btc-finance-to-ai/
+- 概要: 米Nasdaq上場の韓国エンタメ関連企業K Wave Mediaがビットコイン（BTC）財務戦略を放棄し、AIインフラ企業へとピボット（事業転換）することを発表しました。当初BTC財務に充当予定だった株式発行を通じた最大 [&#8230;]
+投稿 BTC財務ブームに異変？ナスダック企業がAIへピボット、負債消去へ は CRYPTO TIMES に最初に表示されました。
+
+### 「金融イノベーションは当初ギャンブル扱い」予測市場Kalshi創業者が反論
+- URL: https://crypto-times.jp/news-financial-innovation-was-initially-treated-as-gambling-kalshi-founder-refutes/
+- 概要: 予測市場プラットフォームKalshiの創業者タレク・マンスール氏が、「あらゆる金融イノベーションは当初ギャンブルと見なされてきた」との見解を表明していたことが改めて注目を集めています。 マンスール氏は予測市場が「ギャンブ [&#8230;]
+投稿 「金融イノベーションは当初ギャンブル扱い」予測市場Kalshi創業者が反論 は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン、8.1万ドルが運命の分かれ道？9.2万ドルか7.6万ドルか
+- URL: https://crypto-times.jp/news-btc-cost-basis-81500-decides-87k-92k-or-76k/
+- 概要: 仮想通貨オンチェーン分析企業のCryptoQuantがビットコイン（BTC）について、「8万1,500ドル付近のコストベーシス（取得平均価格）水準が、次の方向性を決定する重要な境界線になる」との分析を示しました。 Bit [&#8230;]
+投稿 ビットコイン、8.1万ドルが運命の分かれ道？9.2万ドルか7.6万ドルか は CRYPTO TIMES に最初に表示されました。
+
+### 「国家のBTC採用は成功の証、理念とは矛盾しない」著名BTC開発者
+- URL: https://crypto-times.jp/news-the-adoption-of-btc-by-the-government-is-a-sign-of-success-and-does-not-contradict-the-ideals/
+- 概要: ビットコイン（BTC）創世記から関わる開発者の一人で、Hashcash（プルーフ・オブ・ワークの基礎技術）の発明者でもあるアダム・バック氏が、急速に進む国家・主権機関によるBTC採用がビットコインの理念と矛盾しないかとい [&#8230;]
+投稿 「国家のBTC採用は成功の証、理念とは矛盾しない」著名BTC開発者 は CRYPTO TIMES に最初に表示されました。
+
+---
+合計: 14 件
