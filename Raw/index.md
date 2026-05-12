@@ -1,48 +1,128 @@
-# ブロックチェーンRSS収集 2026-05-12
+# ブロックチェーンRSS収集 2026-05-13
 
-収集日時: 2026-05-12 07:07 JST
+収集日時: 2026-05-13 07:11 JST
 
 ---
 
-### 【5/11話題】ECB総裁と英中銀総裁のステーブルコインへの懸念、Zcashが量子耐性ウォレット導入、アプトスの新戦略など（音声ニュース）
-- URL: https://www.neweconomy.jp/posts/572622
+### 【5/12話題】コインチェックGがKDDIと資本提携で100億円調達へ、イーサリアム財団がプロトコル開発体制を再編など（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/572961
 - 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
 
-### JCBA、「暗号資産ステーキングビジネスに関するベストプラクティス」公表
-- URL: https://www.neweconomy.jp/posts/572615
-- 概要: JCBAによる「暗号資産ステーキングビジネスに関するベストプラクティス」 日本暗号資産ビジネス協会（JCBA）が、「暗号資産ステーキングビジネスに関するベストプラクティス」の策定を5月7日に公表した。 JCBAは、日本国 [&#8230;]
+### サークル、独自L1「Arc」のトークンで約3.2億ドル調達。a16zやブラックロックら参加
+- URL: https://www.neweconomy.jp/posts/572947
+- 概要: サークルがArcトークンで約350億円調達 米サークル（Circle Internet Group）が開発を行うレイヤー1ブロックチェーン「アーク（Arc）」のネイティブトークン「ARC」のプレセールにて、同社は2億2, [&#8230;]
 
-### クラーケン運営元ペイワード、6億ドルでリープと買収契約。B2Bインフラ基盤の決済機能を拡充へ
-- URL: https://www.neweconomy.jp/posts/572599
-- 概要: PaywardがReapと買収最終契約 米暗号資産（仮想通貨）取引所クラーケン（Kraken）運営元のペイワード（Payward）が、法人向け決済インフラ企業リープ（Reap）を買収する正式契約を締結したと5月7日に発表 [&#8230;]
+### リップルプライム、最大2億ドルの融資枠確保。ニューバーガー運用ファンドから
+- URL: https://www.neweconomy.jp/posts/572885
+- 概要: Ripple Primeが最大約315億円の融資枠確保 米リップル（Ripple）提供のマルチアセット型プライムブローカレッジ「リップル・プライム（Ripple Prime）」が「ニューバーガー・スペシャルティ・ファイナ [&#8230;]
 
-### ブラックロック、「ステーブルコイン準備資産を利用想定したMMF」を米SECに登録届け出
-- URL: https://www.neweconomy.jp/posts/572592
-- 概要: BlackRockがステーブルコイン準備資産MMFの登録を届け出 米資産運用大手ブラックロック（BlackRock）が、ステーブルコイン発行体の準備資産運用を想定した政府証券型MMFに関する登録届出書「フォームN-1A（ [&#8230;]
+### 【追記】コインチェックGがKDDIと資本提携で100億円調達へ、新会社組成も
+- URL: https://www.neweconomy.jp/posts/572887
+- 概要: コインチェックがKDDIと提携 国内暗号資産（仮想通貨）取引所「Coincheck」を運営するコインチェックが、KDDIとの業務提携を5月12日に発表した。 またコインチェック、KDDI、auフィナンシャルホールディング [&#8230;]
 
-### 英中銀総裁、米ステーブルコイン規制に懸念。換金リスクや国際基準の必要性訴える＝報道
-- URL: https://www.neweconomy.jp/posts/572578
-- 概要: ステーブルコイン巡り欧米対立鮮明に イングランド銀行（BoE）のアンドリュー・ベイリー（Andrew Bailey）総裁が、ステーブルコインの国際規制をめぐり、米トランプ政権と国際的な規制当局の間で「対立（wrestle [&#8230;]
+### バイナンス、AI活用で約1.6兆円の詐欺被害を防止
+- URL: https://www.neweconomy.jp/posts/572867
+- 概要: 不正検知・詐欺防止を報告 バイナンス（Binance）が2025年初頭から2026年第1四半期にかけて、累計105億3,000万ドル（約1兆6,577億円）にのぼるユーザー被害を防いだと5月11日報告した。対象ユーザー数 [&#8230;]
 
-### 中東情勢の緩和期待と緊迫化に左右されつつもビットコイン8万ドル台回復、CLARITY法案の前進も（仮想通貨市場レポート 5/11 号）
-- URL: https://www.neweconomy.jp/features/sbivct/572530
-- 概要: 今週もSBI VCトレード提供の暗号資産（仮想通貨）に関するウィークリー・マーケットレポートをお届けします。 5/3~5/9週のサマリー 米・イラン和平枠組みへの期待からビットコインは一時82,000ドル台後半まで上昇  [&#8230;]
+### スイ、ステーブルコイン送金無料化へ。プライベートトランザクションも導入予定
+- URL: https://www.neweconomy.jp/posts/572849
+- 概要: ミステンラボCPOがスイへの複数機能導入を発表 レイヤー1ブロックチェーン「スイ（Sui）」が、ステーブルコイン送金無料化機能およびプライベートトランザクション機能を導入予定だ。ミステン・ラボ（Mysten Labs）の [&#8230;]
 
-### アミナバンク、「カントンコイン（CC）」の取引・カストディ対応開始、銀行で世界初
-- URL: https://www.neweconomy.jp/posts/572545
-- 概要: アミナバンクがCC対応開始 アミナバンク（AMINA Bank）が、カントンネットワーク（Canton Network）のネイティブトークン「カントンコイン（CC）」の取引およびカストディ提供を開始したと5月6日に発表し [&#8230;]
+### イーサリアム財団、プロトコル開発体制を再編。新リーダー3人を発表
+- URL: https://www.neweconomy.jp/posts/572839
+- 概要: 次期アップグレードへ組織再編加速 イーサリアム財団（Ethereum Foundation：EF）が、プロトコルクラスターの新リーダー体制を5月11日に発表した。著名開発者のティム・ベイコ（Tim Beiko）とバルナベ [&#8230;]
 
-### レイヤーゼロ、rsETH事案巡り謝罪。1/1DVN停止や設定見直しへ
-- URL: https://www.neweconomy.jp/posts/572506
-- 概要: レイヤーゼロがrsETH事案巡り謝罪 クロスチェーン通信プロトコル「レイヤーゼロ（LayerZero）」を開発するレイヤーゼロラボ（LayerZero Labs）が、リキッドリステーキングプロトコル「ケルプDAO（Kel [&#8230;]
+### TORICOがイーサリアム追加取得、総取得数2669ETH超に
+- URL: https://www.neweconomy.jp/posts/572830
+- 概要: TORICOがイーサリアム追加取得 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を5月12日に発表した。 [&#8230;]
 
-### Zcash、1か月以内に量子耐性ウォレット導入へ
-- URL: https://www.neweconomy.jp/posts/572497
-- 概要: 12〜18か月で完全耐量子化目指す プライバシーコイン「ジーキャッシュ（Zcash）」の主要UI開発を担うZcashオープン・デベロップメント・ラボ（Zcash Open Development Lab：ZODL）のCE [&#8230;]
+### ビットマイン、イーサリアム総保有数が520万ETH超に。全供給量4.31%
+- URL: https://www.neweconomy.jp/posts/572804
+- 概要: BitMineがETH追加購入 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、同社保有の暗号資産（仮想通貨）イーサリアム（ETH）が520万 [&#8230;]
 
-### クラーケン運営元ペイワード、連邦信託会社免許を米OCCに申請
-- URL: https://www.neweconomy.jp/posts/572473
-- 概要: ペイワードが連邦信託会社免許を申請 米暗号資産（仮想通貨）取引所クラーケン（Kraken）運営元のペイワード（Payward）が、米通貨監督庁（OCC）に対し、連邦信託会社（ナショナル・トラスト・カンパニー）免許の申請を [&#8230;]
+### ソラナ新コンセンサス「Alpenglow」、コミュニティテスト開始
+- URL: https://www.neweconomy.jp/posts/572789
+- 概要: ソラナ次世代コンセンサス「Alpenglow」が外部検証段階へ ソラナ（Solana）の研究開発企業アンザ（Anza）が、ソラナの新コンセンサスプロトコル「アルペングロー（Alpenglow）」を、コミュニティテストクラ [&#8230;]
+
+### KrakenのxStocksが年初来1000%成長、米国株トークン化が実需へ
+- URL: https://crypto-times.jp/news-krakens-xstocks-has-grown-1000-year-to-date/
+- 概要: 仮想通貨取引所Krakenが運営するトークン化株式プラットフォーム「xStocks」の取扱価値が、2026年初来で1,000%超の成長を記録したことが明らかになりました。これはは株式トークン化が「概念実証」から「実需フェ [&#8230;]
+投稿 KrakenのxStocksが年初来1000%成長、米国株トークン化が実需へ は CRYPTO TIMES に最初に表示されました。
+
+### 【今日の仮想通貨ニュース】BTCが2026年最大のマクロ試練へ。BTCの3つの構造的弱点とは
+- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-12th/
+- 概要: 5月12日、ビットコイン（BTC）の価格は81,230ドル前後で推移しており、イーサリアム（ETH）は約2,310ドル、ソラナ（SOL）は約96ドルで取引されています。世界の暗号資産時価総額は2.79兆ドルで、ビットコイ [&#8230;]
+投稿 【今日の仮想通貨ニュース】BTCが2026年最大のマクロ試練へ。BTCの3つの構造的弱点とは は CRYPTO TIMES に最初に表示されました。
+
+### 予測市場Kalshiが10億ドル調達、評価額220億ドルでPolymarketと覇権争い
+- URL: https://crypto-times.jp/news-prediction-marketplace-kalshi-raises-1-billion-2/
+- 概要: 予測市場プラットフォーム大手Kalshiが10億ドルの資金調達を完了しました。予測市場セクターでの調達額として歴史的な規模であり、Polymarketとの覇権争いが新たなステージに入る転換点となります。 JUST IN: [&#8230;]
+投稿 予測市場Kalshiが10億ドル調達、評価額220億ドルでPolymarketと覇権争い は CRYPTO TIMES に最初に表示されました。
+
+### KelpDAO流出事件を機にChainlinkへ30億ドル超が移行｜LayerZero謝罪声明
+- URL: https://crypto-times.jp/news-the-kelpdao-data-breach-led-to-the-transfer-of-over-3-billion-to-chainlink/
+- 概要: 2億9200万ドルの資金流出事件を起こした分散型金融（DeFi）プロトコル「KelpDAO」のハッキングを契機に、30億ドルを超えるTVL（預かり資産）を持つプロジェクト群がChainlinkのクロスチェーン相互運用プロ [&#8230;]
+投稿 KelpDAO流出事件を機にChainlinkへ30億ドル超が移行｜LayerZero謝罪声明 は CRYPTO TIMES に最初に表示されました。
+
+### テザー、分散型ローカルAI「QVAC」本格始動｜収益をAIインフラ投資へ
+- URL: https://crypto-times.jp/news-tether-officially-launches-its-decentralized-local-ai-qvac/
+- 概要: 世界最大のステーブルコイン発行体であるテザー（Tether）が、新たなAIプロジェクト「QVAC」を本格始動させました。QVACはクラウドサーバーを介さず、ユーザーのデバイス上でAIを動作させることを目指す「ローカルファ [&#8230;]
+投稿 テザー、分散型ローカルAI「QVAC」本格始動｜収益をAIインフラ投資へ は CRYPTO TIMES に最初に表示されました。
+
+### 仮想通貨重要法案「CLARITY法」、民主党7議員の動向が採決の鍵か
+- URL: https://crypto-times.jp/news-the-clarity-act-the-actions-of-the-seven-democratic-lawmakers-may-be-key-to-its-passage/
+- 概要: 米国の仮想通貨市場構造法案「CLARITY法案」が、5月14日に上院銀行委員会での審議（マークアップ）に臨みます。 同法案は仮想通貨トークンが証券・商品のどちらに該当するかを定める包括的な枠組みを目指すものであり、ステー [&#8230;]
+投稿 仮想通貨重要法案「CLARITY法」、民主党7議員の動向が採決の鍵か は CRYPTO TIMES に最初に表示されました。
+
+### メタプラネット社が株主向けラウンジ施設を公開｜コミュニティ形成を意識
+- URL: https://crypto-times.jp/news-metaplanet-inc-unveils-lounge-facilities-for-shareholders/
+- 概要: ビットコイン投資戦略で注目を集めるメタプラネット社が、株主向け優待施設「Metaplanet Lounge」内のコミュニティスペースを公開。単なる休憩スペースにとどまらない、コミュニティ形成を意識した設計が話題となってい [&#8230;]
+投稿 メタプラネット社が株主向けラウンジ施設を公開｜コミュニティ形成を意識 は CRYPTO TIMES に最初に表示されました。
+
+### 「イーサリアムは2.2万ドルへ」トム・リー氏、Bitmine社は520万ETH保有
+- URL: https://crypto-times.jp/news-tom-lee-eth-22000-target-ai-blockchain-thesis-bitmine-accumulates/
+- 概要: Fundstrat創業者のトム・リー（Tom Lee）氏が、イーサリアム（ETH）の価格目標を2万2000ドルに設定したことが明らかになりました。リー氏が共同経営する財務戦略企業BitmineはETHを大量に買い増してお [&#8230;]
+投稿 「イーサリアムは2.2万ドルへ」トム・リー氏、Bitmine社は520万ETH保有 は CRYPTO TIMES に最初に表示されました。
+
+### 仮想通貨の「レンチ攻撃」被害が1億ドル超へ、広がる物理的脅威
+- URL: https://crypto-times.jp/news-cryptocurrency-wrench-attack-damage-exceeds-100-million/
+- 概要: 2026年1〜4月の間に仮想通貨保有者が物理的な脅迫によって失った資産は1億ドルを超えたことが、ブロックチェーンセキュリティ会社CertiKの調査によって明らかになりました。 いわゆる「レンチ攻撃（wrench atta [&#8230;]
+投稿 仮想通貨の「レンチ攻撃」被害が1億ドル超へ、広がる物理的脅威 は CRYPTO TIMES に最初に表示されました。
+
+### 3つのリスクを抱えるビットコインに上昇余地はあるか？米イラン緊張・CPI・CLARITY法案
+- URL: https://crypto-times.jp/news-does-bitcoin-which-faces-three-risks-have-room-to-rise/
+- 概要: ビットコインは5月12日時点で約8万1,000ドル台を維持していますが、中東情勢の緊迫化やインフレ再加速懸念、そして米国の仮想通貨規制動向という3つのリスク要因が重なっています。 &#8220;I have just r [&#8230;]
+投稿 3つのリスクを抱えるビットコインに上昇余地はあるか？米イラン緊張・CPI・CLARITY法案 は CRYPTO TIMES に最初に表示されました。
+
+### 「ビットコインは安全資産ではない」著名投資家が指摘、3つの構造的弱点とは
+- URL: https://crypto-times.jp/news-bitcoin-is-not-a-safe-haven-asset-a-prominent-investor-points-out/
+- 概要: 著名投資家のレイ・ダリオ氏が、ビットコイン（BTC）について「期待された安全資産ではない」と改めて評価したことが明らかになりました。 While Bitcoin gets a lot of attention, it h [&#8230;]
+投稿 「ビットコインは安全資産ではない」著名投資家が指摘、3つの構造的弱点とは は CRYPTO TIMES に最初に表示されました。
+
+### ホワイトハウス、米銀行業界がステーブルコイン報酬協議を「拒否」と非難
+- URL: https://crypto-times.jp/news-the-white-house-criticizes-the-u-s-banking-industry-for-rejecting-stablecoin-talks/
+- 概要: 米ホワイトハウスは、主要銀行業界の代表が2月に開催されたステーブルコイン報酬問題に関する協議への出席を拒んでいたと明らかにしました。 I specifically requested the attendance of  [&#8230;]
+投稿 ホワイトハウス、米銀行業界がステーブルコイン報酬協議を「拒否」と非難 は CRYPTO TIMES に最初に表示されました。
+
+### ビットコイン、2026年最大のマクロ試練へ｜CPI・Fed人事・米中首脳会談
+- URL: https://crypto-times.jp/news-bitcoin-faces-its-biggest-macroeconomic-challenge-of-2026/
+- 概要: 今週（5月11〜15日）は2026年でもっとも重要なマクロ経済イベントが凝縮した週として注目されています。インフレデータ、連邦準備制度（Fed）の流動性指標、中央銀行トップの交代、そして米中首脳会談が5営業日のうちに集中 [&#8230;]
+投稿 ビットコイン、2026年最大のマクロ試練へ｜CPI・Fed人事・米中首脳会談 は CRYPTO TIMES に最初に表示されました。
+
+### 米NJ州年金基金、ビットコイン関連株「MSTR」の保有を明らかに
+- URL: https://crypto-times.jp/news-new-jersey-pension-fund-reveals-holdings-of-bitcoin-related-stock-mstr/
+- 概要: ビットコインを大量に保有することで知られるストラテジー社の株式を、米ニュージャージー州年金基金が88,951株（1,620万ドル相当）保有していることが明らかになりました。 JUST IN: $76 billion U. [&#8230;]
+投稿 米NJ州年金基金、ビットコイン関連株「MSTR」の保有を明らかに は CRYPTO TIMES に最初に表示されました。
+
+### BybitのF1スポンサー撤退の裏側、CEO「割に合わない」
+- URL: https://crypto-times.jp/news-the-story-behind-bybits-withdrawal-as-an-f1-sponsor/
+- 概要: 仮想通貨取引所大手Bybitの最高経営責任者（CEO）ベン・ジョウ（Ben Zhou）氏が、レッドブル・レーシング（F1）とのスポンサー契約を更新しなかった理由を語りました。 ジョウ氏によるとF1スポンサー契約を更新しな [&#8230;]
+投稿 BybitのF1スポンサー撤退の裏側、CEO「割に合わない」 は CRYPTO TIMES に最初に表示されました。
+
+### 1年で評価額が6倍に？a16zが主導するDigital Asset社の急成長
+- URL: https://crypto-times.jp/news-the-rapid-growth-of-digital-asset-led-by-a16z/
+- 概要: ブロックチェーン基盤企業Digital Assetが新たな資金調達ラウンドで企業評価額20億ドルを目指していることが明らかになりました。 このラウンドではベンチャーキャピタル大手a16z cryptoが筆頭投資家となり、 [&#8230;]
+投稿 1年で評価額が6倍に？a16zが主導するDigital Asset社の急成長 は CRYPTO TIMES に最初に表示されました。
 
 ### ビットコイン暗号は5年で破られる？業界が量子耐性ウォレットを急ぐ
 - URL: https://crypto-times.jp/news-will-bitcoins-cryptography-be-broken-in-5-years/
@@ -64,70 +144,5 @@
 - 概要: 5月11日、ビットコイン（BTC）の価格は80,540ドル前後で推移しており、イーサリアム（ETH）は約2,320ドル、ソラナ（SOL）は約94ドルで取引されています。世界の暗号資産時価総額は2.77兆ドルで、ビットコイ [&#8230;]
 投稿 【今日の仮想通貨ニュース】トランプ政権はBTCに貢献したのか？TONが1週間で2倍に急騰 は CRYPTO TIMES に最初に表示されました。
 
-### ブラックロック、トークン化マネーマーケットファンドをSECに申請
-- URL: https://crypto-times.jp/news-blackrock-files-application-with-the-sec-for-tokenized-money-market-fund/
-- 概要: 世界最大の資産運用会社ブラックロックが、ブロックチェーン上で運用するトークン化マネーマーケットファンド2本の設定に向け、米国証券取引委員会（SEC）に申請書を提出したことが明らかになりました。 *BlackRock* p [&#8230;]
-投稿 ブラックロック、トークン化マネーマーケットファンドをSECに申請 は CRYPTO TIMES に最初に表示されました。
-
-### 【週間】仮想通貨マーケットレポート 5月11日
-- URL: https://crypto-times.jp/weekly-crypto-report-5-11/
-- 概要: -筆者：@cryptoyusshi 先週5月5日（火）、BTCは約4か月ぶりに80,000ドルまで回復しました。これは米国市場の現物型ビットコインETFに3日間で約15億ドルの資金流入が見られたタイミングと一致します。規 [&#8230;]
-投稿 【週間】仮想通貨マーケットレポート 5月11日 は CRYPTO TIMES に最初に表示されました。
-
-### モルガン・スタンレーのビットコインETF「MSBT」、初月で資金流出ゼロ
-- URL: https://crypto-times.jp/news-bitcoin-etf-msbt-reports-zero-outflows-in-its-first-month/
-- 概要: ウォール街の大手金融機関モルガン・スタンレーが提供するビットコインETF「MSBT（Morgan Stanley Bitcoin Trust）」が、2026年4月8日の運用開始から初月にわたって一度も日次資金流出を記録し [&#8230;]
-投稿 モルガン・スタンレーのビットコインETF「MSBT」、初月で資金流出ゼロ は CRYPTO TIMES に最初に表示されました。
-
-### ビットコインが8万ドルを一時割り込むも、オプション市場は強気姿勢
-- URL: https://crypto-times.jp/news-bitcoin-briefly-fell-below-80000-but-the-options-market-remains-bullish/
-- 概要: ビットコイン（BTC）は一時8万ドルを割り込む場面がありましたが、オプション市場ではこの下落を一時的な調整と捉える動きが続いています。 Bitcoin price by TradingView 今回の下落を主導したのは外 [&#8230;]
-投稿 ビットコインが8万ドルを一時割り込むも、オプション市場は強気姿勢 は CRYPTO TIMES に最初に表示されました。
-
-### ビットコイン、次の米大統領任期内に100万ドル到達か｜VanEck予測
-- URL: https://crypto-times.jp/news-bitcoin-may-reach-1-million-during-the-next-us-presidential-term/
-- 概要: 米国の資産運用会社VanEckのリサーチ責任者マシュー・ジーゲル氏が、ビットコインが次の米国大統領任期内（〜2031年頃）に100万ドルに達する可能性があるとの見方を示したと伝えられています。 Bitcoin price [&#8230;]
-投稿 ビットコイン、次の米大統領任期内に100万ドル到達か｜VanEck予測 は CRYPTO TIMES に最初に表示されました。
-
-### トランプ政権はビットコインにとってプラスだったのか？
-- URL: https://crypto-times.jp/news-was-the-trump-administration-beneficial-for-bitcoin/
-- 概要: ドナルド・トランプ大統領の仮想通貨政策がビットコインに与えた影響をどう評価するかは、業界内でも意見が分かれる問題となっています。 米連邦政府はトランプ政権下で公開ブロックチェーンの合法的利用、セルフカストディ、マイニング [&#8230;]
-投稿 トランプ政権はビットコインにとってプラスだったのか？ は CRYPTO TIMES に最初に表示されました。
-
-### 仮想通貨TONが1週間で2倍に急騰、Telegramとの連携強化
-- URL: https://crypto-times.jp/news-ton-surged-to-double-its-value-in-one-week/
-- 概要: トンコイン（TON）が急騰しています。5月1日に約1.32ドルだった価格は、5月7日には2.88ドルに達しました。この急騰の直接的な引き金となったのは、Telegramの創業者パーヴェル・ドゥーロフ氏の投稿です。 ドゥー [&#8230;]
-投稿 仮想通貨TONが1週間で2倍に急騰、Telegramとの連携強化 は CRYPTO TIMES に最初に表示されました。
-
-### 米上院、仮想通貨重要法案の審議を5月14日に予定｜CLARITY法
-- URL: https://crypto-times.jp/news-the-u-s-senate-is-scheduled-to-debate-a-key-cryptocurrency-bill-on-may-14th/
-- 概要: 米国上院銀行委員会が仮想通貨市場構造法案「CLARITY法」の修正審議（マークアップ）を2026年5月14日に予定していることが明らかになりました。 この法案はトークンの分類方法、監督機関の役割分担、仲介業者の連邦法上の [&#8230;]
-投稿 米上院、仮想通貨重要法案の審議を5月14日に予定｜CLARITY法 は CRYPTO TIMES に最初に表示されました。
-
-### カナダ銀行、2027年にステーブルコイン規制導入へ
-- URL: https://crypto-times.jp/news-the-bank-of-canada-plans-to-introduce-stablecoin-regulations-in-2027/
-- 概要: カナダ銀行がステーブルコインの発行規制を2027年半ばから後半にかけて導入する見通しであることが明らかになりました。カナダ政府自身も2026年初頭からの12〜18カ月間を規制整備期間と設定し、2027年内の規制発効を見込 [&#8230;]
-投稿 カナダ銀行、2027年にステーブルコイン規制導入へ は CRYPTO TIMES に最初に表示されました。
-
-### AnthropicのAIでFirefoxが20年来のバグを発見、ハッキング対策の光と闇
-- URL: https://crypto-times.jp/news-anthropics-ai-discovers-a-20-year-old-bug-in-firefox/
-- 概要: Mozillaが発表したFirefoxの最新セキュリティアップデートが、AIを活用したソフトウェアセキュリティの新時代を示す事例として注目を集めています。 同社はAnthropicのAIモデル「Claude Mythos [&#8230;]
-投稿 AnthropicのAIでFirefoxが20年来のバグを発見、ハッキング対策の光と闇 は CRYPTO TIMES に最初に表示されました。
-
-### 【超豪華】BTCC × AFA トレード大会開催！賞金プール数百万USDT＆メッシ直筆サイン入りユニフォームを手に入れるチャンス！
-- URL: https://crypto-times.jp/press-btcc-afa-messi/
-- 概要: Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 暗号資産取引所であるBTCCは本日、2026年5月6日から5月26日ま [&#8230;]
-投稿 【超豪華】BTCC × AFA トレード大会開催！賞金プール数百万USDT＆メッシ直筆サイン入りユニフォームを手に入れるチャンス！ は CRYPTO T
-
-### 【今週のメタプラネットまとめ】GW明けに株価15%急騰。メタプラネットCEOが強気発言
-- URL: https://crypto-times.jp/news-metaplanet-summary-for-this-week-may-10th/
-- 概要: 今週の株式会社メタプラネットはゴールデンウィーク（GW）明けの国内市場再開とともに、投資家の期待が形となって現れる非常にポジティブな一週間となりました。 GW明けの取引では株価が15%急騰。市場が同社を単なる投資会社では [&#8230;]
-投稿 【今週のメタプラネットまとめ】GW明けに株価15%急騰。メタプラネットCEOが強気発言 は CRYPTO TIMES に最初に表示されました。
-
-### 【今週のリップルまとめ】史上最高値奪還への「3つの条件」。新規アドレスがピーク比85%減
-- URL: https://crypto-times.jp/news-this-weeks-ripple-summary-may-10th/
-- 概要: 今週のリップル（XRP）は機関投資家向けのインフラ採用という強力な実需の進展が見られた一方で、ネットワークの個人利用における「冬の時代」が浮き彫りになるなど明暗が分かれる一週間となりました。 JPモルガンやマスターカード [&#8230;]
-投稿 【今週のリップルまとめ】史上最高値奪還への「3つの条件」。新規アドレスがピーク比85%減 は CRYPTO TIMES に最初に表示されました。
-
 ---
-合計: 27 件
+合計: 30 件
