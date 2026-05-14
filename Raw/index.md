@@ -1,149 +1,118 @@
-# ブロックチェーンRSS収集 2026-05-14
+# ブロックチェーンRSS収集 2026-05-15
 
-収集日時: 2026-05-14 07:12 JST
+収集日時: 2026-05-15 07:11 JST
 
 ---
 
-### 「ピクトレ 防災チャンピオンシップ2026」を全国1,718市区町村対抗で2026年8月から開催
-- URL: https://blockchain-biz-consulting.com/media/pictree_disaster_prevention_championship2026/?utm_source=rss&utm_medium=rss&utm_campaign=pictree_disaster_prevention_championship2026&utm_source=rss&utm_medium=rss&utm_campaign=pictree_disaster_prevention_championship2026
-- 概要: 〜防災訓練参加率4.4%を変える「史上最大の分散型・防災参加イベント」として、市民参加型・防災DXとペット・多様性・教訓カードを統合〜 株式会社Digital Entertainment Asset（本社：東京都港区、代 [&#8230;]
-投稿 「ピクトレ 防災チャンピオンシップ2026」を全国1,718市区町村対抗で2026年8月から開催 は ブロックチェーンビジネス・メディア【BBM】活用事
-
-### 【5/13話題】日本ブロックチェーン基盤の信託型ステーブルコイン「EJPY」、インタートレードが国産HWウォレットとFireblocks統合の資産管理基盤を商用化へなど（音声ニュース）
-- URL: https://www.neweconomy.jp/posts/573267
+### 【5/14話題】クラリティ法案審議前に100件超の修正案、メタプラネットの2026年Q1決算、ビットワイズがJupiter Lend起用など（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/573606
 - 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
 
-### イーサリアム財団、Lidoから約21270ETHをアンステークか＝アーカム
-- URL: https://www.neweconomy.jp/posts/573223
-- 概要: イーサリアム財団がETHをアンステークか イーサリアム財団（Ethereum Foundation）に関連付けられたウォレットが、暗号資産（仮想通貨）イーサリアムのアンステーキング手続きを行ったようだ。オンチェーン情報追 [&#8230;]
+### DTCC、チェーンリンク活用で24時間365日の担保管理基盤構築へ
+- URL: https://www.neweconomy.jp/posts/573447
+- 概要: DTCCのコラテラル・アップチェーンにチェーンリンク統合 米証券市場の決済・保管インフラを担うDTCCが、同社の担保管理基盤「コラテラル・アップチェーン（Collateral AppChain）」にチェーンリンク（Cha [&#8230;]
 
-### OKJにベラチェーン（BERA）上場へ、国内2例目
-- URL: https://www.neweconomy.jp/posts/573213
-- 概要: OKJにBERA上場へ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産「ベラチェーン（BERA）」の取り扱い予定を5月13日に発表した。取扱い開始は5月20日17:00の予定だ。 なおBERAが国内暗号資産取引所に上場 [&#8230;]
+### ステラ開発財団、英領バミューダ政府のオンチェーン経済化計画を支援へ
+- URL: https://www.neweconomy.jp/posts/573440
+- 概要: Stellar開発財団がバミューダ政府を支援へ ステラ（Stellar）ブロックチェーン支援の非営利組織ステラ開発財団（Stellar Development Foundation：SDF）が、英領バミューダ政府とともに [&#8230;]
 
-### バックト、77％減収もステーブルコイン決済へ軸足転換。DTR買収やZoth提携推進
-- URL: https://www.neweconomy.jp/posts/573206
-- 概要: 77％減収も、ステーブルコイン金融インフラへ転換進める 米デジタル資産サービス企業バックト（Bakkt）が、2026年第1四半期の決算を5月11日に発表した。 バックトは、2018年に設立された規制対応型の金融テクノロジ [&#8230;]
+### 日本初、三井物産デジタルAMが底地をデジタル証券化。イオン大宮店の土地に10万円から投資可能に
+- URL: https://www.neweconomy.jp/posts/573432
+- 概要: 日本初の底地のデジタル証券化 三井物産デジタル・アセットマネジメントが、底地をデジタル証券化した「三井物産グループのデジタル証券～イオン大宮～（譲渡制限付）」の公開および募集開始を5月14日に発表した。底地のデジタル証券 [&#8230;]
 
-### ブロックチェーン分析エリプティック、シリーズDで1.2億ドル調達。評価額6.7億ドルに
-- URL: https://www.neweconomy.jp/posts/573198
-- 概要: Ellipticの評価額6.7億円に ブロックチェーン分析会社エリプティック（Elliptic）が、シリーズDラウンドで1億2,000万ドル（約189億円）を調達したと5月12日に発表した。同社の企業評価額は6億7,00 [&#8230;]
+### チャールズシュワブ、ビットコインとイーサリアムの現物取引を提供開始。米国の一部個人顧客向けに
+- URL: https://www.neweconomy.jp/posts/573417
+- 概要: Charles Schwabが暗号資産取引サービス提供開始 米大手金融サービス企業チャールズシュワブ（Charles Schwab）が、暗号資産（仮想通貨）の現物取引サービス「シュワブクリプト（Schwab Crypto [&#8230;]
 
-### スタークネット、プライバシー対応ビットコイン「strkBTC」公開。シールド送金に対応
-- URL: https://www.neweconomy.jp/posts/573120
-- 概要: STRK20活用し「プライベートBTC」展開 イーサリアム（Ethereum）向けレイヤー2「スタークネット（Starknet）」を開発するスタークウェア（StarkWare）が、プライバシー機能を備えたビットコイン連動 [&#8230;]
+### サークル、AIエージェント向けUSDC金融基盤「エージェント・スタック」公開
+- URL: https://www.neweconomy.jp/posts/573406
+- 概要: USDC活用のAIエージェント向けインフラ展開 米ドルステーブルコイン「USDC」などを発行するサークル（Circle）が、AIエージェント向け金融基盤「エージェント・スタック（Agent Stack）」の公開を5月12 [&#8230;]
 
-### MARA、15億ドル規模のビットコイン売却。AIデータセンターへ本格転換
-- URL: https://www.neweconomy.jp/posts/573104
-- 概要: インフラ企業への転換鮮明に ビットコイン（BTC）のマイニング事業を主軸とするマラ・ホールディングス（MARA Holdings）が、2026年第1四半期に約15億ドル（約2365億円）相当のビットコインを売却し、従来の [&#8230;]
+### 仏大手銀行ソシエテ、「USDCV」と「EURCV」をカントンネットワークに展開へ
+- URL: https://www.neweconomy.jp/posts/573396
+- 概要: ソシエテのUSDCVとEURCVがCanton展開へ 仏大手銀行ソシエテジェネラル（Societe Generale）が、米ドル建てステーブルコインとユーロ建てステーブルコインを、カントンネットワーク（Canton Ne [&#8230;]
 
-### インタートレードら、国産HWウォレットとFireblocks統合の資産管理基盤を商用化へ
-- URL: https://www.neweconomy.jp/posts/573083
-- 概要: AndGo WalletとFireblocks統合によるデジタル資産管理ソリューションの実証実験終了 インタートレードが、金融機関向けのデジタル資産管理ソリューションに関する実証実験を完了し、技術的な実現可能性を確認した [&#8230;]
+### メタプラネット、2026年Q1決算を発表。営業利益は282.5%増もBTC評価損で純損失1144億円
+- URL: https://www.neweconomy.jp/posts/573385
+- 概要: 優先株発行延期も 東証スタンダード上場のビットコイン財務戦略企業・メタプラネットが、2026年12月期第1四半期（1〜3月）の連結決算を5月13日に発表した。 同四半期の連結売上高は30億8,000万円（前年同期比251 [&#8230;]
 
-### クラーケン親会社ペイワードとフランクリン・テンプルトン提携、トークン化運用商品をオンチェーン展開へ
-- URL: https://www.neweconomy.jp/posts/573085
-- 概要: xStocksやBENJI活用で金融商品のオンチェーン化推進 暗号資産（仮想通貨）取引所クラーケン（Kraken）の親会社ペイワード（Payward）と資産運用大手フランクリン・テンプルトン（Franklin Templ [&#8230;]
+### JPモルガン、イーサリアム上で利用可能な「政府系トークン化MMF」の修正書をSECに提出
+- URL: https://www.neweconomy.jp/posts/573357
+- 概要: JPモルガンの政府系MMFがSECに修正書提出 米金融大手のJPモルガン・チェース（JPMorgan Chase）が、イーサリアム（Ethereum）上で利用可能な政府系トークン化MMFに関する登録届出書の修正書を米SE [&#8230;]
 
-### メタプラネットQ1決算発表、営業利益2.27倍も最終損失1144億円
-- URL: https://crypto-times.jp/news-metaplanet-q1-earnings-announcement/
-- 概要: 株式会社メタプラネットが発表した2026年12月期第1四半期（1〜3月）の連結決算では売上高と営業利益が大幅な増収増益となった一方、ビットコイン価格の下落に伴う会計上の評価損が膨らみました。 2026年12月期 第１四半 [&#8230;]
-投稿 メタプラネットQ1決算発表、営業利益2.27倍も最終損失1144億円 は CRYPTO TIMES に最初に表示されました。
+### レシートスキャンで「JPYC」配布、スシトップがソリューション開発
+- URL: https://www.neweconomy.jp/posts/573346
+- 概要: SUSHI TOPがレシートスキャンによるJPYC獲得ソリューション開発 NFTマーケティング支援のスシトップマーケティング（SUSHI TOP MARKETING：以下、スシトップ）が、レシートスキャンで日本円建てステ [&#8230;]
 
-### Anthropic、未承認の自社株トークン化に「無効」と警告｜関連トークンが45%急落
-- URL: https://crypto-times.jp/news-anthropic-warns-against-unauthorized-tokenization-of-company-stocks-deeming-it-invalid/
-- 概要: 生成AI「Claude」を開発するAnthropicは、取締役会の承認を受けていない自社株式の譲渡・販売はすべて「無効」であり株主名簿にも記載されないと警告しました。 Absolutely Insane: Anthrop [&#8230;]
-投稿 Anthropic、未承認の自社株トークン化に「無効」と警告｜関連トークンが45%急落 は CRYPTO TIMES に最初に表示されました。
+### 【今日の仮想通貨ニュース】メタプラネットが永久型優先株式を計画。トランプ訪中でBTCはどうなる？
+- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-14th/
+- 概要: 5月14日、ビットコイン（BTC）の価格は79,400ドル前後で推移しており、イーサリアム（ETH）は約2,250ドル、ソラナ（SOL）は約90ドルで取引されています。世界の暗号資産時価総額は2.73兆ドルで、ビットコイ [&#8230;]
+投稿 【今日の仮想通貨ニュース】メタプラネットが永久型優先株式を計画。トランプ訪中でBTCはどうなる？ は CRYPTO TIMES に最初に表示されました。
 
-### メタプラネット、新事業「Project Nova」で2028年の規制整備に備える
-- URL: https://crypto-times.jp/news-metaplanet-prepares-for-regulatory-reforms-in-2028-with-project-nova/
-- 概要: 株式会社メタプラネットは2026年Q1決算発表に合わせ、ビットコイン・トレジャリー戦略の中核に据える新たな事業構想「Project Nova」の詳細を公表しました。 同構想は日本の機関投資家向けビットコインプラットフォー [&#8230;]
-投稿 メタプラネット、新事業「Project Nova」で2028年の規制整備に備える は CRYPTO TIMES に最初に表示されました。
+### 機関投資家がリップル(XRP)を買い増す一方、先物ではショート優勢
+- URL: https://crypto-times.jp/news-institutional-investors-are-increasing-their-xrp-holdings-while-short-positions-are-dominant-in-futures/
+- 概要: リップル(XRP)が1.46ドル超で推移する中、現物市場と先物市場で異なる動きが見られています。米国の現物型XRP ETFは5月11日に2,580万ドルの純流入（1月初旬以来最大の日次流入額）を記録し、5月の累計流入額は [&#8230;]
+投稿 機関投資家がリップル(XRP)を買い増す一方、先物ではショート優勢 は CRYPTO TIMES に最初に表示されました。
 
-### 【今日の仮想通貨ニュース】メタプラ株がmNAV1割れ。ホルムズ危機でBTCに2つのシナリオ
-- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-13th/
-- 概要: 5月13日、ビットコイン（BTC）の価格は80,940ドル前後で推移しており、イーサリアム（ETH）は約2,300ドル、ソラナ（SOL）は約95ドルで取引されています。世界の暗号資産時価総額は3.39兆ドルで、ビットコイ [&#8230;]
-投稿 【今日の仮想通貨ニュース】メタプラ株がmNAV1割れ。ホルムズ危機でBTCに2つのシナリオ は CRYPTO TIMES に最初に表示されました。
+### JPモルガンがイーサリアムとソラナを役割分担、機関向けキャッシュ基盤を構築
+- URL: https://crypto-times.jp/news-jp-morgan-divides-roles-between-ethereum-and-solana/
+- 概要: 世界最大級の機関投資家向け資産運用会社JPモルガンがトークン化マネーマーケットファンド「JPMorgan OnChain Liquidity-Token Money Market Fund（ティッカー：JLTXX）」の目 [&#8230;]
+投稿 JPモルガンがイーサリアムとソラナを役割分担、機関向けキャッシュ基盤を構築 は CRYPTO TIMES に最初に表示されました。
 
-### JPYCの広報特命大使「JPYCちゃん」がXでデビュー｜ステーブルコインの普及促進へ
-- URL: https://crypto-times.jp/news-jpycs-public-relations-ambassador-makes-her-debut-on-x/
-- 概要: 日本円ステーブルコイン「JPYC」の広報特命大使を名乗るアカウント「JPYCちゃん」がXでの活動を開始しました。 はじめまして！JPYCちゃんです&#x2728; わたし、JPYCさんの広報を、任命頂きました！&#x1f [&#8230;]
-投稿 JPYCの広報特命大使「JPYCちゃん」がXでデビュー｜ステーブルコインの普及促進へ は CRYPTO TIMES に最初に表示されました。
+### メタプラネットCEOが語るビットコイン戦略とは｜BTC保有額5,140億円
+- URL: https://crypto-times.jp/news-what-is-metaplanets-ceos-bitcoin-strategy/
+- 概要: 日本の上場企業メタプラネットのサイモン・ゲロビッチCEOが、同社のビットコイン戦略と今後の展望についての見解を公表しました。 現在、半世紀ぶりに、「お金」の基盤構造そのものが再構築されつつあります。資本は、従来型の金融シ [&#8230;]
+投稿 メタプラネットCEOが語るビットコイン戦略とは｜BTC保有額5,140億円 は CRYPTO TIMES に最初に表示されました。
 
-### OpenAIのサイバーセキュリティ新戦略がDeFiに突きつける課題とは
-- URL: https://crypto-times.jp/news-what-challenges-does-openais-new-cybersecurity-strategy-pose-to-defi/
-- 概要: OpenAIはソフトウェアの脆弱性を攻撃者に悪用される前に発見・修正するサイバーセキュリティ施策「Daybreak」を発表。同社はこれを「設計段階からの堅牢化」と表現しており、AIによるコードレビュー、脅威モデリング、パ [&#8230;]
-投稿 OpenAIのサイバーセキュリティ新戦略がDeFiに突きつける課題とは は CRYPTO TIMES に最初に表示されました。
+### 国債利回りが歴史的な警戒水準、金融危機の懸念再燃でBTCが8万ドル割れ
+- URL: https://crypto-times.jp/news-renewed-concerns-about-a-financial-crisis-cause-bitcoin-to-fall-below-80000/
+- 概要: 世界各国の国債利回りが歴史的な警戒水準に近づき、2008年型の金融危機再来を懸念する声が高まっています。英国30年国債は1998年以来の高水準に到達。ドイツの10年国債も2011年のユーロ圏債務危機以来の高値圏にあり、日 [&#8230;]
+投稿 国債利回りが歴史的な警戒水準、金融危機の懸念再燃でBTCが8万ドル割れ は CRYPTO TIMES に最初に表示されました。
 
-### メタプラネット株がmNAV1割れ、割安水準に注目集まる
-- URL: https://crypto-times.jp/news-metaplanet-shares-fall-below-mnav1/
-- 概要: メタプラネットの株価が5月13日の取引終了時点で327円（前日比−13円、−3.82%）となりました。同社のビットコイン保有価値を基準とした市場評価指標「mNAV（市場価値純資産倍率）」は0.94倍と、1倍を下回った水準 [&#8230;]
-投稿 メタプラネット株がmNAV1割れ、割安水準に注目集まる は CRYPTO TIMES に最初に表示されました。
+### ビットコインのプライバシー強化が加速、ただし「仲介者」への信頼が前提
+- URL: https://crypto-times.jp/news-bitcoins-privacy-enhancements-are-accelerating/
+- 概要: レイヤー2プロトコルのStarknetがビットコインをBitcoin本体のブロックチェーン上にロックし、その担保としてERC-20トークン「strkBTC」を発行するサービスを開始しました。 Bitcoin is the [&#8230;]
+投稿 ビットコインのプライバシー強化が加速、ただし「仲介者」への信頼が前提 は CRYPTO TIMES に最初に表示されました。
 
-### 銀行バック型円ステーブルコイン「JPYSC」、数ヶ月以内にリリースか
-- URL: https://crypto-times.jp/news-jpysc-may-be-released-within-a-few-months/
-- 概要: Startale Group CEOの渡辺創太氏は自身のXでSBIグループと共同開発中の銀行バック型円ステーブルコイン「JPYSC」について、数ヶ月以内のリリースを目指していると明かしました。 We are going  [&#8230;]
-投稿 銀行バック型円ステーブルコイン「JPYSC」、数ヶ月以内にリリースか は CRYPTO TIMES に最初に表示されました。
+### 米PPI年率6%で2022年水準に並び、ビットコインが8万ドルを割り込む
+- URL: https://crypto-times.jp/news-with-the-us-ppi-at-an-annualized-rate-of-6-bitcoin-falls-below-80000/
+- 概要: 予想を大幅に上回る米国のインフレ指標を受け、ビットコインが8万ドルを割り込みました。4月の米卸売物価指数（PPI）は前月比1.4%上昇と市場予想の0.5%・前回値0.7%を大きく上回り、前年比では6.0%上昇と2022年 [&#8230;]
+投稿 米PPI年率6%で2022年水準に並び、ビットコインが8万ドルを割り込む は CRYPTO TIMES に最初に表示されました。
 
-### ホルムズ危機がビットコインに突きつける2つのシナリオ、スタグフレーションか政策緩和か
-- URL: https://crypto-times.jp/news-two-scenarios-the-holmes-crisis-presents-to-bitcoin/
-- 概要: ホルムズ海峡をめぐる地政学的混乱が単なる原油価格の問題を超えて各国の政策決定に影響を与え始めています。国際エネルギー機関（IEA）によると、2025年に1日約2,000万バレルが通過していた同海峡の原油・精製品輸出は、紛 [&#8230;]
-投稿 ホルムズ危機がビットコインに突きつける2つのシナリオ、スタグフレーションか政策緩和か は CRYPTO TIMES に最初に表示されました。
+### トランプ大統領の訪中がビットコイン8万ドルの鍵となるか
+- URL: https://crypto-times.jp/news-will-president-trumps-visit-to-china-be-the-key-to-bitcoin-reaching-80000/
+- 概要: トランプ大統領が習国家主席との会談のため北京を訪問し、仮想通貨市場はその動向を固唾をのんで見守っています。ビットコイン（BTC）は8万ドル直下での推移が続いており、2017年以来初となる米国大統領の訪中が世界のリスク資産 [&#8230;]
+投稿 トランプ大統領の訪中がビットコイン8万ドルの鍵となるか は CRYPTO TIMES に最初に表示されました。
 
-### 仮想通貨重要法案「CLARITY法」に100件超の修正案、7月4日までの成立に暗雲か
-- URL: https://crypto-times.jp/news-more-than-100-proposed-amendments-to-the-clarity-act-a-key-bill-concerning-cryptocurrencies/
-- 概要: 米国上院銀行委員会で審議中の仮想通貨市場構造法案「CLARITY Act」をめぐり、マークアップ（委員会採決）を前に100件を超える修正案が提出されたことが明らかになりました。 &#x1f6a8;NEW: Another [&#8230;]
-投稿 仮想通貨重要法案「CLARITY法」に100件超の修正案、7月4日までの成立に暗雲か は CRYPTO TIMES に最初に表示されました。
+### 仮想通貨クレカ「Triaカード」の登録方法・使い方【徹底解説】
+- URL: https://crypto-times.jp/how-to-use-tria/
+- 概要: この記事の要点 Triaは仮想通貨で最大8%還元のVisaカード 還元はステーブルコインで価値が減らない JPYC経由なら銀行振込だけで始められる Triaは仮想通貨を日常の買い物で使える最大6%（条件次第では8%までブ [&#8230;]
+投稿 仮想通貨クレカ「Triaカード」の登録方法・使い方【徹底解説】 は CRYPTO TIMES に最初に表示されました。
 
-### リップル(XRP)が1.50ドルのブレイクアウト圏を試験、鍵はビットコインの8万ドル維持
-- URL: https://crypto-times.jp/news-ripple-xrp-tests-breakout-range-of-1-50/
-- 概要: リップル(XRP)は1.50ドル近辺のブレイクアウトゾーンを試す動きを見せており、機関投資家からの資金流入、デリバティブ市場の活況、大口保有者による売り圧力の低下という3つの需要指標が改善しています。 CoinShare [&#8230;]
-投稿 リップル(XRP)が1.50ドルのブレイクアウト圏を試験、鍵はビットコインの8万ドル維持 は CRYPTO TIMES に最初に表示されました。
+### メタプラネット、日本初の永久型優先株式を計画｜月次配当も視野
+- URL: https://crypto-times.jp/news-taplanet-plans-japans-first-perpetual-preferred-stock-program/
+- 概要: メタプラネットのサイモン・ゲロビッチCEOは同社が計画する優先株式について「上場が実現した場合、日本市場で7例目かつ初の永久型（無期限）優先株式となる」と明らかにしました。 本邦市場における上場優先株式は依然として限定的 [&#8230;]
+投稿 メタプラネット、日本初の永久型優先株式を計画｜月次配当も視野 は CRYPTO TIMES に最初に表示されました。
 
-### 米上院「CLARITY法案」最終草案が公開、ステーブルコイン利回り規制とDeFi保護が焦点
-- URL: https://crypto-times.jp/news-the-final-draft-of-the-u-s-senates-clarity-act-has-been-released/
-- 概要: 米国上院銀行委員会は2026年5月12日、仮想通貨市場構造法案「CLARITY Act（クラリティ法）」の最終草案を公表しました。 同法案は5月14日に予定される委員会採決（マークアップ）に先立って公開されたもので、デジ [&#8230;]
-投稿 米上院「CLARITY法案」最終草案が公開、ステーブルコイン利回り規制とDeFi保護が焦点 は CRYPTO TIMES に最初に表示されました。
+### JPYC、自民党AIホワイトペーパー2.0に見解｜AIエージェント時代の日本円決済基盤
+- URL: https://crypto-times.jp/news-jpyc-comments-on-ldps-ai-white-paper-2-0/
+- 概要: 日本円ステーブルコイン「JPYC」を発行するJPYC株式会社は、自由民主党デジタル社会推進本部 AI・web3小委員会が公表した「AIホワイトペーパー2.0」に対する公式見解を発表しました。 https://t.co/q [&#8230;]
+投稿 JPYC、自民党AIホワイトペーパー2.0に見解｜AIエージェント時代の日本円決済基盤 は CRYPTO TIMES に最初に表示されました。
 
-### 最大6%の高還元クレカ「Tria」、225万ドルをキャッシュバック
-- URL: https://crypto-times.jp/news-tria-is-giving-away-2-25-million-in-cashback/
-- 概要: Web3ウォレット・決済プラットフォームのTriaは、2026年1月31日までの利用実績を対象とした225万USDT（米ドル連動ステーブルコイン）のキャッシュバック配布を開始しました。対象ユーザーはTriaアプリ内で20 [&#8230;]
-投稿 最大6%の高還元クレカ「Tria」、225万ドルをキャッシュバック は CRYPTO TIMES に最初に表示されました。
+### メタプラネット、Q1でビットコイン保有が4万枚超え｜世界3位の上場企業へ
+- URL: https://crypto-times.jp/news-metaplanet-holds-over-40000-bitcoins-in-q1/
+- 概要: 株式会社メタプラネットは2026年12月期第1四半期（1〜3月）の決算を発表。同社の仮想通貨ビットコイン保有数量は2026年3月31日時点で40,177BTCに達し、Strategyの818,869BTC、Twenty  [&#8230;]
+投稿 メタプラネット、Q1でビットコイン保有が4万枚超え｜世界3位の上場企業へ は CRYPTO TIMES に最初に表示されました。
 
-### 「米国のイラン敗北は濃厚」ワシントン知識人の警告とビットコインへの影響
-- URL: https://crypto-times.jp/news-warnings-from-washington-intellectuals-and-their-impact-on-bitcoin/
-- 概要: 米国の外交政策論壇の重鎮であるロバート・ケーガン氏がThe Atlantic誌に寄稿し、米国はイランに対して戦略的敗北を喫した公算が高いと論じたことが市場関係者の間で注目を集めています。 There’s no overs [&#8230;]
-投稿 「米国のイラン敗北は濃厚」ワシントン知識人の警告とビットコインへの影響 は CRYPTO TIMES に最初に表示されました。
+### ガイアックス、JPYCを活用した決済代行不要のEC・フリマ構築サービスを開始
+- URL: https://crypto-times.jp/news-gaiax-launches-e-commerce-and-flea-market-building-service-utilizing-jpyc/
+- 概要: 株式会社ガイアックスは事業者向けの「ステーブルコイン決済導入支援サービス」を提供開始しました。同サービスは日本円ステーブルコイン「JPYC」を活用して、ECサイトやフリマアプリにおける決済を従来の決済代行業者を介さずに実 [&#8230;]
+投稿 ガイアックス、JPYCを活用した決済代行不要のEC・フリマ構築サービスを開始 は CRYPTO TIMES に最初に表示されました。
 
-### USDC発行元Circle社、仮想通貨ARCのプレセールで2.2億円調達｜Coinbaseとの競合が現実味
-- URL: https://crypto-times.jp/news-circle-inc-raises-220-million-yen-in-presale-of-cryptocurrency-arc/
-- 概要: ドル連動ステーブルコインUSDCを発行するCircle社は、機関投資家向けパブリックブロックチェーン「Arc」のネイティブトークン「ARC」のプレセールを実施し2億2,200万ドルを調達したと発表しました。 a16z C [&#8230;]
-投稿 USDC発行元Circle社、仮想通貨ARCのプレセールで2.2億円調達｜Coinbaseとの競合が現実味 は CRYPTO TIMES に最初に表示さ
-
-### CoincheckとKDDIが業務提携、au経済圏で仮想通貨アクセスを拡大
-- URL: https://crypto-times.jp/news-coincheck-and-kddi-form-a-business-alliance/
-- 概要: コインチェック株式会社は5月12日、KDDI株式会社との業務提携契約の締結を発表しました。同時にKDDI・auフィナンシャルホールディングス株式会社・コインチェックの3社共同で、ノンカストディアル（非管理型）ウォレット事 [&#8230;]
-投稿 CoincheckとKDDIが業務提携、au経済圏で仮想通貨アクセスを拡大 は CRYPTO TIMES に最初に表示されました。
-
-### Ostiumの次なるステージ：世界最大級の流動性市場へのゲートウェイ
-- URL: https://crypto-times.jp/press-ostium/
-- 概要: Press Released Article ※本記事はプレスリリース記事となります。サービスのご利用、お問い合わせは直接ご提供元にご連絡ください。 今回のローンチは、Ostium史上最大のプロトコルアップグレードであり [&#8230;]
-投稿 Ostiumの次なるステージ：世界最大級の流動性市場へのゲートウェイ は CRYPTO TIMES に最初に表示されました。
-
-### KrakenのxStocksが年初来1000%成長、米国株トークン化が実需へ
-- URL: https://crypto-times.jp/news-krakens-xstocks-has-grown-1000-year-to-date/
-- 概要: 仮想通貨取引所Krakenが運営するトークン化株式プラットフォーム「xStocks」の取扱価値が、2026年初来で1,000%超の成長を記録したことが明らかになりました。これはは株式トークン化が「概念実証」から「実需フェ [&#8230;]
-投稿 KrakenのxStocksが年初来1000%成長、米国株トークン化が実需へ は CRYPTO TIMES に最初に表示されました。
-
-### 【今日の仮想通貨ニュース】BTCが2026年最大のマクロ試練へ。BTCの3つの構造的弱点とは
-- URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-12th/
-- 概要: 5月12日、ビットコイン（BTC）の価格は81,230ドル前後で推移しており、イーサリアム（ETH）は約2,310ドル、ソラナ（SOL）は約96ドルで取引されています。世界の暗号資産時価総額は2.79兆ドルで、ビットコイ [&#8230;]
-投稿 【今日の仮想通貨ニュース】BTCが2026年最大のマクロ試練へ。BTCの3つの構造的弱点とは は CRYPTO TIMES に最初に表示されました。
-
-### 予測市場Kalshiが10億ドル調達、評価額220億ドルでPolymarketと覇権争い
-- URL: https://crypto-times.jp/news-prediction-marketplace-kalshi-raises-1-billion-2/
-- 概要: 予測市場プラットフォーム大手Kalshiが10億ドルの資金調達を完了しました。予測市場セクターでの調達額として歴史的な規模であり、Polymarketとの覇権争いが新たなステージに入る転換点となります。 JUST IN: [&#8230;]
-投稿 予測市場Kalshiが10億ドル調達、評価額220億ドルでPolymarketと覇権争い は CRYPTO TIMES に最初に表示されました。
+### JPYCが偽物トークンへの注意喚起、名前・ロゴで判断せず「コントラクト」の確認を
+- URL: https://crypto-times.jp/news-jpyc-issues-warning-about-counterfeit-tokens/
+- 概要: 日本円ステーブルコイン「JPYC」を発行するJPYC株式会社は偽JPYC・類似トークンへの注意喚起を発信しました。ウォレットやDEX（分散型取引所）で「JPYC」と検索した際、名称・ロゴ・シンボルが本物と酷似したトークン [&#8230;]
+投稿 JPYCが偽物トークンへの注意喚起、名前・ロゴで判断せず「コントラクト」の確認を は CRYPTO TIMES に最初に表示されました。
 
 ---
-合計: 30 件
+合計: 24 件
