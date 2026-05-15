@@ -1,48 +1,88 @@
-# ブロックチェーンRSS収集 2026-05-15
+# ブロックチェーンRSS収集 2026-05-16
 
-収集日時: 2026-05-15 07:11 JST
+収集日時: 2026-05-16 06:59 JST
 
 ---
 
-### 【5/14話題】クラリティ法案審議前に100件超の修正案、メタプラネットの2026年Q1決算、ビットワイズがJupiter Lend起用など（音声ニュース）
-- URL: https://www.neweconomy.jp/posts/573606
+### 【5/15話題】米上院銀行委員会が「CLARITY法」可決、イングランド銀行がステーブルコイン規制案を再考へなど（音声ニュース）
+- URL: https://www.neweconomy.jp/posts/573741
 - 概要: Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif [&#8230;]
 
-### DTCC、チェーンリンク活用で24時間365日の担保管理基盤構築へ
-- URL: https://www.neweconomy.jp/posts/573447
-- 概要: DTCCのコラテラル・アップチェーンにチェーンリンク統合 米証券市場の決済・保管インフラを担うDTCCが、同社の担保管理基盤「コラテラル・アップチェーン（Collateral AppChain）」にチェーンリンク（Cha [&#8230;]
+### アンソロピックのAI「Claude」、11年休眠の約5BTCウォレット復旧支援か
+- URL: https://www.neweconomy.jp/posts/573734
+- 概要: Claude活用で長期休眠ビットコインウォレット復旧との投稿 暗号資産（仮想通貨）投資家のCprkrn氏が、アンソロピック（Anthropic）のAI「クロード（Claude）」を活用し、2015年以来約11年間アクセス [&#8230;]
 
-### ステラ開発財団、英領バミューダ政府のオンチェーン経済化計画を支援へ
-- URL: https://www.neweconomy.jp/posts/573440
-- 概要: Stellar開発財団がバミューダ政府を支援へ ステラ（Stellar）ブロックチェーン支援の非営利組織ステラ開発財団（Stellar Development Foundation：SDF）が、英領バミューダ政府とともに [&#8230;]
+### GMOコイン、「外国為替FX」に7通貨ペア追加へ
+- URL: https://www.neweconomy.jp/posts/573726
+- 概要: GMOコインの外国為替FXに7通貨ペア追加へ 国内暗号資産（仮想通貨）取引所GMOコイン提供の「外国為替FX（外国為替証拠金取引）」において、新たに7通貨ペアが取り扱われる予定だと5月15日に発表された。取扱い開始は5月 [&#8230;]
 
-### 日本初、三井物産デジタルAMが底地をデジタル証券化。イオン大宮店の土地に10万円から投資可能に
-- URL: https://www.neweconomy.jp/posts/573432
-- 概要: 日本初の底地のデジタル証券化 三井物産デジタル・アセットマネジメントが、底地をデジタル証券化した「三井物産グループのデジタル証券～イオン大宮～（譲渡制限付）」の公開および募集開始を5月14日に発表した。底地のデジタル証券 [&#8230;]
+### コインベース、ハイパーリキッドUSDC展開の中核役割担う。公式トレジャリーデプロイヤーに
+- URL: https://www.neweconomy.jp/posts/573719
+- 概要: ハイパーリキッドUSDC展開強化、USDHは段階終了へ 米コインベース（Coinbase）が、分散型デリバティブ取引基盤「ハイパーリキッド（Hyperliquid）」におけるUSDCの公式「トレジャリーデプロイヤー」にな [&#8230;]
 
-### チャールズシュワブ、ビットコインとイーサリアムの現物取引を提供開始。米国の一部個人顧客向けに
-- URL: https://www.neweconomy.jp/posts/573417
-- 概要: Charles Schwabが暗号資産取引サービス提供開始 米大手金融サービス企業チャールズシュワブ（Charles Schwab）が、暗号資産（仮想通貨）の現物取引サービス「シュワブクリプト（Schwab Crypto [&#8230;]
+### CMEグループ、「時価総額上位の暗号資産バスケット先物契約」上場へ
+- URL: https://www.neweconomy.jp/posts/573698
+- 概要: Nasdaq CME Crypto Index futures取引開始へ 金融・商品デリバティブ取引所運営の米CMEグループ（CME Group）が、時価総額上位の暗号資産（仮想通貨）で構成されるバスケット連動先物商品の [&#8230;]
 
-### サークル、AIエージェント向けUSDC金融基盤「エージェント・スタック」公開
-- URL: https://www.neweconomy.jp/posts/573406
-- 概要: USDC活用のAIエージェント向けインフラ展開 米ドルステーブルコイン「USDC」などを発行するサークル（Circle）が、AIエージェント向け金融基盤「エージェント・スタック（Agent Stack）」の公開を5月12 [&#8230;]
+### CLARITY法案の進捗と暗号資産市場の展望レポート
+- URL: https://www.neweconomy.jp/features/sbivct/573672
+- 概要: 米上院銀行委員会が可決した「CLARITY法案」の進捗と暗号資産市場の展望レポート 米上院銀行委員会が、暗号資産業界を連邦レベルで包括的に規制する暗号資産市場構造法案「クラリティ法案（CLARITY Act）」を米国時間 [&#8230;]
 
-### 仏大手銀行ソシエテ、「USDCV」と「EURCV」をカントンネットワークに展開へ
-- URL: https://www.neweconomy.jp/posts/573396
-- 概要: ソシエテのUSDCVとEURCVがCanton展開へ 仏大手銀行ソシエテジェネラル（Societe Generale）が、米ドル建てステーブルコインとユーロ建てステーブルコインを、カントンネットワーク（Canton Ne [&#8230;]
+### ビットワイズの「ハイパーリキッド（HYPE）」現物ETF、NYSEアーカで5/15取引開始へ
+- URL: https://www.neweconomy.jp/posts/573673
+- 概要: Bitwise Hyperliquid ETF上場へ 暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が組成した、ハイパーリキッド（Hyperliquid）のネイティブトークンHYPEに連動するステーキング対応 [&#8230;]
 
-### メタプラネット、2026年Q1決算を発表。営業利益は282.5%増もBTC評価損で純損失1144億円
-- URL: https://www.neweconomy.jp/posts/573385
-- 概要: 優先株発行延期も 東証スタンダード上場のビットコイン財務戦略企業・メタプラネットが、2026年12月期第1四半期（1〜3月）の連結決算を5月13日に発表した。 同四半期の連結売上高は30億8,000万円（前年同期比251 [&#8230;]
+### イングランド銀行、ステーブルコイン規制案を再考へ＝報道
+- URL: https://www.neweconomy.jp/posts/573661
+- 概要: 業界圧力受け見直し検討 イングランド銀行（BoE）が、ステーブルコインに関する規制案の見直しを検討しているようだ。「英フィナンシャル・タイムズ（FT）」をはじめ各社が5月14日に報じている。 BoEのサラ・ブリードン（S [&#8230;]
 
-### JPモルガン、イーサリアム上で利用可能な「政府系トークン化MMF」の修正書をSECに提出
-- URL: https://www.neweconomy.jp/posts/573357
-- 概要: JPモルガンの政府系MMFがSECに修正書提出 米金融大手のJPモルガン・チェース（JPMorgan Chase）が、イーサリアム（Ethereum）上で利用可能な政府系トークン化MMFに関する登録届出書の修正書を米SE [&#8230;]
+### 米CFTC、予測市場向けイベント契約の報告義務巡りノーアクション発出
+- URL: https://www.neweconomy.jp/posts/573653
+- 概要: 予測市場向けイベント契約の報告義務巡りノーアクション 米商品先物取引委員会（CFTC）の市場監督部門および清算・リスク部門が、予測市場で利用される「イベント契約」に関する報告及び記録規則について、一部のスワップデータ報告 [&#8230;]
 
-### レシートスキャンで「JPYC」配布、スシトップがソリューション開発
-- URL: https://www.neweconomy.jp/posts/573346
-- 概要: SUSHI TOPがレシートスキャンによるJPYC獲得ソリューション開発 NFTマーケティング支援のスシトップマーケティング（SUSHI TOP MARKETING：以下、スシトップ）が、レシートスキャンで日本円建てステ [&#8230;]
+### フィデリティ、機関投資家向けトークン化流動性ファンド「FILQ」開始。ムーディーズはMMFの最高評価
+- URL: https://www.neweconomy.jp/posts/573639
+- 概要: ムーディーズは「FILQ」にMMF最高水準「Aaa-mf」付与 資産運用会社フィデリティ・インターナショナル（Fidelity International）が、機関投資家およびプロ投資家向けトークン化流動性ファンド「フィ [&#8230;]
+
+### BTCの「下値が硬い」理由、政府・大学・企業の機関買いが支えか
+- URL: https://crypto-times.jp/news-arkham-is-btc-still-a-risk-asset-three-structural-shifts/
+- 概要: ビットコイン（BTC）は直近で8万ドル台を割り込んでも短時間で買い戻される動きが続いており、ボラティリティの高さに対して下値が硬い状態が観測されています。 オンチェーン分析企業Arkhamは、この需給構造を「市場の成熟」 [&#8230;]
+投稿 BTCの「下値が硬い」理由、政府・大学・企業の機関買いが支えか は CRYPTO TIMES に最初に表示されました。
+
+### 米仮想通貨業界の歴史的転換、CLARITY法で何が変わるのか
+- URL: https://crypto-times.jp/news-a16z-clarity-act-once-in-a-generation-shift-securities-act-1933/
+- 概要: 米国の仮想通貨業界に長年欠けていた「包括的な法律」がようやく現実味を帯びてきました。5月14日に上院銀行委員会で可決された「CLARITY法」はデジタル資産の取り扱いを定める米国初の本格的な枠組みとして注目を集めています [&#8230;]
+投稿 米仮想通貨業界の歴史的転換、CLARITY法で何が変わるのか は CRYPTO TIMES に最初に表示されました。
+
+### OKJ、5月19日に「AI×Web3」テーマのアカデミーを東京で開催
+- URL: https://crypto-times.jp/news-okj-academy/
+- 概要: 国内大手暗号資産取引所オーケーコイン・ジャパン（OKJ）は2026年5月19日（火）に東京・港区立産業振興センター小ホールにてAIとWeb3をテーマとした初心者・学生向けの勉強会イベント「OKJアカデミー」を開催します。 [&#8230;]
+投稿 OKJ、5月19日に「AI×Web3」テーマのアカデミーを東京で開催 は CRYPTO TIMES に最初に表示されました。
+
+### 仮想通貨HYPEが17%急騰、ステーブルコイン利回り還元へ
+- URL: https://crypto-times.jp/news-hyperliquid-aqav2-coinbase-circle-usdc-hype-buyback-17pct/
+- 概要: 分散型取引所Hyperliquidのネイティブトークン「HYPE」が直近24時間で約17%急騰しました。引き金となったのが同プロトコルが発表した新たな国庫管理プロトコル「AQAv2」で、Coinbaseが国庫展開者（tr [&#8230;]
+投稿 仮想通貨HYPEが17%急騰、ステーブルコイン利回り還元へ は CRYPTO TIMES に最初に表示されました。
+
+### トランプ家の仮想通貨関連株保有、情報開示で詳細明らかに
+- URL: https://crypto-times.jp/news-trump-mara-purchase-oge-disclosure-family-trust-crypto-stocks/
+- 概要: 米政府倫理局（OGE）が公表した財務開示文書によってドナルド・トランプ大統領が2026年第1四半期（1〜3月）にビットコインマイナー大手のMARAホールディングス株を購入していたことが明らかになりました。同時期にはトラン [&#8230;]
+投稿 トランプ家の仮想通貨関連株保有、情報開示で詳細明らかに は CRYPTO TIMES に最初に表示されました。
+
+### 世界最大のBTC保有企業、週20億ドル調達
+- URL: https://crypto-times.jp/news-strategy-strc-2b-weekly-strive-sata-daily-dividend/
+- 概要: ビットコイン（BTC）財務戦略最大手のストラテジー（旧マイクロストラテジー）は永続優先株「STRC」のATM（市場直接発行）で1週間に20億ドル超を調達し、新興のストライブ（$ASST）は優先株「SATA」を米国上場証券 [&#8230;]
+投稿 世界最大のBTC保有企業、週20億ドル調達 は CRYPTO TIMES に最初に表示されました。
+
+### CME、BTCやXRPら構成の仮想通貨先物を6月ローンチ
+- URL: https://crypto-times.jp/news-cme-launches-first-market-cap-weighted-crypto-index-futures-june-8/
+- 概要: シカゴ・マーカンタイル取引所（CMEグループ）は同社初となる時価総額加重型のクリプト指数先物「Nasdaq CMEクリプト指数先物」を6月8日に上場すると発表しました。規制当局の最終承認を条件としており、ビットコイン（B [&#8230;]
+投稿 CME、BTCやXRPら構成の仮想通貨先物を6月ローンチ は CRYPTO TIMES に最初に表示されました。
+
+### 米仮想通貨法案CLARITY、上院委を通過｜本会議へ
+- URL: https://crypto-times.jp/news-clarity-act-passes-senate-banking-committee-15-9/
+- 概要: 米国上院銀行委員会は仮想通貨市場構造法案「クラリティ法（CLARITY Act）」を15対9の超党派賛成で可決し、本会議採決へ前進させました。民主党からはルーベン・ガレゴ氏とアンジェラ・アルソブルックス氏の2議員が賛成に [&#8230;]
+投稿 米仮想通貨法案CLARITY、上院委を通過｜本会議へ は CRYPTO TIMES に最初に表示されました。
 
 ### 【今日の仮想通貨ニュース】メタプラネットが永久型優先株式を計画。トランプ訪中でBTCはどうなる？
 - URL: https://crypto-times.jp/news-todays-cryptocurrency-news-for-may-14th/
@@ -104,15 +144,5 @@
 - 概要: 株式会社メタプラネットは2026年12月期第1四半期（1〜3月）の決算を発表。同社の仮想通貨ビットコイン保有数量は2026年3月31日時点で40,177BTCに達し、Strategyの818,869BTC、Twenty  [&#8230;]
 投稿 メタプラネット、Q1でビットコイン保有が4万枚超え｜世界3位の上場企業へ は CRYPTO TIMES に最初に表示されました。
 
-### ガイアックス、JPYCを活用した決済代行不要のEC・フリマ構築サービスを開始
-- URL: https://crypto-times.jp/news-gaiax-launches-e-commerce-and-flea-market-building-service-utilizing-jpyc/
-- 概要: 株式会社ガイアックスは事業者向けの「ステーブルコイン決済導入支援サービス」を提供開始しました。同サービスは日本円ステーブルコイン「JPYC」を活用して、ECサイトやフリマアプリにおける決済を従来の決済代行業者を介さずに実 [&#8230;]
-投稿 ガイアックス、JPYCを活用した決済代行不要のEC・フリマ構築サービスを開始 は CRYPTO TIMES に最初に表示されました。
-
-### JPYCが偽物トークンへの注意喚起、名前・ロゴで判断せず「コントラクト」の確認を
-- URL: https://crypto-times.jp/news-jpyc-issues-warning-about-counterfeit-tokens/
-- 概要: 日本円ステーブルコイン「JPYC」を発行するJPYC株式会社は偽JPYC・類似トークンへの注意喚起を発信しました。ウォレットやDEX（分散型取引所）で「JPYC」と検索した際、名称・ロゴ・シンボルが本物と酷似したトークン [&#8230;]
-投稿 JPYCが偽物トークンへの注意喚起、名前・ロゴで判断せず「コントラクト」の確認を は CRYPTO TIMES に最初に表示されました。
-
 ---
-合計: 24 件
+合計: 30 件
